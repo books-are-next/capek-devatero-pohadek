@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="0acd2fae-7580-4627-8ba5-c8964e91f5ac" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Devatero pohádek</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Velká kočičí pohádka</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_006.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>1. Kterak král kočku kupoval</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_006.html#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>2. Co všechno kočka dovede</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>3. Jak detektývové kouzelníka honili</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_012.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>4. Kterak slavný Sidney Hall kouzelníka chytil</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>5. Jak kouzelník ve vězení seděl</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>6. Pohádky konec</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_021.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Pohádka psí</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Pohádka ptačí</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>První loupežnická pohádka</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_040.html"/>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>O tlustém pradědečkovi a loupežnících</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_040.html#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Pohádka vodnická</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_043.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Druhá loupežnická pohádka</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_054.html"/>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Pohádka o zdvořilém loupežníkovi</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_054.html#sigil_toc_id_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Pohádka tulácká</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_063.html"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Král František</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_063.html#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Velká policejní pohádka</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_076.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Pohádka pošťácká</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_101.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Velká pohádka doktorská</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_124.html"/>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>O princezně solimánské</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_127.html"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Případ s hejkalem</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_130.html"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Případ s havlovickým vodníkem</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_133.html"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Případ s rusalkami</text>
+        </navLabel>
+        <content src="Text/devatero_pohadek_136.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_139.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Život a doba spisovatele Karla Čapka v datech</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_140.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>První vydání knih Karla Čapka</text>
+      </navLabel>
+      <content src="Text/devatero_pohadek_141.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
