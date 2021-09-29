@@ -1,0 +1,27 @@
+---
+title: ''
+---
+
+‚Kryndapána,‘ řekl kolega Pour, ‚co s tím tady budeme dělat? To abych zatelefonoval pro antouška, aby to zvíře odklidil?‘
+
+‚Víš, Poure,‘ povídám mu já, ‚taková saň je dost vzácné zvíře; já myslím, že bychom měli dát do novin inzerát, aby se její majitel přihlásil.‘
+
+‚No dobrá,‘ řekl Pour, ‚ale čím ji zatím budeme krmit? Zkusím to s mlíkem a nadrobenou houstičkou; každému mláděti je mlíčko nejzdravější.‘
+
+Tak jí nadrobil sedm žemlí do sedmi litrů mléka; a to jste měli vidět, jak se to dráče do toho hladově pustilo; jedna hlava odstrkovala u misky druhou a všecky ty hlavy na sebe vrčely a chlemtaly mlíčko, až pobryndaly celou kancelář; potom se jedna hlava po druhé olízla a uložila se k spánku. Pak kolega Pour zamkl tu saň ve své kanceláři, kde byly uloženy všechny ztracené a nalezené věci z celé Prahy, a dal do všech novin tenhle inzerát:
+
+_Štěně dračí_,
+
+čerstvě vylíhlé z vejce, bylo nalezeno ve Vojtěšské ulici. Totéž je sedmihlavé, žluté a černě žíhané. Jeho majitel ať se přihlásí na policejním ředitelství, oddělení ztrát a nálezů.
+
+Když ráno kolega Pour přišel do své kanceláře, neřekl nic víc nežli: ‚Safra zatrápeně zatrachtile propánakrále kristovanoho panenanebi saknaryby rányboží uvšechvšudy učerchmana ustahromů propětran kakraholte a namouduchu, abych neklel!‘ Ona vám ta saň přes noc sežrala všechny věci, které kdo v Praze ztratil nebo našel, tedy prsteny a hodinky, peněženky, taštičky a notesy, míče a tužky, penály a držátka a školní knihy a kuličky k hraní a knoflíky a rysovadla a rukavice a ještě k tomu všechna úřední lejstra, akta, protokoly a listiny, zkrátka všechno, co v Pourově kanceláři bylo, dokonce i Pourovu fajfku, lopatku na uhlí a pravítko, kterým Pour linýroval lejstra; ta saň toho snědla tolik, že byla už jednou tak velká a některým jejím hlavám bylo špatně.
+
+‚Teda tohle nepůjde,‘ povídal kolega Pour, ‚já si to zvíře tady nechat nemůžu.‘ A zatelefonoval Spolku pro ochranu zvířat, aby svrchupsaný vážený Spolek tomu dračímu mláděti poskytl útulek, jako to dělává pro zaběhlé pejsky a kočičky. ‚Pročpak ne,‘ řekl Spolek a vzal to dráče do svého útulku. ‚Ale to bych rád věděl,‘ řekl potom ten Spolek, ‚čím se vlastně taková saň živí. V přírodopise o tom nic není.‘ Tak to zkusili a krmili toho draka mlíčkem, párky, salámem, vajíčky, mrkví, kašičkou, čokoládou, husí krví, hrachem, senem, polívkou, zrním, extravuřtem, rajčaty, rýží, houskami, cukrem, bramborem a křížalami; to dráče to sluplo všechno a ještě jim sežralo knihy, noviny, obrazy, kliky na dveřích a vůbec všechno, co tam měli; a rostlo tak, že už bylo větší než bernardýn.
+
+Ale zatím došel na ten Spolek telegram až z Bukurešti, ve kterém bylo psáno černokněžnickým písmem:
+
+TO DRAČÍ ŠTĚNĚ JE ZAKLETÝ ČLOVĚK. BLIŽŠÍ ÚSTNĚ. PŘIJEDU BĚHEM TŘÍ SET LET NA WILSONOVO NÁDRAŽÍ. KOUZELNÍK BOSKO.
+
+Tu se ten Spolek pro ochranu zvířat podrbal za ušima a řekl: ‚Ouha, když ta saň je zakletý člověk, tedy je to lidská osoba, a my ji nemůžeme chovat v ochraně zvířat. To ji musíme poslat do nalezince nebo do sirotčince.‘ Ale ty nalezince a sirotčince zase řekly: ‚Ouha, když je ten člověk zaklet do zvířete, tak už to není člověk, ale zvíře, protože je zaklet do zvířete. Ergo zakletý člověk nepatří do referátu nám, ale ochraně zvířat.‘ A protože se nemohli dohodnout o tom, je-li člověk zakletý do zvířete víc člověk, nebo víc zvíře, nechtěli tu saň chovat ti jedni, ani ti druzí a chudák saň nevěděla, čí vlastně je; to ji tak mrzelo, že přestala žrát, hlavně její třetí, pátá a sedmá hlava. On byl v tom Spolku jeden malý a tenký človíček, nepatrný a skromný jako prázdný lusk, jmenoval se nějak od N: Nováček nebo Nerad nebo Nohejl – nebo ne, pan Trutina se jmenoval; a když ten pan Trutina viděl, jak té sani zármutkem vadne jedna hlava po druhé, řekl tomu Spolku: ‚Pánové, ať už je to člověk, nebo zvíře, já bych si tu saň vzal domů a staral bych se o ni jaksepatří.‘ Tu všichni řekli: ‚No tak sláva,‘ a pan Trutina si tu saň odvedl k sobě domů.
+
+To teda se musí říct, staral se o ni, jak náleží: krmil ji a česal ji a hladil ji – on ten pan Trutina měl moc rád zvířata; a každý večer, když přišel z práce domů, ji vyváděl na procházku, aby se trochu vyběhala; a ona skákala za ním jako pejsek a vrtěla ocasem a slyšela na jméno Amina. Jednou večer je potkal pan pohodný a povídá: ‚Halt, pane Trutina, co to mají za zvíře? Je-li to nějaký dravec nebo šelma čili zvíře divoké, tak je nesmíte vodit po ulicích; ale je-li to pejsek, tak mu musíte koupit psí známku a pověsit mu ji na krk.‘ ‚To je takový vzácný druh pejska,‘ řekl pan Trutina, ‚takzvaný pinč drakatý neboli chrt saňový čili pes sedmihlavý, viď, Amino? Bez starosti, pane drnomistr, já jí tu psí známku koupím.‘ A koupil jí psí známku, třebaže chudák musil za ni dát poslední kačku, co měl. A zas je potkal pan pohodný a řekl: ‚Pane Trutina, takhle to nepůjde; když ten váš pejsek má sedm hlav, musí mít psí známku na každém krku, protože je předpis, že každý pes má mít na krku psí známku.‘ ‚Ale, pane drnomistr,‘ bránil se pan Trutina, ‚vždyť Amina má na prostředním krku psí známku!‘ ‚To je jedna,‘ řekl pan pohodný, ‚ale ostatních šest hlav běhá beze známky na krku a to já nemůžu trpět. Já vám to vaše psisko musím zabavit.‘ ‚Prosím vás, pane drnomistr,‘ řekl pan Trutina, ‚počkejte s tím ještě tři dny, já Amině ty známky koupím.‘ A šel domů celý nešťastný, protože už neměl na penězích ani šesták.
