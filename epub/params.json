@@ -19,10 +19,10 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "",
-      "brAfter": "",
-      "blockquote": "",
+      "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radkub ",
+      "blockquote": "mlpverse mlpdopisbez1radku ",
       "figure": "",
-      "em": "",
+      "em": "mlpznakkurziva11b mlpdopispodpisi ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -122,7 +122,7 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "2.\nCo všechno kočka dovede",
+            "title": "2. Co všechno kočka dovede",
             "subtitle": "",
             "children": [
               {
@@ -156,7 +156,7 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "3.\nJak detektývové kouzelníka honili",
+            "title": "3. Jak detektývové kouzelníka honili",
             "subtitle": "",
             "children": [
               {
@@ -190,7 +190,7 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "4.\nKterak slavný Sidney Hall kouzelníka chytil",
+            "title": "4.Kterak slavný Sidney Hall kouzelníka chytil",
             "subtitle": "",
             "children": [
               {
@@ -224,7 +224,7 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "5.\nJak kouzelník ve vězení seděl",
+            "title": "5. Jak kouzelník ve vězení seděl",
             "subtitle": "",
             "children": [
               {
@@ -258,7 +258,7 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "6.\nPohádky konec",
+            "title": "6. Pohádky konec",
             "subtitle": "",
             "children": [
               {
@@ -294,7 +294,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Pohádka\npsí",
+        "title": "Pohádka psí",
         "subtitle": "",
         "children": [
           {
@@ -372,7 +372,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Pohádka\nptačí",
+        "title": "Pohádka ptačí",
         "subtitle": "",
         "children": [
           {
@@ -472,7 +472,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "První\nloupežnická pohádka",
+        "title": "První loupežnická pohádka",
         "subtitle": "",
         "children": [
           {
@@ -506,7 +506,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Pohádka\nvodnická",
+        "title": "Pohádka vodnická",
         "subtitle": "",
         "children": [
           {
@@ -628,7 +628,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Druhá\nloupežnická pohádka",
+        "title": "Druhá loupežnická pohádka",
         "subtitle": "",
         "children": [
           {
@@ -728,7 +728,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Pohádka\ntulácká",
+        "title": "Pohádka tulácká",
         "subtitle": "",
         "children": [
           {
@@ -872,7 +872,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Velká\npolicejní pohádka",
+        "title": "Velká policejní pohádka",
         "subtitle": "",
         "children": [
           {
@@ -1148,7 +1148,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Pohádka\npošťácká",
+        "title": "Pohádka pošťácká",
         "subtitle": "",
         "children": [
           {
@@ -1402,7 +1402,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Velká\npohádka doktorská",
+        "title": "Velká pohádka doktorská",
         "subtitle": "",
         "children": [
           {
@@ -1502,7 +1502,7 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "title": "Případ s havlovickým\nvodníkem",
+            "title": "Případ s havlovickým vodníkem",
             "subtitle": "",
             "children": [
               {
@@ -1583,7 +1583,7 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "title": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "title": "Život a doba spisovatele Karla Čapka v datech",
         "subtitle": "",
         "children": []
       },
@@ -1617,7 +1617,7 @@
       "identifier": "0acd2fae-7580-4627-8ba5-c8964e91f5ac",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-29T14:12:46.990Z"
+      "modified": "2021-09-29T15:18:01.746Z"
     },
     "chapters": [
       {
@@ -2786,6 +2786,6 @@
       "user": "books-are-next",
       "repo": "capek-devatero-pohadek"
     },
-    "generatedAt": 1632924767985
+    "generatedAt": 1632928682753
   }
 }
