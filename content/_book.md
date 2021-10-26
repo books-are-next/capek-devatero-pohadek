@@ -157,88 +157,60 @@ tocBase:
     title: Velká kočičí pohádka
     children:
       - link: devatero_pohadek_009.html
-        title: |-
-          2.
-          Co všechno kočka dovede
+        title: 2. Co všechno kočka dovede
         children: []
         numberedChildren: false
       - link: devatero_pohadek_012.html
-        title: |-
-          3.
-          Jak detektývové kouzelníka honili
+        title: 3. Jak detektývové kouzelníka honili
         children: []
         numberedChildren: false
       - link: devatero_pohadek_015.html
-        title: |-
-          4.
-          Kterak slavný Sidney Hall kouzelníka chytil
+        title: 4.Kterak slavný Sidney Hall kouzelníka chytil
         children: []
         numberedChildren: false
       - link: devatero_pohadek_018.html
-        title: |-
-          5.
-          Jak kouzelník ve vězení seděl
+        title: 5. Jak kouzelník ve vězení seděl
         children: []
         numberedChildren: false
       - link: devatero_pohadek_021.html
-        title: |-
-          6.
-          Pohádky konec
+        title: 6. Pohádky konec
         children: []
         numberedChildren: false
     numberedChildren: false
   - link: devatero_pohadek_024.html
-    title: |-
-      Pohádka
-      psí
+    title: Pohádka psí
     children: []
     numberedChildren: false
   - link: devatero_pohadek_031.html
-    title: |-
-      Pohádka
-      ptačí
+    title: Pohádka ptačí
     children: []
     numberedChildren: false
   - link: devatero_pohadek_040.html
-    title: |-
-      První
-      loupežnická pohádka
+    title: První loupežnická pohádka
     children: []
     numberedChildren: false
   - link: devatero_pohadek_043.html
-    title: |-
-      Pohádka
-      vodnická
+    title: Pohádka vodnická
     children: []
     numberedChildren: false
   - link: devatero_pohadek_054.html
-    title: |-
-      Druhá
-      loupežnická pohádka
+    title: Druhá loupežnická pohádka
     children: []
     numberedChildren: false
   - link: devatero_pohadek_063.html
-    title: |-
-      Pohádka
-      tulácká
+    title: Pohádka tulácká
     children: []
     numberedChildren: false
   - link: devatero_pohadek_076.html
-    title: |-
-      Velká
-      policejní pohádka
+    title: Velká policejní pohádka
     children: []
     numberedChildren: false
   - link: devatero_pohadek_101.html
-    title: |-
-      Pohádka
-      pošťácká
+    title: Pohádka pošťácká
     children: []
     numberedChildren: false
   - link: devatero_pohadek_124.html
-    title: |-
-      Velká
-      pohádka doktorská
+    title: Velká pohádka doktorská
     children:
       - link: devatero_pohadek_127.html
         title: O princezně solimánské
@@ -249,9 +221,7 @@ tocBase:
         children: []
         numberedChildren: false
       - link: devatero_pohadek_133.html
-        title: |-
-          Případ s havlovickým
-          vodníkem
+        title: Případ s havlovickým vodníkem
         children: []
         numberedChildren: false
       - link: devatero_pohadek_136.html
@@ -262,10 +232,7 @@ tocBase:
   - link: devatero_pohadek_139.html
     title: Ediční poznámka
   - link: devatero_pohadek_140.html
-    title: |-
-      Život
-      a doba spisovatele
-      Karla Čapka v datech
+    title: Život a doba spisovatele Karla Čapka v datech
   - link: devatero_pohadek_141.html
     title: První vydání knih Karla Čapka
 static:

@@ -10,9 +10,9 @@ title: ''
 
 Tak jí nadrobil sedm žemlí do sedmi litrů mléka; a to jste měli vidět, jak se to dráče do toho hladově pustilo; jedna hlava odstrkovala u misky druhou a všecky ty hlavy na sebe vrčely a chlemtaly mlíčko, až pobryndaly celou kancelář; potom se jedna hlava po druhé olízla a uložila se k spánku. Pak kolega Pour zamkl tu saň ve své kanceláři, kde byly uloženy všechny ztracené a nalezené věci z celé Prahy, a dal do všech novin tenhle inzerát:
 
-_Štěně dračí_,
+> _Štěně dračí_,
 
-čerstvě vylíhlé z vejce, bylo nalezeno ve Vojtěšské ulici. Totéž je sedmihlavé, žluté a černě žíhané. Jeho majitel ať se přihlásí na policejním ředitelství, oddělení ztrát a nálezů.
+> čerstvě vylíhlé z vejce, bylo nalezeno ve Vojtěšské ulici. Totéž je sedmihlavé, žluté a černě žíhané. Jeho majitel ať se přihlásí na policejním ředitelství, oddělení ztrát a nálezů.
 
 Když ráno kolega Pour přišel do své kanceláře, neřekl nic víc nežli: ‚Safra zatrápeně zatrachtile propánakrále kristovanoho panenanebi saknaryby rányboží uvšechvšudy učerchmana ustahromů propětran kakraholte a namouduchu, abych neklel!‘ Ona vám ta saň přes noc sežrala všechny věci, které kdo v Praze ztratil nebo našel, tedy prsteny a hodinky, peněženky, taštičky a notesy, míče a tužky, penály a držátka a školní knihy a kuličky k hraní a knoflíky a rysovadla a rukavice a ještě k tomu všechna úřední lejstra, akta, protokoly a listiny, zkrátka všechno, co v Pourově kanceláři bylo, dokonce i Pourovu fajfku, lopatku na uhlí a pravítko, kterým Pour linýroval lejstra; ta saň toho snědla tolik, že byla už jednou tak velká a některým jejím hlavám bylo špatně.
 
@@ -20,7 +20,7 @@ Když ráno kolega Pour přišel do své kanceláře, neřekl nic víc nežli: �
 
 Ale zatím došel na ten Spolek telegram až z Bukurešti, ve kterém bylo psáno černokněžnickým písmem:
 
-TO DRAČÍ ŠTĚNĚ JE ZAKLETÝ ČLOVĚK. BLIŽŠÍ ÚSTNĚ. PŘIJEDU BĚHEM TŘÍ SET LET NA WILSONOVO NÁDRAŽÍ. KOUZELNÍK BOSKO.
+> TO DRAČÍ ŠTĚNĚ JE ZAKLETÝ ČLOVĚK. BLIŽŠÍ ÚSTNĚ. PŘIJEDU BĚHEM TŘÍ SET LET NA WILSONOVO NÁDRAŽÍ. KOUZELNÍK BOSKO.
 
 Tu se ten Spolek pro ochranu zvířat podrbal za ušima a řekl: ‚Ouha, když ta saň je zakletý člověk, tedy je to lidská osoba, a my ji nemůžeme chovat v ochraně zvířat. To ji musíme poslat do nalezince nebo do sirotčince.‘ Ale ty nalezince a sirotčince zase řekly: ‚Ouha, když je ten člověk zaklet do zvířete, tak už to není člověk, ale zvíře, protože je zaklet do zvířete. Ergo zakletý člověk nepatří do referátu nám, ale ochraně zvířat.‘ A protože se nemohli dohodnout o tom, je-li člověk zakletý do zvířete víc člověk, nebo víc zvíře, nechtěli tu saň chovat ti jedni, ani ti druzí a chudák saň nevěděla, čí vlastně je; to ji tak mrzelo, že přestala žrát, hlavně její třetí, pátá a sedmá hlava. On byl v tom Spolku jeden malý a tenký človíček, nepatrný a skromný jako prázdný lusk, jmenoval se nějak od N: Nováček nebo Nerad nebo Nohejl – nebo ne, pan Trutina se jmenoval; a když ten pan Trutina viděl, jak té sani zármutkem vadne jedna hlava po druhé, řekl tomu Spolku: ‚Pánové, ať už je to člověk, nebo zvíře, já bych si tu saň vzal domů a staral bych se o ni jaksepatří.‘ Tu všichni řekli: ‚No tak sláva,‘ a pan Trutina si tu saň odvedl k sobě domů.
 

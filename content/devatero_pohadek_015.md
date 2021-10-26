@@ -6,6 +6,8 @@ title: |-
 
 To všechno četl v novinách slavný Sidney Hall, americký detektýv, zamyslil se hluboce a rozhodl se, že zkusí sám, chytí-li kouzelníka. Přestrojil se tedy za milionáře, vzal do kapsy revolver a jel do Evropy.
 
+  
+
 Když sem přijel, představil se hned policejnímu prezidentovi. Ten mu tedy všechno vyložil, jak honili kouzelníka, a skončil: „Podle toho všeho je už docela nemožné dostat toho zlosyna před soudnou stolici.“
 
 Sidney Hall se usmál: „Do čtyřiceti dnů vám ho přivedu zatčeného.“

@@ -26,4 +26,4 @@ Lotrando se zarazil, neboť teď teprve poznal pana převora. I zabručel něco 
 
 To je konec pohádky o zdvořilém loupežníkovi; snad už umřel, ale jeho potomky potkáte na mnoha a mnoha místech a poznáte je po tom, že vám s největší ochotou vynadají, i když nemají proč. A to by nemělo být.
 
-Lidové noviny 24. 12. 1921
+_Lidové noviny 24. 12. 1921_

@@ -6,6 +6,8 @@ title: |-
 
 Když tedy, jak už víte, přivedl Sidney Hall kouzelníka zatčeného, bylo zahájeno soudní řízení pro ukradenou kočku.
 
+  
+
 Za vysokým stolem trůnil soudce doktor Korpus, stejně tlustý, jako přísný. Na lavici obžalovaných seděl kouzelník s rukama spoutanýma.
 
 „Vstaň, padouchu,“ zahřímal na něj doktor Korpus. „Jsi obviněn, že jsi ukradl královu kočku Jůru, rozenou zde v zemi, rok starou. Přiznáváš se, ničemo?“

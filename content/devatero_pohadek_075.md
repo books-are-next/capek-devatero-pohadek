@@ -18,4 +18,4 @@ I naříkaly vrány, že se jim ztratil král; a bílé vrány poručily černý
 
 Od té doby létají vrány po světě a pořád křičí: „Král! Král!“ A zvláště v zimě, když jich je mnoho pohromadě, si najednou všechny vzpomenou a letí přes pole a lesy křičíce: „Král! Kráál! Krááál! Kráááál!“
 
-Lidové noviny 25. 12. 1924
+_Lidové noviny 25. 12. 1924_

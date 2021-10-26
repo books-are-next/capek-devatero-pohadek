@@ -26,6 +26,8 @@ Inu, když mně to neřeknete, tak si to nechte, myslel si pan Kolbaba. Však j�
 
 Tedy tohle, co viděl, pan pošťák Kolbaba nikomu neřekl, protože, to víte, na poště se vlastně nesmí přespávat. Jenom od té doby ho už nemrzelo roznášet dopisy lidem. Tenhle dopis, říkal si, je takový vlažňoučký, ale tady ten zrovna hřeje, jak je teplý; to asi je psaní od nějaké maminky.
 
+  
+
 A jednou na poště třídil dopisy, co vybral z poštovní schránky, aby je roznesl lidem. „Heleme,“ řekl najednou, „tady je dopis v zalepené obálce, ale na té obálce není ani adresa, ani známka.“
 
 „Aha,“ pravil pan poštmistr. „To zas někdo hodil do schránky dopis bez adresy.“

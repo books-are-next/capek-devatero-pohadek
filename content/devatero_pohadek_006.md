@@ -6,6 +6,8 @@ title: Velká kočičí pohádka
 
 V zemi Taškářů panoval král, a můžeme říci, že panoval šťastně, protože když to musilo být, všichni poddaní ho poslouchali ochotně a s láskou. Jen někdo ho občas neposlechl, a to byla jeho dceruška, malá princezna.
 
+  
+
 Dobře jí král poručil, aby si nehrála s míčem na zámeckém schodišti; ale kdežpak! Sotva si jednou její chůva chvilinku zdřímla, princezna už byla na schodech se svým míčem, a tu, jestli ji snad pánbůh potrestal nebo jí čert nastavil nohu, upadla a rozbila si koleno. Seděla na schodech a plakala, – kdyby to nebyla princezna, řekli bychom, že křičela na celé kolo. Toť se rozumí, hned se seběhly dvorní dámy s křišťálovými umyvadly a hedvábnými obvazy, deset královských lékařů a tři dvorní kaplani, ale princezně bolest vzít nemohl žádný z nich.
 
 Tu se šourala cestou nějaká babička, a když viděla princeznu na schodech plakat, klekla si k ní a povídá pěkně: „Ale neplačte, princezno“. Kdybych vám přinesla zvíře, které má oči smaragdové, a přece mu je nikdo neukradne, vousy takovéhle, a přece to není mužský, kožich jiskrný, a přece mu neshoří, nožičky hedvábné, a přece si je nikdy neprochodí, a v kapsičkách šestnáct nožů, a přece si masa nenakrájí, že byste už ani nezaplakala?“

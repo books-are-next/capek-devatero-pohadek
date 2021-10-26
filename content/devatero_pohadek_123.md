@@ -12,4 +12,4 @@ Pan šofér skočil do vozu, zmáčkl startér a přišlápl spojku a plyn a vů
 
 A všichni šťastně dojeli a my také.
 
-Lidové noviny 4. 10. 1931
+_Lidové noviny 4. 10. 1931_

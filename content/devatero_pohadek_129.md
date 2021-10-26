@@ -86,6 +86,8 @@ A od té doby, pane Magiáš, začala princezna doopravdy sílit, i tváře jí 
 
 Když hronovský doktor dopověděl pohádku o princezně solimánské, přihnal se pihovatý Vincek a vedl s sebou doktora z Hořiček, doktora z Úpice a doktora z Kostelce. „Tak tady je vedu,“ křičel už zdálky. „Lidičky, to jsem se uhnal!“
 
+  
+
 „Vítám vás, páni kolegové,“ pravil hronovský doktor. „Tady je náš pacient, pan černokněžník Magiáš. Jak vidíte na první pohled, jeho stav je velmi vážný. Pacient naznačuje, že spolkl švestku nebo slívu nebo pecku. Podle mého skromného názoru jeho choroba je prudká švestkitida.“
 
 „Hm hm,“ řekl doktor z Hořiček. „Spíše bych soudil, že je to dusivá slivitida.“

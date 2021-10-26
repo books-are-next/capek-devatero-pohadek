@@ -4,11 +4,13 @@ title: |-
   loupežnická pohádka
 ---
 
-### O tlustém pradědečkovi a loupežnících
+### _O tlustém pradědečkovi a loupežnících_
 
 (od Josefa Čapka)
 
 Můj nebožtík pradědeček byl povoláním sekerník a vedle toho obchodoval tu a tam v koních a jetelovém semínku. Při svých devadesáti osmi letech byl, chválabohu, ještě veselý a čilý brach, kulatý a červeňoučký jako jablíčko, ba, tak neobyčejně tlustý, že ho v létě prababička ukládala do sklepa, protože by se nahoře horkem rozplynul. Usadil se tedy pěkně dole ve sklepě, popíjel pivo s cukrem a těšil se na chladnější počasí.
+
+  
 
 Když přestalo parné léto, tu pak vylezl, batolil se po svém, hospodařil, šafařil a domostrojil, kupoval, prodával a sháněl, přibíjel, stloukal a tesařil, potil se a hmoždil se, dupal v bačkorách a klepal v pantoflích, statně jedl a pil, oháněl se zkrátka při svém valném věku a ctihodné tloušťce tak mile, že z něho všichni měli radost. Měl, panečku, nejbohatýrštější břicho z celé farnosti; však na něho také naše farnost byla hrdá. Takového druhého na farnosti nebylo: tak tlustého a červeného, tak plecitého a kolébavého, s takovými vráskami kolem očí a s takovým kulaťoučkým nosem a takovým podbradkem. Ba ani v jiných farnostech takového nebylo. Když přijel na trh do Králové Hradce, všichni se za ním ohlíželi, ať to byl student, biskup, nebo pan generál; cožpak hladový student nebo generál vyschlý a zamračený jako sleď, ale sám pan biskup nebyl daleko tak tlustý a tak ruměný, tak podsaditý a krásně kolébavý jako můj nebožtík pradědeček.
 
@@ -24,51 +26,51 @@ A tak začali. „Pantáto Cvalíku,“ zaštěbetala Kokotička, jako kdyby se 
 
 Kokotičce se ta odpověď zrovna nelíbila, i obrátila se zamračeně k svému Lotrandovi, krutému lupiči. Lotrando se zlověstně zatáhl za svůj přetenký knír: „Ha, víš, kam jsi se dostal, bídný selský hřbete? Upadl jsi mezi loupežníky!“ Pradědeček se leknutím až zapotil; z toho setkání nekoukalo nic dobrého. „Já jsem proslulý Lotrando,“ pokračoval náčelník, „a tamten s loutnou, to je pověstný vrah Hrdlořez, a tu ten Turek, to je obávaný Kudlich, a ten Číňan, to je Krvavý Jíra, a medvěd, to je Dynamit, a ten bubeník je Hmaták, a kolovrátkář, to je Chramostejl, a kejklíř, to je Veliký Šibal, a rytíř, to je Kujón, všichni moji krvaví páni tovaryši! A toto je naše loupežnická hymna,“ pravil Lotrando a počal zpívat:
 
-„Kamarádi, drazí páni,  
-loupežníci a kumpáni,  
-dobrodruzi, taškáři,  
-zlodějíčci, kapsáři,  
-podvodníci, vrazi, rváči,  
-zabijáci, lstiví hráči,  
-nám je bene, nám je hej,  
-hej,  
-ať jsi kdo jsi, k nám se dej!“
+> „Kamarádi, drazí páni,  
+> loupežníci a kumpáni,  
+> dobrodruzi, taškáři,  
+> zlodějíčci, kapsáři,  
+> podvodníci, vrazi, rváči,  
+> zabijáci, lstiví hráči,  
+> nám je bene, nám je hej,  
+> hej,  
+> ať jsi kdo jsi, k nám se dej!“
 
 Na to zazpíval Veliký Šibal:
 
-„Řetězy ze zlata, hej,  
-prsten a šperk a drahý kámen.  
-Jen pozor, brachu, dej,  
-chytnou tě a je s tebou amen.“
+> „Řetězy ze zlata, hej,  
+> prsten a šperk a drahý kámen.  
+> Jen pozor, brachu, dej,  
+> chytnou tě a je s tebou amen.“
 
 Sbor:
 
-„Štěstí ti vinšujem na tu cestu,  
-však i nás povedou do arestu!“
+> „Štěstí ti vinšujem na tu cestu,  
+> však i nás povedou do arestu!“
 
 Hrdlořez:
 
-„Nabitá pistole, hej,  
-ostrý nůž s čepelí třpytnou.  
-Jen, brachu, pozor dej,  
-běda ti, když tě chytnou!“
+> „Nabitá pistole, hej,  
+> ostrý nůž s čepelí třpytnou.  
+> Jen, brachu, pozor dej,  
+> běda ti, když tě chytnou!“
 
 Sbor:
 
-„Bratříčku, bratře, dej nám vale,  
-však se zas sejdeme v kriminále!“
+> „Bratříčku, bratře, dej nám vale,  
+> však se zas sejdeme v kriminále!“
 
 Krvavý Jíra:
 
-„O trochu krve, hej,  
-jen píchej a bij a střílej!  
-Brachu, jen pozor dej,  
-je-li ti život milej.“
+> „O trochu krve, hej,  
+> jen píchej a bij a střílej!  
+> Brachu, jen pozor dej,  
+> je-li ti život milej.“
 
 Sbor:
 
-„Adié, páni loupežníci,  
-na shledanou pod šibenicí!“
+> „Adié, páni loupežníci,  
+> na shledanou pod šibenicí!“
 
 Tak zpívali loupežníci a přiťukávali si ve sboru naplněnými sklenicemi, co pradědeček trnul, že mohou zpívat tak strašnou píseň a být přitom tak veselí. Honem přemítal, co učinit, a tu ho napadlo, že by měl také pustit nějakou hrůzu: i vykulil ukrutně oči, svraštil čelo a ošklivě se zaškaredil a pokusil se zalhat. „Však já vím,“ povídá. „Proto jsem mezi vás přišel. Též já jsem přestrojený. Oblékl jsem se za starého tlustého sekerníka, ale já jsem vlastně slavný zloděj, lupič a mnohonásobný vrah Velevrah, který sám těmato vlastníma rukama zapíchal, podřezal a zavraždil šedesát mužů, třicet žen a patnáct dětí a vyloupil jsem všechny zámky a hrady a domy a stavení a chalupy v celém širokém okolí! A toto je můj policejní pes, sveřepý Ostrozub,“ doložil pradědeček, ohlížeje se po Voříškovi.
 

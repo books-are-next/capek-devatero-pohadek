@@ -6,6 +6,8 @@ title: |-
 
 „To já jsem měl taky zajímavý lékařský případ,“ ozval se úpický doktor. „U nás v Úpě za havlovickou lávkou, v kořání vrb a olší žil starý vodník, Joudal se jmenoval; byl to takový mrzout, neruda, kakabus a bručoun, někdy dělal povodně a občas i topil děti, když se koupaly; zkrátka lidé ho v té řece neradi viděli.
 
+  
+
 Jednou na podzim ke mně do ordinace přijde děda, fráček má zelený a na krku červený šátek, a heká, kašle, kýchá, frká, vzdychá, potahuje a huhlá: ‚Pane dochtor, já jsem chyt ňákou náchladu nebo nádchu; mně tuhle pšká a tadyhle píchá, v kříži mě bolí, v kloubech mně loupe, kašel mám, div se nestrhám, a rýmu jako trám; tak bych prosil o nějaké užívání.‘
 
 Já ho vyšetřím a povídám: ‚Dědečku, to je revma; já vám dám tadyhle to mazání, je to linimentum, abyste věděl, ale to ještě není všecko. Vy se musíte držet hodně v teple a v suchu, rozumíte?‘

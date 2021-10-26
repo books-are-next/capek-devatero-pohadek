@@ -6,6 +6,8 @@ title: |-
 
 Tedy jak víte, ta kočka se jmenovala Jůra, ale princezna jí říkala ještě všelijak: macek a macourek, číča, číčinka a číčánek, míca a mícinka, mourek a kočenka, a z toho už vidíte, že ji měla tuze ráda. Sotva ráno otevřela oči, už našla macka na peřině: Jůra si tam, lenoch, hověla a předla, aby se zdálo, že něco dělá. Obě se pak umyly současně, kočka ovšem o mnoho důkladněji, třebaže jen tlapkou a jazykem; zato zůstala dávno ještě čistá, když už se princezna umazala tak pořádně a všestranně, jak to jen děti dovedou.
 
+  
+
 Ale přitom byla Jůra kočka jako každá jiná; jenomže ráda seděla a dřímala na královském trůně, což se jiným kočkám obyčejně nestává. Snad si přitom vzpomínala, že její vzdálený strýček, lev, je králem všech zvířat. Nebo to jen tak vypadalo, jako by vzpomínala; stačilo, aby nějaká pošetilá myš vystrčila z díry hlavu, – jedním skokem ji Jůra měla a šla ji pyšně položit k nohám trůnu, ať to bylo před sebe větším a slavnějším shromážděním.
 
 Jednou měl král porovnat při dvou velmožných pánů. Oba stáli před stupni trůnu a hádali se náramně, kdo z nich je v právu. Když byli v nejlepším, přišla Jůra, položila na zem chycenou myš a čekala s hrdostí, že bude pochválena. První pán si jí ani nevšimnul, zato druhý se rychle shýbl a Jůru pohladil. Aha, řekl si král hnedle, tohle je člověk spravedlivý, protože má uznání ke každé zásluze. A vida, ukázalo se pak, že měl pravdu.

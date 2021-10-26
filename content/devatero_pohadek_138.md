@@ -34,6 +34,8 @@ Z toho je taky vidět, že se ani strašidla, ani jiné pohádkové úkazy už n
 
 Propána, děti, vždyť my jsme při tom povídání málem zapomněli na kouzelníka Magiáše! No bodejť, nemohl si ani klápnout, ani špitnout, protože až do této chvíle mu vězí v krku švestka; může se jen strachem potit, koulet očima a myslet si, kýž by už mu ti čtyři doktoři pomohli!
 
+  
+
 „Tak, pane Magiáš,“ řekl konečně doktor z Kostelce, „teď teda přikročíme k operaci. Ale nejdřív si musíme umýt ruce, protože při chirurgii hlavní věc je čistota.“
 
 I začali si čtyři doktoři mýt ruce: nejdřív v teplé vodě, potom v čistém lihu, potom v benzínu, potom v karbolce; pak si oblékli čisté bílé pláště – prokristáčka, děti, teď se začne operace! Kdo se na to nevydrží dívat, ať raději zavře oči.
@@ -72,4 +74,4 @@ Potom si Magiáš urovnal fousy a řekl: „Děkuju uctivě.“
 
 Co měl kouzelník Magiáš dělat? Poděkoval pěkně čtyřem doktorům, spakoval svá kouzla a odstěhoval se z Hejšoviny na poušť Saharu. Od té doby už není u nás žádný čarodějník ani černokněžník, a to je dobře; ale kouzelník Magiáš je živ dosud a přemýšlí, jak vyčarovat na poušti pole a lesy a města a vsi, – snad vy, děti, se toho dočkáte.
 
-Lidové noviny 15. 11. 1931
+_Lidové noviny 15. 11. 1931_

@@ -36,34 +36,38 @@ Ale můj tlustý pradědeček nebyl dnešní a myslil si, že teď zase on sám 
 
 Tak se pradědeček plížil zlodějsky nejprve k Hmatákovi, sáhl mu do šatů a vytahoval mu z kapes všechny jeho paklíče, vrtáky, dlátka a nebozezy a všechno zlodějské náčiní a zpíval k tomu první sloku loupežnické hymny:
 
-„Kamarádi, drazí páni,  
-loupežníci a kumpáni,  
-podvodníci, taškáři,  
-zlodějíčci, kapsáři,  
-nám je bene, nám je hej,  
-ať jsi kdo jsi, k nám se dej.“
+> „Kamarádi, drazí páni,  
+> loupežníci a kumpáni,  
+> podvodníci, taškáři,  
+> zlodějíčci, kapsáři,  
+> nám je bene, nám je hej,  
+> ať jsi kdo jsi, k nám se dej.“
 
 „Ah,“ řekl Lord Havelock a s ním celá jeho družina. První Lordův poboční detektiv Sherlock Holmes zastříhal ušima: počínal cítit, že o něco jde.
 
 A nyní pradědeček začal zpívat druhou sloku loupežnické hymny:
 
-„Řetězy ze zlata, hej,  
-prsten a šperk a drahý kámen.  
-Jen pozor, Šibale, dej,  
-chytnou tě a je s tebou amen,“
+> „Řetězy ze zlata, hej,  
+> prsten a šperk a drahý kámen.  
+> Jen pozor, Šibale, dej,  
+> chytnou tě a je s tebou amen,“
 
 a zamířil k Velikému Šibalovi a za zpěvu mu vytahoval z kapes ukradené šperky, zlaté věci, náramky, hodinky a prsteny. Byl toho skoro celý zlatnický krám.
+
+  
 
 „Ah,“ zvolal Lord Havelock a s ním jeho družina. Lordův druhý poboční detektiv Stuart Webbs zastříhal ušima: počínal tušit, že o něco jde.
 
 A pradědeček zpíval:
 
-„Nabitá pistole, hej,  
-ostrý nůž s čepelí třpytnou.  
-Jen, Hrdlořeze, pozor dej,  
-běda ti, když tě chytnou!“
+> „Nabitá pistole, hej,  
+> ostrý nůž s čepelí třpytnou.  
+> Jen, Hrdlořeze, pozor dej,  
+> běda ti, když tě chytnou!“
 
 a vytahoval Hrdlořezovi zpod šatů vražednické zbraně, nože a pistole a dýky.
+
+  
 
 „Ah,“ zvolal Lord Havelock a s ním jeho průvod. Třetí Lordův poboční detektiv Joe Deebs zastříhal ušima: počínal cítit, že o něco jde.
 
@@ -71,10 +75,10 @@ Tak probíral můj tlustý pradědeček všechny sloky písně a jednoho loupež
 
 Lotranda si pradědeček nechal až na konec. Vytáhl mu z kapsy svůj sáček s penězi, tabatěrku, ze které si hned vydatně šňupnul, a svůj strakatý šátek, do kterého zatroubil hlučně jako na lesní roh, a zpíval k tomu:
 
-„O trochu krve, hej,  
-jen píchej a bij a střílej!  
-Lotrando, pozor dej,  
-je-li ti život milej!“
+> „O trochu krve, hej,  
+> jen píchej a bij a střílej!  
+> Lotrando, pozor dej,  
+> je-li ti život milej!“
 
 „Ha, Lotrando!“ zvolal Lordův poboční detektiv Clifton, který nyní měl jistotu, že jde o obávaného Lotranda a jeho tovaryše. „Lotrando!“ zvolali všichni poboční Lordovi detektivové a vytáhli provazy, pouta a želízka. „Lotrando!“ zvolal Lord Havelock a nasadil si do oka čtvrtý monokl. „Lotrando!“ vzkřikla Lordova bezpečnostní stráž, hlídači a biřicové a namířili na náčelníka a jeho bandu pušky.
 

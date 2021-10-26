@@ -6,6 +6,8 @@ title: |-
 
 Když už si povídáme o tom, co všechno kočka dovede, musíme vypravovat ještě něco. Princezna kdesi cosi slyšela, že když číča padá z výšky, spadne vždycky na nohy a nic si přitom neudělá. I sebrala jednou Jůru, vylezla s ní na půdu, a aby to zkusila, pustila milou Jůru okýnkem dolů z náramné výšky. Honem pak vykoukla, spadla-li její micka opravdu na nohy; ale Jůra nespadla na nohy, protože spadla na hlavu jednomu pánovi, který šel zrovna dole po ulici. Snad mu Jůra v tom pádu nějak zaťala drápky do hlavy, nebo co se mu na tom jinak nelíbilo – zkrátka nenechal si kočku sedět na hlavě, jak snad si princezna myslila, že by měl udělat, nýbrž sundal ji, vstrčil ji pod kabát a rychlým krokem zmizel.
 
+  
+
 Plačky mračky běžela princezna z půdy a rovnou k panu králi. „Bů, bůů,“ plakala, „šel dole pán a ukradl nám Jůů-Jůůru!“
 
 Slyšel to král a lekl se. Kočka sem, kočka tam, myslel si, ale tahle kočka má k nám přivést příštího krále. Tu bych, myslel si, přece jen nerad ztratil.
