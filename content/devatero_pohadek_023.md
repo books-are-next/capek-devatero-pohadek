@@ -66,4 +66,4 @@ Ten vůz s velikou radostí v zámku přivítali, složili chalupu v zahradě, a
 
 Co následovalo potom, to už do naší pohádky nepatří. Ale stal-li se Vašek opravdu králem v té zemi, když dorostl, nebylo to, děti, ani pro tu kočku, ani pro přátelství princeznino, nýbrž pro mocné a statečné skutky, které veliký Vašek pro celou zemi vykonal.
 
-Nůše pohádek I, 1918
+_Nůše pohádek I, 1918_

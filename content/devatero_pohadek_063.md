@@ -4,9 +4,11 @@ title: |-
   tulácká
 ---
 
-### Král František
+### _Král František_
 
 Jmenoval se vlastně František Král, ale tak mu říkali jenom tehdy, když ho sebral strážník a dovedl ho na komisařství pro potulku, kde ho zapsali do takové tlusté knihy a nechali ho přespat na pryčně a ráno ho zase poslali dál; na policii mu tedy říkali František Král, ale ostatní lidé ho jmenovali všelijak jinak: ten vandrák; ten šupák, ten tulák, ten pobuda, ten lajdák, ten otrapa, ten hadrník, ten trhan, ten obejda, ten lenoch, ten cikán, ten chudák, ten jindyvyjduum, ten člověk, ten kdovíkdo, ten dareba, ten poběhlík, ten krajánek, ten štvanec, ten vošlapa, ten revertent, ten ludrák, ten prašivka, ten hunt, ten syčák, ten holota, a ještě mnoho jiných jmen mu dávali; kdyby každé to názvisko platilo aspoň korunu, mohl by si za ně koupit žluté boty a možná že i klobouk, ale takhle si za to nekoupil nic a měl jenom to, co mu lidé dali.
+
+  
 
 Jak tedy je už zřejmo, řečený František Král se netěšil nejlepší pověsti a opravdu nebyl nic jiného nežli tulák, který jen ukrádal Pánubohu čas (jenže Pánbůh na věčnosti má tolik mnoho času, že mu ho tím ani za mák neubylo) a neuměl nic než pískat kudlu. Víte, co je to pískat kudlu? To se dělá tak, že člověk ráno suší hubu, v poledne nemá do čeho kousnout a večer se místo jídla párá dřívkem v zubech; a když mu pak kručí hladem žaludek, tomu se říká, že píská kudlu. František Král uměl pískat kudlu tak, že by na ni mohl dávat koncerty; jinak to byl dobrák od kosti – kde by se na něm, chudákovi, také nabralo masa! Když dostal kus chleba, snědl jej, a když mu dali zlé slovo, tak je taky spolkl; takový měl hlad. A když nedostal nic, lehl si někde za plotem, přikryl se tmou a poprosil hvězdičky, aby daly pozor, aby mu nikdo neukradl čepici.
 

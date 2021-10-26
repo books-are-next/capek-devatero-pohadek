@@ -4,6 +4,8 @@ title: Případ s rusalkami
 
 „To já měl taky jeden zvláštní případ,“ promluvil doktor z Hořiček. „Jednou vám v noci spím jako dudek, když tu někdo ťuká na okno a volá: ‚Doktore! Doktore!‘
 
+  
+
 Otevřel jsem okno a řekl jsem: ‚No, copak je? Potřebuje mne někdo?‘
 
 ‚Ano,‘ mluvil ze tmy úzkostný a sladký hlas. ‚Pojď! Pojď a pomoz!‘

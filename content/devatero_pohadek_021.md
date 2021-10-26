@@ -6,6 +6,8 @@ title: |-
 
 Když tedy se princezna u soudu dozvěděla, že snad její kočka Jůra utekla tam, kde se narodila, poslala hned kurýra do babiččiny chaloupky.
 
+  
+
 Letí kurýr na koni, až jiskry pod kopyty tryskají, a tu, hle, vidí před chalupou babiččina vnoučka Vaška s černou kočkou v náručí.
 
 „Vašku,“ křičel kurýr, „princezna chce nazpátek svou kočku Jůru.“

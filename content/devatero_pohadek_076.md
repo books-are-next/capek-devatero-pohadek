@@ -6,6 +6,8 @@ title: |-
 
 Tak to snad, děti, víte, že na každé policejní strážnici neboli štaci bdí několik pánů strážníků po celou noc, kdyby se snad něco stalo, jako třeba že by se někam dobývali loupežníci nebo kdyby zlí lidé chtěli někomu udělat škodu. Proto jsou páni strážníci na strážnici až do rána vzhůru, zatímco jiní strážníci, kterým se říká patroly, chodí po ulicích a dávají pozor na loupežníky, zlodějíčky, strašidla a jiné takové nepořádky. A když takové patrole začnou bolet nožičky, vrátí se na strážnici a zas jiný strážník jde na ulici dávat pozor. Tak to chodí po celou noc; a aby jim to líp uteklo, kouří ti strážníci na strážnici fajfky a povídají si, co kde zvláštního viděli.
 
+  
+
 Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden strážník, počkejme, však to byl pan Halaburd, a řekl: „Nazdar, mládenci! Hlásím, že mě bolí nožičky.“
 
 „Tak si sedni,“ kázal mu nejstarší pan strážník, „a místo tebe půjde hlídat tuhle pan Holas. A teď nám, pane Halaburde, povídej, co je nového v tvém rajónu a v jakých případech jsi ve jménu zákona zakročil.“

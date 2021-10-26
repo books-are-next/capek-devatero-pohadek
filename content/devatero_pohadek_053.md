@@ -28,4 +28,4 @@ title: ''
 
 V tu chvíli šel kolem jeden člověk a myslil si: To dnes ty žáby kvákají! I popadl kámen a hodil jej do té mokřiny. Voda vysoko vystříkla, zašplouchalo to a bylo ticho: všichni vodníci skočili do vody, a teprve příštího roku budou zase mít konferenci.
 
-Lidové noviny 25. 12. 1923
+_Lidové noviny 25. 12. 1923_

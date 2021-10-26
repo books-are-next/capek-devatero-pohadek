@@ -22,4 +22,4 @@ Ale v tutéž chvíli zmizely rázem všechny psí rusalky i stará psí víla. 
 
 Tu vzpomněl si Voříšek, že doma ho čeká aspoň chleba ve vodě nadrobený, i rozběhl se domů, co mu nohy stačily. Ale od té doby, když někdy šel zase s dědečkem po lukách nebo lesích, vzpomněl si časem na psí poklad propadlý v zemi a začal hrabat, zuřivě hrabat všema čtyřma hlubokou díru do země. A že to nejspíše prozradil také psům ze sousedství, a ti zas jiným, a jiní zase dalším, stává se všem psům na světě, že si někde v polích vzpomenou na propadlé psí království a hrabou do země díru a čuchají, čuchají, čuchají, není-li z hloubi země cítit uzený trůn bývalé psí říše.
 
-Národní listy 25. 12. 1919
+_Národní listy 25. 12. 1919_

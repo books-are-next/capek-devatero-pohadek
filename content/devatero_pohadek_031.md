@@ -6,6 +6,8 @@ title: |-
 
 Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují lidským jazykem jenom časně zrána, při východu slunce, kdy vy ještě spíte; později, za bílého dne, už nemají pokdy na mnoho řečí – to víte, to dá nějakou sháňku, tady zobnout zrníčko, tam vyhrabat žížalu nebo tuhle čapnout ve vzduchu mouchu. Takový ptačí tatínek aby si ulítal křídla, zatímco ptačí maminka musí doma opatrovat děti. Proto si ptáci povídají jenom časně zrána, když otevrou ve svých hnízdech okna, vyloží peřinky k vyvětrání a vaří si snídani.
 
+  
+
 „Brý ráno,“ křičí kos, co má hnízdo na borovici, na souseda vrabčáka, co bydlí v okapu. „Už je čas.“
 
 „Vím, vím, vím,“ povídá vrabec. „Už abych lít, kde bych něco štíp, štíp, štíp, aby bylo co jíst, viď?“

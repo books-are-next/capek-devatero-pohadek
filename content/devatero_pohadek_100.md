@@ -6,4 +6,4 @@ title: ''
 
 A to je konec toho případu se saní z Vojtěšské ulice,“ doložil strážník Choděra. „Kdybyste tomu nechtěli věřit, zeptejte se kolegy Poura.“
 
-Lidové noviny 14. 9. 1930
+_Lidové noviny 14. 9. 1930_

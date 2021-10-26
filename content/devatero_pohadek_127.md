@@ -4,6 +4,8 @@ title: O princezně solimánské
 
 Zatímco si to pihovatý Vincek drandil do Hořiček a do Úpice a do Kostelce pro doktory, seděl hronovský doktor u kouzelníka Magiáše a dával pozor, aby se mu neudusil. Aby jim líp uběhlo čekání, zapálil si viržinku a mlčky pokuřoval.
 
+  
+
 Když už mu to bylo dlouhé, odkašlal a hulil dál. Potom, aby si ukrátil dlouhou chvíli, třikrát zívl a zamrkal. Po nějakém čase prohodil: „Ach jo.“ Asi za půl hodiny se protáhl v kříži a řekl: „Inu énu.“ Po nějaké hodince k tomu doložil: „Snad bychom si zatím mohli zahrát v karty. Pane Magiáš, máte tady nějaké karty?“
 
 Kouzelník Magiáš nemohl mluvit, a tož jen zavrtěl hlavou, že ne.

@@ -28,9 +28,9 @@ Teď přišla řada na pana Kolbabu a on položil ten zavřený dopis bez adresy
 
 „A just je to tak,“ odpověděl trpaslík. „Když tomu nechcete věřit, já vám to psaníčko přečtu.“ A vzal ten dopis, položil si jej na čelo, zavřel oči a takto četl:
 
-„Má znejmilovanější Mařenko,
+> „Má znejmilovanější Mařenko,
 
-tak ti pýšu (tady je pravopisná chyba, řekl ten skřítek, správně má být měkké i) žesem dostal místo za šoféra tak esli bys chtěla mohli bychom mít veselku napyš mně esli mně máš eště ráda pyš mně brzo tvůj věrný Frantík.“
+> tak ti pýšu (tady je pravopisná chyba, řekl ten skřítek, správně má být měkké i) žesem dostal místo za šoféra tak esli bys chtěla mohli bychom mít veselku napyš mně esli mně máš eště ráda pyš mně brzo tvůj věrný Frantík.“
 
 „Tak vám děkuju, pane skřítek,“ řekl pan Kolbaba, „to jsem potřeboval vědět. Mockrát vám děkuju.“
 
