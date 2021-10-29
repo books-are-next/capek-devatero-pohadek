@@ -1,0 +1,965 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Devatero pohádek",
+    "identifier": "0acd2fae-7580-4627-8ba5-c8964e91f5ac",
+    "author": "Karel Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-10-29T11:34:26.736Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_034.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_035.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_036.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_037.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_038.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_039.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_040.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_041.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_042.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_043.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_044.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_045.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_046.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_047.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_048.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_049.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_050.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_051.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_052.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_053.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_054.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_055.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_056.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_057.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_058.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_059.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_060.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_061.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_062.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_063.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_064.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_065.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_066.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_067.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_068.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_069.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_070.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_071.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_072.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_073.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_074.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_075.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_076.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_077.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_078.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_079.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_080.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_081.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_082.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_083.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_084.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_085.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_086.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_087.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_088.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_089.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_090.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_091.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_092.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_093.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_094.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_095.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_096.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_097.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_098.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_099.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_100.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_101.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_102.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_103.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_104.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_105.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_106.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_107.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_108.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_109.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_110.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_111.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_112.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_113.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_114.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_115.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_116.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_117.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_118.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_119.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_120.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_121.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_122.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_123.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_124.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_125.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_126.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_127.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_128.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_129.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_130.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_131.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_132.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_133.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_134.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_135.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_136.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_137.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_138.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_139.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_140.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_141.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/devatero_pohadek_142.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_005.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_006.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_007.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_008.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_009.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_010.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_011.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_012.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_013.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_014.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_015.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_016.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_017.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_018.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_019.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_020.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_021.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_022.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_023.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_024.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_025.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_026.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_027.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_028.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_029.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_030.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_031.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_032.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_033.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_034.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_035.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_036.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_037.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_038.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_039.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_040.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_041.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_042.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_043.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_044.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_045.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_046.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_047.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_048.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_049.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_050.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_051.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_052.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_053.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_054.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_055.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_056.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/devatero_pohadek_057.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/devatero_pohadek_005.html"
+    },
+    {
+      "title": "Velká kočičí pohádka",
+      "children": [
+        {
+          "title": "1. Kterak král kočku kupoval",
+          "href": "OEBPS/Text/devatero_pohadek_006.html#sigil_toc_id_1"
+        },
+        {
+          "title": "2. Co všechno kočka dovede",
+          "href": "OEBPS/Text/devatero_pohadek_009.html"
+        },
+        {
+          "title": "3. Jak detektývové kouzelníka honili",
+          "href": "OEBPS/Text/devatero_pohadek_012.html"
+        },
+        {
+          "title": "4. Kterak slavný Sidney Hall kouzelníka chytil",
+          "href": "OEBPS/Text/devatero_pohadek_015.html"
+        },
+        {
+          "title": "5. Jak kouzelník ve vězení seděl",
+          "href": "OEBPS/Text/devatero_pohadek_018.html"
+        },
+        {
+          "title": "6. Pohádky konec",
+          "href": "OEBPS/Text/devatero_pohadek_021.html"
+        }
+      ],
+      "href": "OEBPS/Text/devatero_pohadek_006.html"
+    },
+    {
+      "title": "Pohádka psí",
+      "href": "OEBPS/Text/devatero_pohadek_024.html"
+    },
+    {
+      "title": "Pohádka ptačí",
+      "href": "OEBPS/Text/devatero_pohadek_031.html"
+    },
+    {
+      "title": "První loupežnická pohádka",
+      "children": [
+        {
+          "title": "O tlustém pradědečkovi a loupežnících",
+          "href": "OEBPS/Text/devatero_pohadek_040.html#sigil_toc_id_2"
+        }
+      ],
+      "href": "OEBPS/Text/devatero_pohadek_040.html"
+    },
+    {
+      "title": "Pohádka vodnická",
+      "href": "OEBPS/Text/devatero_pohadek_043.html"
+    },
+    {
+      "title": "Druhá loupežnická pohádka",
+      "children": [
+        {
+          "title": "Pohádka o zdvořilém loupežníkovi",
+          "href": "OEBPS/Text/devatero_pohadek_054.html#sigil_toc_id_3"
+        }
+      ],
+      "href": "OEBPS/Text/devatero_pohadek_054.html"
+    },
+    {
+      "title": "Pohádka tulácká",
+      "children": [
+        {
+          "title": "Král František",
+          "href": "OEBPS/Text/devatero_pohadek_063.html#sigil_toc_id_4"
+        }
+      ],
+      "href": "OEBPS/Text/devatero_pohadek_063.html"
+    },
+    {
+      "title": "Velká policejní pohádka",
+      "href": "OEBPS/Text/devatero_pohadek_076.html"
+    },
+    {
+      "title": "Pohádka pošťácká",
+      "href": "OEBPS/Text/devatero_pohadek_101.html"
+    },
+    {
+      "title": "Velká pohádka doktorská",
+      "children": [
+        {
+          "title": "O princezně solimánské",
+          "href": "OEBPS/Text/devatero_pohadek_127.html"
+        },
+        {
+          "title": "Případ s hejkalem",
+          "href": "OEBPS/Text/devatero_pohadek_130.html"
+        },
+        {
+          "title": "Případ s havlovickým vodníkem",
+          "href": "OEBPS/Text/devatero_pohadek_133.html"
+        },
+        {
+          "title": "Případ s rusalkami",
+          "href": "OEBPS/Text/devatero_pohadek_136.html"
+        }
+      ],
+      "href": "OEBPS/Text/devatero_pohadek_124.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/devatero_pohadek_139.html"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/devatero_pohadek_140.html"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/devatero_pohadek_141.html"
+    }
+  ]
+}
