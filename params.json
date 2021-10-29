@@ -14,14 +14,14 @@
       "h2": "",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "mlphvezdicky ",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
       "brBefore": "",
       "brAfter": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radkub ",
       "blockquote": "mlpverse mlpdopisbez1radku ",
-      "figure": "",
+      "figure": "mlpobrazky1 mlpobrazky ",
       "em": "mlpznakkurziva11b mlpdopispodpisi ",
       "strong": "",
       "remove": "",
@@ -34,7 +34,7 @@
         "id": 0,
         "role": "break",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "title": "",
         "subtitle": "",
         "children": []
@@ -45,7 +45,7 @@
         "id": 1,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "title": "",
         "subtitle": "",
         "children": []
@@ -56,7 +56,7 @@
         "id": 2,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "title": "",
         "subtitle": "",
         "children": []
@@ -67,7 +67,7 @@
         "id": 3,
         "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "title": "",
         "subtitle": "",
         "children": []
@@ -99,7 +99,7 @@
             "id": 6,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -110,7 +110,7 @@
             "id": 7,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -131,7 +131,7 @@
                 "id": 9,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -142,7 +142,7 @@
                 "id": 10,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -165,7 +165,7 @@
                 "id": 12,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -176,7 +176,7 @@
                 "id": 13,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -199,7 +199,7 @@
                 "id": 15,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -210,7 +210,7 @@
                 "id": 16,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -233,7 +233,7 @@
                 "id": 18,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -244,7 +244,7 @@
                 "id": 19,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -267,7 +267,7 @@
                 "id": 21,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -278,7 +278,7 @@
                 "id": 22,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -303,7 +303,7 @@
             "id": 24,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -314,7 +314,7 @@
             "id": 25,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -325,7 +325,7 @@
             "id": 26,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -336,7 +336,7 @@
             "id": 27,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -347,7 +347,7 @@
             "id": 28,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -358,7 +358,7 @@
             "id": 29,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -381,7 +381,7 @@
             "id": 31,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -392,7 +392,7 @@
             "id": 32,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -403,7 +403,7 @@
             "id": 33,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -414,7 +414,7 @@
             "id": 34,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -425,7 +425,7 @@
             "id": 35,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -436,7 +436,7 @@
             "id": 36,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -447,7 +447,7 @@
             "id": 37,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -458,7 +458,7 @@
             "id": 38,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -481,7 +481,7 @@
             "id": 40,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -492,7 +492,7 @@
             "id": 41,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -515,7 +515,7 @@
             "id": 43,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -526,7 +526,7 @@
             "id": 44,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -537,7 +537,7 @@
             "id": 45,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -548,7 +548,7 @@
             "id": 46,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -559,7 +559,7 @@
             "id": 47,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -570,7 +570,7 @@
             "id": 48,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -581,7 +581,7 @@
             "id": 49,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -592,7 +592,7 @@
             "id": 50,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -603,7 +603,7 @@
             "id": 51,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -614,7 +614,7 @@
             "id": 52,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -637,7 +637,7 @@
             "id": 54,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -648,7 +648,7 @@
             "id": 55,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -659,7 +659,7 @@
             "id": 56,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -670,7 +670,7 @@
             "id": 57,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -681,7 +681,7 @@
             "id": 58,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -692,7 +692,7 @@
             "id": 59,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -703,7 +703,7 @@
             "id": 60,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -714,7 +714,7 @@
             "id": 61,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -737,7 +737,7 @@
             "id": 63,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -748,7 +748,7 @@
             "id": 64,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -759,7 +759,7 @@
             "id": 65,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -770,7 +770,7 @@
             "id": 66,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -781,7 +781,7 @@
             "id": 67,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -792,7 +792,7 @@
             "id": 68,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -803,7 +803,7 @@
             "id": 69,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -814,7 +814,7 @@
             "id": 70,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -825,7 +825,7 @@
             "id": 71,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -836,7 +836,7 @@
             "id": 72,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -847,7 +847,7 @@
             "id": 73,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -858,7 +858,7 @@
             "id": 74,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -881,7 +881,7 @@
             "id": 76,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -892,7 +892,7 @@
             "id": 77,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -903,7 +903,7 @@
             "id": 78,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -914,7 +914,7 @@
             "id": 79,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -925,7 +925,7 @@
             "id": 80,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -936,7 +936,7 @@
             "id": 81,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -947,7 +947,7 @@
             "id": 82,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -958,7 +958,7 @@
             "id": 83,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -969,7 +969,7 @@
             "id": 84,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -980,7 +980,7 @@
             "id": 85,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -991,7 +991,7 @@
             "id": 86,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1002,7 +1002,7 @@
             "id": 87,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1013,7 +1013,7 @@
             "id": 88,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1024,7 +1024,7 @@
             "id": 89,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1035,7 +1035,7 @@
             "id": 90,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1046,7 +1046,7 @@
             "id": 91,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1057,7 +1057,7 @@
             "id": 92,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1068,7 +1068,7 @@
             "id": 93,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1079,7 +1079,7 @@
             "id": 94,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1090,7 +1090,7 @@
             "id": 95,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1101,7 +1101,7 @@
             "id": 96,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1112,7 +1112,7 @@
             "id": 97,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1123,7 +1123,7 @@
             "id": 98,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1134,7 +1134,7 @@
             "id": 99,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1157,7 +1157,7 @@
             "id": 101,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1168,7 +1168,7 @@
             "id": 102,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1179,7 +1179,7 @@
             "id": 103,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1190,7 +1190,7 @@
             "id": 104,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1201,7 +1201,7 @@
             "id": 105,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1212,7 +1212,7 @@
             "id": 106,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1223,7 +1223,7 @@
             "id": 107,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1234,7 +1234,7 @@
             "id": 108,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1245,7 +1245,7 @@
             "id": 109,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1256,7 +1256,7 @@
             "id": 110,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1267,7 +1267,7 @@
             "id": 111,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1278,7 +1278,7 @@
             "id": 112,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1289,7 +1289,7 @@
             "id": 113,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1300,7 +1300,7 @@
             "id": 114,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1311,7 +1311,7 @@
             "id": 115,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1322,7 +1322,7 @@
             "id": 116,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1333,7 +1333,7 @@
             "id": 117,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1344,7 +1344,7 @@
             "id": 118,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1355,7 +1355,7 @@
             "id": 119,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1366,7 +1366,7 @@
             "id": 120,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1377,7 +1377,7 @@
             "id": 121,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1388,7 +1388,7 @@
             "id": 122,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1411,7 +1411,7 @@
             "id": 124,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1422,7 +1422,7 @@
             "id": 125,
             "role": "chapter",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "title": "",
             "subtitle": "",
             "children": []
@@ -1443,7 +1443,7 @@
                 "id": 127,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -1454,7 +1454,7 @@
                 "id": 128,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -1477,7 +1477,7 @@
                 "id": 130,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -1488,7 +1488,7 @@
                 "id": 131,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -1511,7 +1511,7 @@
                 "id": 133,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -1522,7 +1522,7 @@
                 "id": 134,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -1545,7 +1545,7 @@
                 "id": 136,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -1556,7 +1556,7 @@
                 "id": 137,
                 "role": "chapter",
                 "numberedChildren": false,
-                "inToc": true,
+                "inToc": false,
                 "title": "",
                 "subtitle": "",
                 "children": []
@@ -1593,7 +1593,7 @@
         "id": 140,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "title": "První vydání knih Karla Čapka",
         "subtitle": "",
         "children": []
@@ -1604,7 +1604,7 @@
         "id": 141,
         "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
+        "inToc": false,
         "title": "",
         "subtitle": "",
         "children": []
@@ -1617,7 +1617,7 @@
       "identifier": "0acd2fae-7580-4627-8ba5-c8964e91f5ac",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-29T11:34:26.736Z"
+      "modified": "2021-10-29T11:56:24.720Z"
     },
     "chapters": [
       {
@@ -2786,6 +2786,6 @@
       "user": "books-are-next",
       "repo": "capek-devatero-pohadek"
     },
-    "generatedAt": 1635507267658
+    "generatedAt": 1635508585713
   }
 }

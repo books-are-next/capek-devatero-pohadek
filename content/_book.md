@@ -233,8 +233,6 @@ tocBase:
     title: Ediční poznámka
   - link: devatero_pohadek_140.html
     title: Život a doba spisovatele Karla Čapka v datech
-  - link: devatero_pohadek_141.html
-    title: První vydání knih Karla Čapka
 static:
   - style
   - scripts
