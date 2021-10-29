@@ -82,7 +82,7 @@ V tu chvíli se podíval oknem sám pan sultán Solimán. Ani nevěřil svým o�
 
 A od té doby, pane Magiáš, začala princezna doopravdy sílit, i tváře jí zčervenaly, a jedla jako vlčinka. To je oučinek světla a vzduchu a sluníčka, abyste věděl. A já vám to povídám proto, že vy tady taky žijete v takové sluji, kam slunce nesvítí a vítr nezavane; a to, pane Magiáš, není zdravé. Tak to jsem vám chtěl jako říct.“
 
-\* \* \*
+* * *
 
 Když hronovský doktor dopověděl pohádku o princezně solimánské, přihnal se pihovatý Vincek a vedl s sebou doktora z Hořiček, doktora z Úpice a doktora z Kostelce. „Tak tady je vedu,“ křičel už zdálky. „Lidičky, to jsem se uhnal!“
 

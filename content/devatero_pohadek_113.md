@@ -52,6 +52,6 @@ Ráno nato hlásil pan Kolbaba panu poštmistrovi, že ten dopis bez adresy psal
 
 To řekl, přehodil si přes rameno pošťáckou tašku s tím dopisem a s krajícem chleba a vydal se do světa.
 
-\* \* \*
+* * *
 
 Tak pan Kolbaba chodil a chodil a všude se ptal, nežije-li v tom kraji nějaká slečna Mařenka, co čeká psaníčko od nějakého pana šoféra Frantíka. A tak prochodil celé Litoměřicko a Lounsko a rakovnický okres a Plzeňsko a Domažlicko a Písek a Budějicko a Přeloučsko a Táborsko a Čáslavsko a hejtmanství hradecké a okres jičínský a Boleslavsko; byl v Kutné Hoře, Litomyšli, Třeboni, Vodňanech, Sušici, Příbrami, Kladně a Mladé Boleslavi a ve Voticích a v Trutnově a v Sobotce a v Turnově a ve Slaném a v Pelhřimově, ba i v Dobrušce a v Úpici a v Hronově a u Sedmi Chalup, i na Krákorce byl i v Zálesí, no zkrátka všude, a všude se přeptával po té slečně Mařence. Ono těch slečen Mařenek, co v Čechách našel, bylo moc, dohromady čtyřicet devět tisíc devět set a osmdesát, ale žádná z nich nečekala psaníčko od pana šoféra Frantíka; některé z nich sice čekaly na psaníčko od nějakého pana šoféra, ale ten se nejmenoval Frantík, nýbrž Toník nebo Ladislav nebo Václav, Josef nebo Jarolím či Lojzík anebo Florián, též Jirka nebo Johan nebo Vavřinec, ba i Dominik a Vendelín a Erazim, jenom Frantík ne; a jiné ty slečny Mařenky zase čekaly na psaníčko od nějakého pana Frantíka, ale ten zase nebyl šoférem, nýbrž zámečníkem nebo šikovatelem nebo truhlářem nebo konduktérem, případně též drogistou, čalouníkem, holičem nebo krejčím, ale just ne šoférem.

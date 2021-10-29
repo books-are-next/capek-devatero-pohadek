@@ -30,7 +30,7 @@ Víckrát jsem tu rusalku neviděl; asi se jí ta zlomená bércová kostička d
 
 Z toho je taky vidět, že se ani strašidla, ani jiné pohádkové úkazy už nepasují do dnešního světa, ledaže si najdou jiné a rozumnější povolání. Příležitosti k tomu mají habaděj.“
 
-\* \* \*
+* * *
 
 Propána, děti, vždyť my jsme při tom povídání málem zapomněli na kouzelníka Magiáše! No bodejť, nemohl si ani klápnout, ani špitnout, protože až do této chvíle mu vězí v krku švestka; může se jen strachem potit, koulet očima a myslet si, kýž by už mu ti čtyři doktoři pomohli!
 

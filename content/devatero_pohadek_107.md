@@ -22,7 +22,7 @@ title: ''
 
 Inu, když mně to neřeknete, tak si to nechte, myslel si pan Kolbaba. Však já dám pozor, kam půjdete spát. – A sedl si zase u kamen, aby dával pozor. Ale jen se tam ulebedil, už se mu začala tak nějak klížit na očičkách víčka, a než by se řeklo pět, pan Kolbaba usnul a spal jako dudek až do božího rána.
 
-\* \* \*
+* * *
 
 Tedy tohle, co viděl, pan pošťák Kolbaba nikomu neřekl, protože, to víte, na poště se vlastně nesmí přespávat. Jenom od té doby ho už nemrzelo roznášet dopisy lidem. Tenhle dopis, říkal si, je takový vlažňoučký, ale tady ten zrovna hřeje, jak je teplý; to asi je psaní od nějaké maminky.
 
