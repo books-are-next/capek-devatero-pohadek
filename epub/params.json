@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Devatero pohádek",
@@ -6,7 +7,9 @@
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-23T09:57:54.824Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven2kapitola mlpuroven3nadpis mlpuroven3nadpissamostatna mlpuroven3nadpisstred ",
@@ -32,7 +35,7 @@
         "filename": "devatero_pohadek_001.md",
         "xhtml": "devatero_pohadek_001.html",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "title": "",
@@ -2789,3 +2792,4 @@
     "generatedAt": 1635507267658
   }
 }
+
