@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-23T09:57:54.824Z'
   languageCode: cs
-chapters:
-  - devatero_pohadek_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - devatero_pohadek_002.html
   - devatero_pohadek_003.html
   - devatero_pohadek_005.html
@@ -150,6 +151,7 @@ chapters:
   - devatero_pohadek_139.html
   - devatero_pohadek_140.html
   - devatero_pohadek_141.html
+  - colophon.html
 tocBase:
   - link: devatero_pohadek_005.html
     title: Předmluva
@@ -159,76 +161,57 @@ tocBase:
       - link: devatero_pohadek_009.html
         title: 2. Co všechno kočka dovede
         children: []
-        numberedChildren: false
       - link: devatero_pohadek_012.html
         title: 3. Jak detektývové kouzelníka honili
         children: []
-        numberedChildren: false
       - link: devatero_pohadek_015.html
         title: 4.Kterak slavný Sidney Hall kouzelníka chytil
         children: []
-        numberedChildren: false
       - link: devatero_pohadek_018.html
         title: 5. Jak kouzelník ve vězení seděl
         children: []
-        numberedChildren: false
       - link: devatero_pohadek_021.html
         title: 6. Pohádky konec
         children: []
-        numberedChildren: false
-    numberedChildren: false
   - link: devatero_pohadek_024.html
     title: Pohádka psí
     children: []
-    numberedChildren: false
   - link: devatero_pohadek_031.html
     title: Pohádka ptačí
     children: []
-    numberedChildren: false
   - link: devatero_pohadek_040.html
     title: První loupežnická pohádka
     children: []
-    numberedChildren: false
   - link: devatero_pohadek_043.html
     title: Pohádka vodnická
     children: []
-    numberedChildren: false
   - link: devatero_pohadek_054.html
     title: Druhá loupežnická pohádka
     children: []
-    numberedChildren: false
   - link: devatero_pohadek_063.html
     title: Pohádka tulácká
     children: []
-    numberedChildren: false
   - link: devatero_pohadek_076.html
     title: Velká policejní pohádka
     children: []
-    numberedChildren: false
   - link: devatero_pohadek_101.html
     title: Pohádka pošťácká
     children: []
-    numberedChildren: false
   - link: devatero_pohadek_124.html
     title: Velká pohádka doktorská
     children:
       - link: devatero_pohadek_127.html
         title: O princezně solimánské
         children: []
-        numberedChildren: false
       - link: devatero_pohadek_130.html
         title: Případ s hejkalem
         children: []
-        numberedChildren: false
       - link: devatero_pohadek_133.html
         title: Případ s havlovickým vodníkem
         children: []
-        numberedChildren: false
       - link: devatero_pohadek_136.html
         title: Případ s rusalkami
         children: []
-        numberedChildren: false
-    numberedChildren: false
   - link: devatero_pohadek_139.html
     title: Ediční poznámka
   - link: devatero_pohadek_140.html
@@ -239,5 +222,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
