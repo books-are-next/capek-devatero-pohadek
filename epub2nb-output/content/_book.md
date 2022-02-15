@@ -3,12 +3,13 @@ outputs: meta
 slug: book
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Devatero pohádek
   identifier: 0acd2fae-7580-4627-8ba5-c8964e91f5ac
   author: Karel Čapek
   publisher: Městská knihovna v Praze
   modified: '2021-09-23T09:57:54.824Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
 readingOrder:
@@ -157,61 +158,40 @@ tocBase:
     title: Předmluva
   - link: devatero_pohadek_006.html
     title: Velká kočičí pohádka
-    children:
-      - link: devatero_pohadek_009.html
-        title: 2. Co všechno kočka dovede
-        children: []
-      - link: devatero_pohadek_012.html
-        title: 3. Jak detektývové kouzelníka honili
-        children: []
-      - link: devatero_pohadek_015.html
-        title: 4.Kterak slavný Sidney Hall kouzelníka chytil
-        children: []
-      - link: devatero_pohadek_018.html
-        title: 5. Jak kouzelník ve vězení seděl
-        children: []
-      - link: devatero_pohadek_021.html
-        title: 6. Pohádky konec
-        children: []
+  - link: devatero_pohadek_009.html
+    title: 2. Co všechno kočka dovede
+  - link: devatero_pohadek_012.html
+    title: 3. Jak detektývové kouzelníka honili
+  - link: devatero_pohadek_015.html
+    title: 4.Kterak slavný Sidney Hall kouzelníka chytil
+  - link: devatero_pohadek_018.html
+    title: 5. Jak kouzelník ve vězení seděl
+  - link: devatero_pohadek_021.html
+    title: 6. Pohádky konec
   - link: devatero_pohadek_024.html
     title: Pohádka psí
-    children: []
-  - link: devatero_pohadek_031.html
-    title: Pohádka ptačí
-    children: []
   - link: devatero_pohadek_040.html
     title: První loupežnická pohádka
-    children: []
   - link: devatero_pohadek_043.html
     title: Pohádka vodnická
-    children: []
   - link: devatero_pohadek_054.html
     title: Druhá loupežnická pohádka
-    children: []
   - link: devatero_pohadek_063.html
     title: Pohádka tulácká
-    children: []
   - link: devatero_pohadek_076.html
     title: Velká policejní pohádka
-    children: []
   - link: devatero_pohadek_101.html
     title: Pohádka pošťácká
-    children: []
   - link: devatero_pohadek_124.html
     title: Velká pohádka doktorská
-    children:
-      - link: devatero_pohadek_127.html
-        title: O princezně solimánské
-        children: []
-      - link: devatero_pohadek_130.html
-        title: Případ s hejkalem
-        children: []
-      - link: devatero_pohadek_133.html
-        title: Případ s havlovickým vodníkem
-        children: []
-      - link: devatero_pohadek_136.html
-        title: Případ s rusalkami
-        children: []
+  - link: devatero_pohadek_127.html
+    title: O princezně solimánské
+  - link: devatero_pohadek_130.html
+    title: Případ s hejkalem
+  - link: devatero_pohadek_133.html
+    title: Případ s havlovickým vodníkem
+  - link: devatero_pohadek_136.html
+    title: Případ s rusalkami
   - link: devatero_pohadek_139.html
     title: Ediční poznámka
   - link: devatero_pohadek_140.html
