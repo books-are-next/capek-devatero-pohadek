@@ -1759,17 +1759,7 @@
         "children": []
       }
     ],
-    "replacements": [
-      {
-        "find": ".\\.",
-        "replace": "XXX.",
-        "regex": true
-      },
-      {
-        "find": "kos",
-        "replace": "vrána"
-      }
-    ]
+    "replacements": []
   },
   "epub": {
     "metadata": {
