@@ -1,5 +1,6 @@
 ---
 title: Případ s hejkalem
+contentType: prose
 ---
 
 „Tomu už je taky hezkých pár let, co se v lese na Krákorce zdržoval hejkal. To víte, to je jedno z nejprotivnějších strašidel, co vůbec kdy bývaly. Jde člověk v noci lesem, a najednou to za ním zahejká, zařičí, zaúpí, zakvílí, zavyje nebo se tak hrozně zachechtá. To se rozumí, člověk se vyděsí na smrt, taková hrůza na něj padne a on běží, pádí, utíká, div duši strachem nevypustí. To teda dělá hejkal, a tuhle neplechu tropil na Krákorce léta letoucí, že už se lidé báli tam za tmy jít.
@@ -27,3 +28,13 @@ Ten hejkal se zasmušil a drbal se za uchem: ‚To je těžká věc, milostpane,
 ‚Ale človíčku,‘ povídám mu, ‚s takovým vzácným hlasovým orgánem, jako máte vy, bych šel k opeře za zpěváka, za trhovníka nebo za vyvolávače k cirkusu; vždyť s tím nádherným a mohutným hlasem je vás na venkov škoda, nemyslíte? V městě byste se možná uplatnil líp.‘
 
 ‚Taky si to někdy říkám,‘ přiznal se hejkal. ‚No, já to zkusím se uchytit jinde, jen co zas budu při hlase.‘
+
+
+
+![devatero_pohadek_055](./resources/devatero_pohadek_055.jpg)
+
+
+
+Tak jsem mu, páni, vymazal chřtán jódem, předepsal mu chlorkali a hypermangán na kloktání a užívat anginol a na krk si dávat obklady. Od té doby toho hejkala nebylo na Krákorce slyšet; opravdu se odstěhoval a přestal strašit. Až po letech jsem se o něm doslechl znovu, a sice z velkého města Hurdyburdy. Prý se tam ten dotyčný hejkal chytil politiky a řečnil na schůzích tak silným hlasem a s takovým úspěchem, že se stal poslancem a dobře se mu do nynějška vede.
+
+A já to tady vypravuju proto, aby pan Magiáš viděl, jak změna vzduchu dělá někdy při různých chorobách zázraky.“
