@@ -1,5 +1,4 @@
 {
-  "extractionComplete": false,
   "params": {
     "metadata": {
       "languageCode": "cs",
@@ -27,7 +26,7 @@
       "blockquote": "mlpverse mlpdopisbez1radku ",
       "figure": "mlpobrazky1 mlpobrazky ",
       "em": "mlpznakkurziva11b mlpdopispodpisi ",
-      "strong": "",
+      "strong": "mlpznaktucne11b",
       "remove": "",
       "ignore": ""
     },
@@ -101,9 +100,9 @@
         "title": "Velká kočičí pohádka",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "hungry": true,
-        "devoured": false
+        "devoured": false,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_007.md",
@@ -138,9 +137,9 @@
         "title": "2. Co všechno kočka dovede",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_010.md",
@@ -175,9 +174,9 @@
         "title": "3. Jak detektývové kouzelníka honili",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_013.md",
@@ -212,9 +211,9 @@
         "title": "4.Kterak slavný Sidney Hall kouzelníka chytil",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_016.md",
@@ -249,9 +248,9 @@
         "title": "5. Jak kouzelník ve vězení seděl",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_019.md",
@@ -286,9 +285,9 @@
         "title": "6. Pohádky konec",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_022.md",
@@ -323,9 +322,9 @@
         "title": "Pohádka psí",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_025.md",
@@ -517,9 +516,9 @@
         "title": "První loupežnická pohádka",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_041.md",
@@ -554,9 +553,9 @@
         "title": "Pohádka vodnická",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_044.md",
@@ -687,9 +686,9 @@
         "title": "Druhá loupežnická pohádka",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_055.md",
@@ -796,9 +795,9 @@
         "title": "Pohádka tulácká",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_064.md",
@@ -953,9 +952,9 @@
         "title": "Velká policejní pohádka",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_077.md",
@@ -1254,9 +1253,9 @@
         "title": "Pohádka pošťácká",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_102.md",
@@ -1531,9 +1530,9 @@
         "title": "Velká pohádka doktorská",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_125.md",
@@ -1568,9 +1567,9 @@
         "title": "O princezně solimánské",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_128.md",
@@ -1605,9 +1604,9 @@
         "title": "Případ s hejkalem",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_131.md",
@@ -1642,9 +1641,9 @@
         "title": "Případ s havlovickým vodníkem",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_134.md",
@@ -1679,9 +1678,9 @@
         "title": "Případ s rusalkami",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
         "devoured": false,
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_137.md",
@@ -1717,8 +1716,8 @@
         "subtitle": "",
         "listType": "plain",
         "devoured": false,
-        "children": [],
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_140.md",
@@ -1730,8 +1729,8 @@
         "subtitle": "",
         "listType": "plain",
         "devoured": false,
-        "children": [],
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_141.md",
@@ -1743,8 +1742,8 @@
         "subtitle": "",
         "listType": "plain",
         "devoured": false,
-        "children": [],
-        "hungry": true
+        "hungry": true,
+        "children": []
       },
       {
         "filename": "devatero_pohadek_142.md",
@@ -1767,7 +1766,7 @@
       "identifier": "0acd2fae-7580-4627-8ba5-c8964e91f5ac",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-15T17:03:21.079Z"
+      "modified": "2022-02-16T22:41:25.104Z"
     },
     "chapters": [
       {
@@ -2932,7 +2931,10 @@
       "wordsection3",
       "wordsection4"
     ],
-    "github": null,
-    "generatedAt": 1644944602312
+    "github": {
+      "user": "books-are-next",
+      "repo": "capek-devatero-pohadek"
+    },
+    "generatedAt": 1645051286027
   }
 }
