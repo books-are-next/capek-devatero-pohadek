@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pohádka
-  tulácká
+title: Pohádka tulácká
 contentType: prose
 ---
 

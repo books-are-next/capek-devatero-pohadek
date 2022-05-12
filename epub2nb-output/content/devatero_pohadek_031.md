@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pohádka
-  ptačí
+title: Pohádka ptačí
 contentType: prose
 ---
 

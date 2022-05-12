@@ -1,7 +1,5 @@
 ---
-title: |-
-  První
-  loupežnická pohádka
+title: První loupežnická pohádka
 contentType: prose
 ---
 

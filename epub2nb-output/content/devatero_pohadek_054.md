@@ -1,7 +1,5 @@
 ---
-title: |-
-  Druhá
-  loupežnická pohádka
+title: Druhá loupežnická pohádka
 contentType: prose
 ---
 

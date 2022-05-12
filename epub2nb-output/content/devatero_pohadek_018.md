@@ -1,7 +1,5 @@
 ---
-title: |-
-  5.
-  Jak kouzelník ve vězení seděl
+title: 5\. Jak kouzelník ve vězení seděl
 contentType: prose
 ---
 

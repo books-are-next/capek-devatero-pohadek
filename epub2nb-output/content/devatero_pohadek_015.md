@@ -1,7 +1,5 @@
 ---
-title: |-
-  4.
-  Kterak slavný Sidney Hall kouzelníka chytil
+title: 4\. Kterak slavný Sidney Hall kouzelníka chytil
 contentType: prose
 ---
 

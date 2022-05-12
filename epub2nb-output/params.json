@@ -47,7 +47,7 @@
         "filename": "devatero_pohadek_002.md",
         "xhtml": "devatero_pohadek_002.html",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "inToc": false,
         "title": "",
         "subtitle": "",
@@ -1817,7 +1817,7 @@
         "xhtml": "devatero_pohadek_008.html"
       },
       {
-        "titleSuggest": "2.\nCo všechno kočka dovede",
+        "titleSuggest": "2\\. Co všechno kočka dovede",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_009.md",
         "xhtml": "devatero_pohadek_009.html"
@@ -1835,7 +1835,7 @@
         "xhtml": "devatero_pohadek_011.html"
       },
       {
-        "titleSuggest": "3.\nJak detektývové kouzelníka honili",
+        "titleSuggest": "3\\. Jak detektývové kouzelníka honili",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_012.md",
         "xhtml": "devatero_pohadek_012.html"
@@ -1853,7 +1853,7 @@
         "xhtml": "devatero_pohadek_014.html"
       },
       {
-        "titleSuggest": "4.\nKterak slavný Sidney Hall kouzelníka chytil",
+        "titleSuggest": "4\\. Kterak slavný Sidney Hall kouzelníka chytil",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_015.md",
         "xhtml": "devatero_pohadek_015.html"
@@ -1871,7 +1871,7 @@
         "xhtml": "devatero_pohadek_017.html"
       },
       {
-        "titleSuggest": "5.\nJak kouzelník ve vězení seděl",
+        "titleSuggest": "5\\. Jak kouzelník ve vězení seděl",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_018.md",
         "xhtml": "devatero_pohadek_018.html"
@@ -1889,7 +1889,7 @@
         "xhtml": "devatero_pohadek_020.html"
       },
       {
-        "titleSuggest": "6.\nPohádky konec",
+        "titleSuggest": "6\\. Pohádky konec",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_021.md",
         "xhtml": "devatero_pohadek_021.html"
@@ -1907,7 +1907,7 @@
         "xhtml": "devatero_pohadek_023.html"
       },
       {
-        "titleSuggest": "Pohádka\npsí",
+        "titleSuggest": "Pohádka psí",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_024.md",
         "xhtml": "devatero_pohadek_024.html"
@@ -1949,7 +1949,7 @@
         "xhtml": "devatero_pohadek_030.html"
       },
       {
-        "titleSuggest": "Pohádka\nptačí",
+        "titleSuggest": "Pohádka ptačí",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_031.md",
         "xhtml": "devatero_pohadek_031.html"
@@ -2003,7 +2003,7 @@
         "xhtml": "devatero_pohadek_039.html"
       },
       {
-        "titleSuggest": "První\nloupežnická pohádka",
+        "titleSuggest": "První loupežnická pohádka",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_040.md",
         "xhtml": "devatero_pohadek_040.html"
@@ -2021,7 +2021,7 @@
         "xhtml": "devatero_pohadek_042.html"
       },
       {
-        "titleSuggest": "Pohádka\nvodnická",
+        "titleSuggest": "Pohádka vodnická",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_043.md",
         "xhtml": "devatero_pohadek_043.html"
@@ -2087,7 +2087,7 @@
         "xhtml": "devatero_pohadek_053.html"
       },
       {
-        "titleSuggest": "Druhá\nloupežnická pohádka",
+        "titleSuggest": "Druhá loupežnická pohádka",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_054.md",
         "xhtml": "devatero_pohadek_054.html"
@@ -2141,7 +2141,7 @@
         "xhtml": "devatero_pohadek_062.html"
       },
       {
-        "titleSuggest": "Pohádka\ntulácká",
+        "titleSuggest": "Pohádka tulácká",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_063.md",
         "xhtml": "devatero_pohadek_063.html"
@@ -2219,7 +2219,7 @@
         "xhtml": "devatero_pohadek_075.html"
       },
       {
-        "titleSuggest": "Velká\npolicejní pohádka",
+        "titleSuggest": "Velká policejní pohádka",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_076.md",
         "xhtml": "devatero_pohadek_076.html"
@@ -2369,7 +2369,7 @@
         "xhtml": "devatero_pohadek_100.html"
       },
       {
-        "titleSuggest": "Pohádka\npošťácká",
+        "titleSuggest": "Pohádka pošťácká",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_101.md",
         "xhtml": "devatero_pohadek_101.html"
@@ -2507,7 +2507,7 @@
         "xhtml": "devatero_pohadek_123.html"
       },
       {
-        "titleSuggest": "Velká\npohádka doktorská",
+        "titleSuggest": "Velká pohádka doktorská",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_124.md",
         "xhtml": "devatero_pohadek_124.html"
@@ -2561,7 +2561,7 @@
         "xhtml": "devatero_pohadek_132.html"
       },
       {
-        "titleSuggest": "Případ s havlovickým\nvodníkem",
+        "titleSuggest": "Případ s havlovickým vodníkem",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_133.md",
         "xhtml": "devatero_pohadek_133.html"
@@ -2603,7 +2603,7 @@
         "xhtml": "devatero_pohadek_139.html"
       },
       {
-        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "devatero_pohadek_140.md",
         "xhtml": "devatero_pohadek_140.html"
@@ -2934,6 +2934,6 @@
       "user": "books-are-next",
       "repo": "capek-devatero-pohadek"
     },
-    "generatedAt": 1651834890379
+    "generatedAt": 1652351683847
   }
 }

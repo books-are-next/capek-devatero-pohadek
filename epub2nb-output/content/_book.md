@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - devatero_pohadek_002.html
+  - promo.html
   - devatero_pohadek_003.html
   - devatero_pohadek_005.html
   - devatero_pohadek_006.html

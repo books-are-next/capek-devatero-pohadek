@@ -1,22 +1,51 @@
 {
-  "author": "Karel Čapek",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "capek-devatero-pohadek-9829a79",
-  "languagecode": "cs",
-  "modified": "2021-09-23T09:57:54.824Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Devatero pohádek",
-  "revision": "9829a79",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-devatero-pohadek-97d995b",
+  "revision": "97d995b",
+  "readingOrder": [
+    "promo.html",
+    "devatero_pohadek_003.html",
+    "devatero_pohadek_005.html",
+    "devatero_pohadek_006.html",
+    "devatero_pohadek_009.html",
+    "devatero_pohadek_012.html",
+    "devatero_pohadek_015.html",
+    "devatero_pohadek_018.html",
+    "devatero_pohadek_021.html",
+    "devatero_pohadek_024.html",
+    "devatero_pohadek_031.html",
+    "devatero_pohadek_040.html",
+    "devatero_pohadek_043.html",
+    "devatero_pohadek_054.html",
+    "devatero_pohadek_063.html",
+    "devatero_pohadek_076.html",
+    "devatero_pohadek_101.html",
+    "devatero_pohadek_124.html",
+    "devatero_pohadek_127.html",
+    "devatero_pohadek_130.html",
+    "devatero_pohadek_133.html",
+    "devatero_pohadek_136.html",
+    "devatero_pohadek_139.html",
+    "devatero_pohadek_140.html",
+    "devatero_pohadek_141.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri May 06 2022 11:02:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651834962914
+    "date": "Thu May 12 2022 10:44:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352269272
   },
   "documents": [
     {
-      "title": "Devatero pohádek",
-      "file": "devatero_pohadek_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +53,7 @@
       "order": 0,
       "prev": null,
       "next": "devatero_pohadek_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Devatero pohádek",
@@ -42,7 +63,7 @@
       "ideas": 4,
       "role": "chapter",
       "order": 1,
-      "prev": "devatero_pohadek_002.html",
+      "prev": "promo.html",
       "next": "devatero_pohadek_005.html",
       "toc": [
         {
@@ -55,7 +76,7 @@
       ]
     },
     {
-      "title": "Předmluva • Devatero pohádek",
+      "title": "Předmluva",
       "file": "devatero_pohadek_005.html",
       "words": 141,
       "chars": 931,
@@ -75,7 +96,7 @@
       ]
     },
     {
-      "title": "Velká kočičí pohádka • Devatero pohádek",
+      "title": "Velká kočičí pohádka",
       "file": "devatero_pohadek_006.html",
       "words": 1935,
       "chars": 11362,
@@ -95,11 +116,11 @@
       ]
     },
     {
-      "title": "2.\nCo všechno kočka dovede • Devatero pohádek",
+      "title": "2. Co všechno kočka dovede",
       "file": "devatero_pohadek_009.html",
       "words": 1602,
-      "chars": 8945,
-      "ideas": 37,
+      "chars": 8948,
+      "ideas": 36,
       "role": "chapter",
       "order": 4,
       "prev": "devatero_pohadek_006.html",
@@ -108,18 +129,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Co všechno kočka dovede",
+          "name": "2. Co všechno kočka dovede",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "3.\nJak detektývové kouzelníka honili • Devatero pohádek",
+      "title": "3. Jak detektývové kouzelníka honili",
       "file": "devatero_pohadek_012.html",
       "words": 2241,
-      "chars": 13321,
-      "ideas": 81,
+      "chars": 13324,
+      "ideas": 80,
       "role": "chapter",
       "order": 5,
       "prev": "devatero_pohadek_009.html",
@@ -128,18 +149,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak detektývové kouzelníka honili",
+          "name": "3. Jak detektývové kouzelníka honili",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "4.\nKterak slavný Sidney Hall kouzelníka chytil • Devatero pohádek",
+      "title": "4. Kterak slavný Sidney Hall kouzelníka chytil",
       "file": "devatero_pohadek_015.html",
       "words": 4840,
-      "chars": 27343,
-      "ideas": 116,
+      "chars": 27346,
+      "ideas": 115,
       "role": "chapter",
       "order": 6,
       "prev": "devatero_pohadek_012.html",
@@ -148,18 +169,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kterak slavný Sidney Hall kouzelníka chytil",
+          "name": "4. Kterak slavný Sidney Hall kouzelníka chytil",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "5.\nJak kouzelník ve vězení seděl • Devatero pohádek",
+      "title": "5. Jak kouzelník ve vězení seděl",
       "file": "devatero_pohadek_018.html",
       "words": 1522,
-      "chars": 9346,
-      "ideas": 71,
+      "chars": 9349,
+      "ideas": 70,
       "role": "chapter",
       "order": 7,
       "prev": "devatero_pohadek_015.html",
@@ -168,18 +189,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak kouzelník ve vězení seděl",
+          "name": "5. Jak kouzelník ve vězení seděl",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "6.\nPohádky konec • Devatero pohádek",
+      "title": "6. Pohádky konec",
       "file": "devatero_pohadek_021.html",
       "words": 1117,
-      "chars": 6418,
-      "ideas": 65,
+      "chars": 6421,
+      "ideas": 64,
       "role": "chapter",
       "order": 8,
       "prev": "devatero_pohadek_018.html",
@@ -188,18 +209,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohádky konec",
+          "name": "6. Pohádky konec",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pohádka\npsí • Devatero pohádek",
+      "title": "Pohádka psí",
       "file": "devatero_pohadek_024.html",
       "words": 2675,
-      "chars": 15131,
-      "ideas": 29,
+      "chars": 15132,
+      "ideas": 28,
       "role": "chapter",
       "order": 9,
       "prev": "devatero_pohadek_021.html",
@@ -208,18 +229,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohádka\npsí",
+          "name": "Pohádka psí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pohádka\nptačí • Devatero pohádek",
+      "title": "Pohádka ptačí",
       "file": "devatero_pohadek_031.html",
       "words": 2035,
-      "chars": 11333,
-      "ideas": 33,
+      "chars": 11334,
+      "ideas": 32,
       "role": "chapter",
       "order": 10,
       "prev": "devatero_pohadek_024.html",
@@ -228,18 +249,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohádka\nptačí",
+          "name": "Pohádka ptačí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nloupežnická pohádka • Devatero pohádek",
+      "title": "První loupežnická pohádka",
       "file": "devatero_pohadek_040.html",
       "words": 3807,
-      "chars": 23034,
-      "ideas": 122,
+      "chars": 23035,
+      "ideas": 121,
       "role": "chapter",
       "order": 11,
       "prev": "devatero_pohadek_031.html",
@@ -248,18 +269,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První\nloupežnická pohádka",
+          "name": "První loupežnická pohádka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pohádka\nvodnická • Devatero pohádek",
+      "title": "Pohádka vodnická",
       "file": "devatero_pohadek_043.html",
       "words": 1750,
-      "chars": 9833,
-      "ideas": 55,
+      "chars": 9834,
+      "ideas": 54,
       "role": "chapter",
       "order": 12,
       "prev": "devatero_pohadek_040.html",
@@ -268,18 +289,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohádka\nvodnická",
+          "name": "Pohádka vodnická",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Druhá\nloupežnická pohádka • Devatero pohádek",
+      "title": "Druhá loupežnická pohádka",
       "file": "devatero_pohadek_054.html",
       "words": 2949,
-      "chars": 17199,
-      "ideas": 74,
+      "chars": 17200,
+      "ideas": 73,
       "role": "chapter",
       "order": 13,
       "prev": "devatero_pohadek_043.html",
@@ -288,18 +309,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Druhá\nloupežnická pohádka",
+          "name": "Druhá loupežnická pohádka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pohádka\ntulácká • Devatero pohádek",
+      "title": "Pohádka tulácká",
       "file": "devatero_pohadek_063.html",
       "words": 3690,
-      "chars": 20686,
-      "ideas": 119,
+      "chars": 20687,
+      "ideas": 118,
       "role": "chapter",
       "order": 14,
       "prev": "devatero_pohadek_054.html",
@@ -308,18 +329,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohádka\ntulácká",
+          "name": "Pohádka tulácká",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Velká\npolicejní pohádka • Devatero pohádek",
+      "title": "Velká policejní pohádka",
       "file": "devatero_pohadek_076.html",
       "words": 4591,
-      "chars": 26484,
-      "ideas": 91,
+      "chars": 26485,
+      "ideas": 90,
       "role": "chapter",
       "order": 15,
       "prev": "devatero_pohadek_063.html",
@@ -328,18 +349,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Velká\npolicejní pohádka",
+          "name": "Velká policejní pohádka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pohádka\npošťácká • Devatero pohádek",
+      "title": "Pohádka pošťácká",
       "file": "devatero_pohadek_101.html",
       "words": 4048,
-      "chars": 23084,
-      "ideas": 143,
+      "chars": 23085,
+      "ideas": 142,
       "role": "chapter",
       "order": 16,
       "prev": "devatero_pohadek_076.html",
@@ -348,18 +369,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohádka\npošťácká",
+          "name": "Pohádka pošťácká",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Velká\npohádka doktorská • Devatero pohádek",
+      "title": "Velká pohádka doktorská",
       "file": "devatero_pohadek_124.html",
       "words": 887,
-      "chars": 5156,
-      "ideas": 18,
+      "chars": 5157,
+      "ideas": 17,
       "role": "chapter",
       "order": 17,
       "prev": "devatero_pohadek_101.html",
@@ -368,14 +389,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Velká\npohádka doktorská",
+          "name": "Velká pohádka doktorská",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "O princezně solimánské • Devatero pohádek",
+      "title": "O princezně solimánské",
       "file": "devatero_pohadek_127.html",
       "words": 2211,
       "chars": 12942,
@@ -395,7 +416,7 @@
       ]
     },
     {
-      "title": "Případ s hejkalem • Devatero pohádek",
+      "title": "Případ s hejkalem",
       "file": "devatero_pohadek_130.html",
       "words": 533,
       "chars": 2968,
@@ -415,11 +436,11 @@
       ]
     },
     {
-      "title": "Případ s havlovickým\nvodníkem • Devatero pohádek",
+      "title": "Případ s havlovickým vodníkem",
       "file": "devatero_pohadek_133.html",
       "words": 535,
-      "chars": 2966,
-      "ideas": 18,
+      "chars": 2967,
+      "ideas": 17,
       "role": "chapter",
       "order": 20,
       "prev": "devatero_pohadek_130.html",
@@ -428,14 +449,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Případ s havlovickým\nvodníkem",
+          "name": "Případ s havlovickým vodníkem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Případ s rusalkami • Devatero pohádek",
+      "title": "Případ s rusalkami",
       "file": "devatero_pohadek_136.html",
       "words": 1559,
       "chars": 8688,
@@ -455,7 +476,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Devatero pohádek",
+      "title": "Ediční poznámka",
       "file": "devatero_pohadek_139.html",
       "words": 77,
       "chars": 606,
@@ -475,11 +496,11 @@
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Devatero pohádek",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "devatero_pohadek_140.html",
       "words": 293,
-      "chars": 2024,
-      "ideas": 33,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 23,
       "prev": "devatero_pohadek_139.html",
@@ -488,14 +509,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První vydání knih Karla Čapka • Devatero pohádek",
+      "title": "První vydání knih Karla Čapka",
       "file": "devatero_pohadek_141.html",
       "words": 233,
       "chars": 1155,
@@ -515,11 +536,11 @@
       ]
     },
     {
-      "title": "Tiráž • Devatero pohádek",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 141,
-      "chars": 941,
-      "ideas": 23,
+      "words": 116,
+      "chars": 777,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "devatero_pohadek_141.html",
@@ -537,14 +558,14 @@
   ],
   "totals": {
     "all": {
-      "words": 45430,
-      "chars": 262003,
-      "ideas": 1394
+      "words": 45405,
+      "chars": 261866,
+      "ideas": 1370
     },
     "chapters": {
       "words": 45283,
-      "chars": 261024,
-      "ideas": 1367
+      "chars": 261051,
+      "ideas": 1350
     }
   }
 }

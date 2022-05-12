@@ -1,7 +1,5 @@
 ---
-title: |-
-  2.
-  Co všechno kočka dovede
+title: 2\. Co všechno kočka dovede
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pohádka
-  pošťácká
+title: Pohádka pošťácká
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pohádka
-  vodnická
+title: Pohádka vodnická
 contentType: prose
 ---
 
