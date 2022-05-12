@@ -1,7 +1,5 @@
 ---
-title: |-
-  3.
-  Jak detektývové kouzelníka honili
+title: 3\. Jak detektývové kouzelníka honili
 contentType: prose
 ---
 

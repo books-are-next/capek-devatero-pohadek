@@ -1,7 +1,5 @@
 ---
-title: |-
-  6.
-  Pohádky konec
+title: 6\. Pohádky konec
 contentType: prose
 ---
 

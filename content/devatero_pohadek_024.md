@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pohádka
-  psí
+title: Pohádka psí
 contentType: prose
 ---
 

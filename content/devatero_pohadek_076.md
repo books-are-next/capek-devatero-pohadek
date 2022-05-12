@@ -1,7 +1,5 @@
 ---
-title: |-
-  Velká
-  policejní pohádka
+title: Velká policejní pohádka
 contentType: prose
 ---
 

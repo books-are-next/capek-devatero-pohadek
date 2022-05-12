@@ -1,7 +1,5 @@
 ---
-title: |-
-  Případ s havlovickým
-  vodníkem
+title: Případ s havlovickým vodníkem
 contentType: prose
 ---
 

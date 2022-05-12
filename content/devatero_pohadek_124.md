@@ -1,7 +1,5 @@
 ---
-title: |-
-  Velká
-  pohádka doktorská
+title: Velká pohádka doktorská
 contentType: prose
 ---
 
