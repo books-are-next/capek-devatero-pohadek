@@ -3,17 +3,29 @@ title: Pohádka vodnická
 contentType: prose
 ---
 
+<section>
+
 Jestli si, děti, myslíte, že vodníci nejsou, tak tedy vám říkám, že jsou, a jací! Tak třeba zrovna u nás, co jsme se my jako narodili, bydlel jeden v řece Úpě pod splavem, a jeden byl tuhle v Havlovicích u toho dřevěného mostu, a jeden se zdržoval v Radečském potoku, to byl Němec německá, ani slova česky neuměl; však jednou přišel k mému tatínkovi, aby si dal vytrhnout zub, a za to mu donesl košíček stříbrných a růžových pstruhů pěkně pokladených kopřivami, aby zůstali čerství; a že to byl vodník, bylo vidět z toho, že po něm na židli bylo mokro. A jeden byl u dědečkova mlýna v Hronově, a ten choval pod splavem, pod vodou šestnáct koní; proto inženýři říkali, že tam na tom místě má řeka Metuje šestnáct koňských sil. Těch šestnáct bílých koní pořád táhlo a táhlo, a proto se mlýn pořád točil; a když jedné noci náš dědeček tiše umřel, šel vodník a vypřáhl potichu všech šestnáct koní, a mlýn se tři dny netočil. Na velkých řekách jsou vodníci, kteří mají ještě víc koní, třeba padesát nebo sto; ale někteří jsou takoví chudáci, že nemají ani dřevěnou kozu.
 
-  
+</section>
+
+<section>
 
 Takový velkovodník v Praze, na Vltavě, je ovšem náramně bohatý a velký pán; má třeba i motorový člun a v létě si jede k moři. Vždyť v Praze i obyčejný, podřadný podvodník má někdy peněz jako slupek a lítá v automobilu, hú, hú, až bláto stříká. Ale jsou zase takoví nanicovatí malovodníčkové, mají loužičku jako dlaň a v ní jednu žábu, tři komáry a dva brouky potápníky; nebo mají svou živnost na tak mizerné stružce, že si v ní ani myš bříško neurousá; někteří za celý boží rok nechytnou víc než pár papírových lodiček a dětskou plínku, která mamince uplavala při praní. Ba, je to bída. A zase takový rožmberský vodník má třeba dvacet tisíc kaprů, a ještě k tomu líny, ševce, parmy a nějakou tu zubatou štiku. Inu, není žádná rovnost na světě.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_015](./resources/devatero_pohadek_015.jpg)
 
+</section>
 
+
+
+<section>
 
 Vodníci jsou samotáři, ale tak jednou dvakrát do roka, když je velká voda, se sjedou z celého kraje a konají, jak se tomu říká, okresní konferenci. Z našeho kraje se vždycky scházeli při velké vodě na lukách u Hradce Králové, protože tam je taková pěkná rovina a krásné tůně a zátočiny a slepá ramena vystlaná nejjemnějším bahnem dvojnulkou. To musí být žluté bahno anebo trochu do hněda; když je červené nebo šedé, to už není tak hebounké, zrovna jako mast. Na takovém pěkném mokrém místě se tedy sesednou a povídají si, co je nového: že tamhle v Suchovršicích dělají lidi regulaci, takže se tamní vodník, jako starý Jireček, musí odtamtud vystěhovat; že hrníčky a pentle podražily, to vám je hrůza: aby vodník, když chce někoho chytit, koupil za třicet korun pentlí, a hrníček stojí nejmíň tři koruny, a ještě je to šmízo; nejraději praštit řemeslem a chytit se něčeho jiného. A tu si vodníci vypravují, že jaroměřský vodník Faltys, ten zrzavý, se chytil obchodu a prodává minerální vody, a kulhavý Slepánek se stal instalatérem a dělá vodovody, a jiní si pomohli jinou živností. To se rozumí, děti, že vodník může dělat jen to řemeslo, ve kterém je něco od vody; tak například:
 
@@ -47,11 +59,19 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 
 „Že byly celé Čechy pod vodou,“ pomáhal mu skalický vodník Zelinka.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_016](./resources/devatero_pohadek_016.jpg)
 
+</section>
 
+
+
+<section>
 
 „Aha,“ řekl Kreuzmann. „Tedy celé Čechy byly pod vodou, i Žaltman a Červená hůra a Krákorka a všechny ostatní hory; a našinec mohl mokrou nohou, pěkně pod vodou, jít třeba z Brna až do Prahy. Ještě loket nad Sněžkou byla voda. Lidi, to byly časy.“
 
@@ -63,11 +83,19 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 
 „Jak to?“ podivil se Zelinka, který nebyl tak stár jako ti druzí.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_017](./resources/devatero_pohadek_017.jpg)
 
+</section>
 
+
+
+<section>
 
 „Inu, němá byla,“ povídal Liška Hejkavec. „Neměla žádný hlas. Neuměla ještě mluvit. Byla tak tichá a němá, jako je teď, když zmrzne. Nebo jako když napadne sněhu a je půlnoc a nic se ani nepohne; a tu je takové ticho, takové tichoučké ticho, že ti je až ouzko, a tu vystrčíš hlavu z vody a posloucháš; a tu se ti sevře srdce tím ukrutným tichem. Takové ticho tehdy bylo, když byla voda ještě němá.“
 
@@ -75,11 +103,19 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 
 „To přišlo tak,“ řekl Liška. „Mně to vypravoval můj pradědeček a říkal, že už je tomu nějakých milión let. Tak tehdy byl živ jeden vodník, jakpak se honem jmenoval? Rákosník, ne Rákosník, Minařík, taky ne, Hampl, taky ne Hampl, Pavlásek, taky ne, hergot, jakže se jmenoval?“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_018](./resources/devatero_pohadek_018.jpg)
 
+</section>
 
+
+
+<section>
 
 „Arion,“ řekl Kreuzmann.
 
@@ -97,11 +133,19 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 
 „A co dál?“ ptal se vodník Zelinka dychtivě.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_019](./resources/devatero_pohadek_019.jpg)
 
+</section>
 
+
+
+<section>
 
 „Nu, co by bylo? Kuakuakunka byla krásná a pyšná. Nadýmala se jen a říkala kvak. Kvakvakvokoax byl jako blázen. Vezmeš-li si mne za muže, řekl jí, přinesu a dám ti, co budeš chtít. A tu ona řekla: Tedy mi přines modré z nebe, kvak.“
 
@@ -130,3 +174,5 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 V tu chvíli šel kolem jeden člověk a myslil si: To dnes ty žáby kvákají! I popadl kámen a hodil jej do té mokřiny. Voda vysoko vystříkla, zašplouchalo to a bylo ticho: všichni vodníci skočili do vody, a teprve příštího roku budou zase mít konferenci.
 
 _Lidové noviny 25. 12. 1923_
+
+</section>

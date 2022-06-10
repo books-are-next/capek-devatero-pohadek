@@ -3,11 +3,15 @@ title: Pohádka tulácká
 contentType: prose
 ---
 
+<section>
+
 ### _Král František_
 
 Jmenoval se vlastně František Král, ale tak mu říkali jenom tehdy, když ho sebral strážník a dovedl ho na komisařství pro potulku, kde ho zapsali do takové tlusté knihy a nechali ho přespat na pryčně a ráno ho zase poslali dál; na policii mu tedy říkali František Král, ale ostatní lidé ho jmenovali všelijak jinak: ten vandrák; ten šupák, ten tulák, ten pobuda, ten lajdák, ten otrapa, ten hadrník, ten trhan, ten obejda, ten lenoch, ten cikán, ten chudák, ten jindyvyjduum, ten člověk, ten kdovíkdo, ten dareba, ten poběhlík, ten krajánek, ten štvanec, ten vošlapa, ten revertent, ten ludrák, ten prašivka, ten hunt, ten syčák, ten holota, a ještě mnoho jiných jmen mu dávali; kdyby každé to názvisko platilo aspoň korunu, mohl by si za ně koupit žluté boty a možná že i klobouk, ale takhle si za to nekoupil nic a měl jenom to, co mu lidé dali.
 
-  
+</section>
+
+<section>
 
 Jak tedy je už zřejmo, řečený František Král se netěšil nejlepší pověsti a opravdu nebyl nic jiného nežli tulák, který jen ukrádal Pánubohu čas (jenže Pánbůh na věčnosti má tolik mnoho času, že mu ho tím ani za mák neubylo) a neuměl nic než pískat kudlu. Víte, co je to pískat kudlu? To se dělá tak, že člověk ráno suší hubu, v poledne nemá do čeho kousnout a večer se místo jídla párá dřívkem v zubech; a když mu pak kručí hladem žaludek, tomu se říká, že píská kudlu. František Král uměl pískat kudlu tak, že by na ni mohl dávat koncerty; jinak to byl dobrák od kosti – kde by se na něm, chudákovi, také nabralo masa! Když dostal kus chleba, snědl jej, a když mu dali zlé slovo, tak je taky spolkl; takový měl hlad. A když nedostal nic, lehl si někde za plotem, přikryl se tmou a poprosil hvězdičky, aby daly pozor, aby mu nikdo neukradl čepici.
 
@@ -17,11 +21,19 @@ Ale když už jsme u těch psů, víte, děti, proč pes vrtí ocasem? To je tak
 
 Ale o tom jsem nechtěl dnes povídat, nýbrž o tulákovi, který se jmenoval František Král. Tak ten tulák chodil po celém světě; byl až v Trutnově, kde jsou už Němci, a v Hradci Králové, a ve Skalici, a dokonce až ve Vodolově a Maršově a jiných dalekých městech celého světa. Jeden čas sloužil také u mého dědečka na Žernově, ale to víte, tulák je tulák; sebral svůj raneček a šel zase dál, do Starkoče nebo na který kraj světa, a zas po něm nebylo vidu ani slechu; taková to byla neposedná krev.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_024](./resources/devatero_pohadek_024.jpg)
 
+</section>
 
+
+
+<section>
 
 Už jsem vám říkal, že lidé ho jmenovali tulák, trhan, pobuda a ještě všelijak jinak; ale někdy mu také říkali, že je poberta, zloděj, rošťák, dareba nebo raubíř, ale to mu moc křivdili. František Král nikdy nikomu nic nevzal, neukradl ani neštípl. Na mou víru, ani co by za nehet vlezlo. Právě proto, že byl tak poctivý, se nakonec dočkal veliké slávy; ale o tom vám právě chci vypravovat.
 
@@ -53,11 +65,19 @@ Ráno přivedli tuláka před pana soudce; a vždyť to byl, namoutě, pan rada 
 
 „Ba ne, milostpane,“ povídá tulák František, „tady pan Boura mne sebral, protože jsem stál.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_025](./resources/devatero_pohadek_025.jpg)
 
+</section>
 
+
+
+<section>
 
 „Tak vidíš, ty holoto,“ povídá pan soudce, „proč jsi stál? Kdybys nebyl stál, nebyli by tě sebrali. Ale slyším, že u tebe našli nějaký kufřík. Je to pravda?“
 
@@ -95,11 +115,19 @@ Jen to dořekl, když se rozletěly dveře a v nich stál nějaký cizí pán, c
 
 „Tak já to povím docela krátce,“ řekl cizinec. „V Chudobě se dovím, že můj klobouk tam vypil sklenici vody, koupil si hůl a pak sedl do vlaku a jel do Svídnice. To se rozumí, já jedu za ním. Ve Svídnici klobouk, neřád, přenocoval v jednom hotelu, ani nezaplatil účet, a pak odejel neznámo kam. Po delším pátrání jsem se dozvěděl, že chodí po Krakově, a dokonce že se tam chce oženit s jednou vdovou. Tak já jedu do Krakova za ním.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_026](./resources/devatero_pohadek_026.jpg)
 
+</section>
 
+
+
+<section>
 
 „A proč jste jej tak honil?“ ptal se pan soudce.
 
@@ -127,11 +155,19 @@ Jen to dořekl, když se rozletěly dveře a v nich stál nějaký cizí pán, c
 
 „Teda tam jste jej chytil?“ ptal se pan soudce.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_027](./resources/devatero_pohadek_027.jpg)
 
+</section>
 
+
+
+<section>
 
 „Kdepak,“ řekl cizinec. „Běžím k němu na břehu moře, ale v tu chvíli se obrátil vítr a klobouk se kutálel zas k západu. Já za ním, a tak jsem jej honil přes Čínu a Turkestán, dílem pěšky, dílem na nosítkách, na koních nebo na velbloudech, až zase v Taškentě sedl na dráhu a jel zpátky do Orenburku. Odtamtud jel na Charkov a Oděsu a odtamtud do Uher, pak se stočil na Olomouc a Českou Třebovou a na Týniště, a konečně zase sem k nám. A tady jsem jej před pěti minutami chytil na náměstí, právě když chtěl jít do hospody na papričku. Tak, tady je.“
 
@@ -171,11 +207,19 @@ Tak tedy přišel František Král zase na svobodu; ale odměnou za jeho poctivo
 
 Na noc si vlezl do hlídačské boudy a spal jako dudek; a když ráno vystrčil hlavu, svítilo slunce, celý svět se třpytil čerstvou rosičkou a na plotě před boudou seděla bílá vrána. František nikdy dosud neviděl bílou vránu, a tak na ni koukal vyjeven, ani nedýchal. Byla bílá jako padlý sníh, oči měla červené jako rubín a nožičky růžové a česala si zobákem křídla. Když zahlédla Františka, potrhla křídly, jako by chtěla uletět, ale zůstala sedět a dívala se nedůvěřivě jedním rubínovým okem na ježatou hlavu Františkovu.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_028](./resources/devatero_pohadek_028.jpg)
 
+</section>
 
+
+
+<section>
 
 „Ty,“ ozvala se najednou, „nepraštíš mne kamenem?“
 
@@ -239,11 +283,19 @@ Na noc si vlezl do hlídačské boudy a spal jako dudek; a když ráno vystrčil
 
 „To stačí,“ skočila mu do řeči vrána. „A mezi bílými vránami by sis taky troufal být králem?“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_029](./resources/devatero_pohadek_029.jpg)
 
+</section>
 
+
+
+<section>
 
 „I mezi bílé vrány,“ řekl on, „bych přišel jenom jako Král František.“
 
@@ -262,3 +314,5 @@ I naříkaly vrány, že se jim ztratil král; a bílé vrány poručily černý
 Od té doby létají vrány po světě a pořád křičí: „Král! Král!“ A zvláště v zimě, když jich je mnoho pohromadě, si najednou všechny vzpomenou a letí přes pole a lesy křičíce: „Král! Kráál! Krááál! Kráááál!“
 
 _Lidové noviny 25. 12. 1924_
+
+</section>

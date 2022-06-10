@@ -3,9 +3,13 @@ title: O princezně solimánské
 contentType: prose
 ---
 
+<section>
+
 Zatímco si to pihovatý Vincek drandil do Hořiček a do Úpice a do Kostelce pro doktory, seděl hronovský doktor u kouzelníka Magiáše a dával pozor, aby se mu neudusil. Aby jim líp uběhlo čekání, zapálil si viržinku a mlčky pokuřoval.
 
-  
+</section>
+
+<section>
 
 Když už mu to bylo dlouhé, odkašlal a hulil dál. Potom, aby si ukrátil dlouhou chvíli, třikrát zívl a zamrkal. Po nějakém čase prohodil: „Ach jo.“ Asi za půl hodiny se protáhl v kříži a řekl: „Inu énu.“ Po nějaké hodince k tomu doložil: „Snad bychom si zatím mohli zahrát v karty. Pane Magiáš, máte tady nějaké karty?“
 
@@ -29,11 +33,19 @@ Když se o tom dozvěděl sultán Solimán, povolal k sobě toho pana Lustiga, k
 
 Kdybych měl povídat, co všecko ti vyslanci tou dlouhánskou cestou do Evropy zkusili a zažili, to by byla, pane Magiáš, moc dlouhá pohádka. Ale po mnoha a mnoha útrapách se přece jen ti poslové do Evropy dostali a začali hledat doktora pro princeznu Zubejdu.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_054](./resources/devatero_pohadek_054.jpg)
 
+</section>
 
+
+
+<section>
 
 Tak ten průvod solimánských poslů, takových hromských mameluků s turbany na hlavách a pod nosem s frňousy tlustými a dlouhými jako koňské ocasy, se dal na cestu černým lesem. Šli a šli, až potkali strejdu se sekerou a pilou na rameně.
 
@@ -119,7 +131,9 @@ A od té doby, pane Magiáš, začala princezna doopravdy sílit, i tváře jí 
 
 Když hronovský doktor dopověděl pohádku o princezně solimánské, přihnal se pihovatý Vincek a vedl s sebou doktora z Hořiček, doktora z Úpice a doktora z Kostelce. „Tak tady je vedu,“ křičel už zdálky. „Lidičky, to jsem se uhnal!“
 
-  
+</section>
+
+<section>
 
 „Vítám vás, páni kolegové,“ pravil hronovský doktor. „Tady je náš pacient, pan černokněžník Magiáš. Jak vidíte na první pohled, jeho stav je velmi vážný. Pacient naznačuje, že spolkl švestku nebo slívu nebo pecku. Podle mého skromného názoru jeho choroba je prudká švestkitida.“
 
@@ -134,3 +148,5 @@ Když hronovský doktor dopověděl pohádku o princezně solimánské, přihnal
 „Zajímavý případ,“ dodával doktor z Úpice.
 
 „Pane kolego,“ ozval se kostelecký doktor, „to já jsem už míval pěknější a zajímavější medicínské případy. Slyšel jste už, jak jsem vyhojil hejkala z Krákorky? Když ne, tak vám to povím.“
+
+</section>

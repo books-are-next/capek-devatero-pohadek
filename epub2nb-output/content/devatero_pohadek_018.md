@@ -3,9 +3,13 @@ title: 5\. Jak kouzelník ve vězení seděl
 contentType: prose
 ---
 
+<section>
+
 Když tedy, jak už víte, přivedl Sidney Hall kouzelníka zatčeného, bylo zahájeno soudní řízení pro ukradenou kočku.
 
-  
+</section>
+
+<section>
 
 Za vysokým stolem trůnil soudce doktor Korpus, stejně tlustý, jako přísný. Na lavici obžalovaných seděl kouzelník s rukama spoutanýma.
 
@@ -57,11 +61,19 @@ Přivedli tedy toho svědka.
 
 Tu bylo princezně líto kouzelníka. „Snad bych,“ řekla honem, „dala Jůru za kousíček dortu.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_005](./resources/devatero_pohadek_005.jpg)
 
+</section>
 
+
+
+<section>
 
 „A zač je, princezno, kousíček dortu?“
 
@@ -146,3 +158,5 @@ Trestanci rázem procitli. I viděli, že leží na zemi vedle svých tvrdých, 
 „Byl tu ten,“ bručel žalářník, „co ukradl královu kočku. Tři dny stál ve své cele bez hnutí a oči mu zářily jako hvězdy. Dnes ráno zmizel, když si odpykal svůj trest. Byl to nějaký čistý ptáček! Než se ztratil, přikouzlil našemu ctihodnému soudci, doktoru Korpusovi, oslí uši. Ale teď hybaj, lumpové, vstávejte!“
 
 Tak začal zas trestancům bývalý život v šatlavě. Avšak něco se přece změnilo: smrdutá voda ve džbáně chutnala jim navždy nejsladším vínem, plesnivý chléb změnil se v jejich ústech v chuť nejlahodnější, líbezná vůně květů vanula šatlavou a v noci, když uléhali, pokrývalo se jejich lože bělostí nejčistší. Každé noci pak se rozestřel nad šatlavou spánek míru bez výčitek a utrpení.
+
+</section>

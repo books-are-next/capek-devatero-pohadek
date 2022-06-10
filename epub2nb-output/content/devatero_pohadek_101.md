@@ -3,17 +3,29 @@ title: Pohádka pošťácká
 contentType: prose
 ---
 
+<section>
+
 To bych rád věděl: když mohou být pohádky o všelijakých jiných lidských řemeslech a povoláních, jako o králích a princích a loupežnících, pastýřích a rytířích a černokněžnících a obrech a drvoštěpech a vodnících, proč by nemohla být také jednou pohádka o pošťákovi? Vždyť takový poštovní úřad, to je skoro jako zakleté místo; máte tam samé nápisy, že „kouřiti je zakázáno“ a „psy s sebou bráti je zakázáno“, a mnoho jiných varovných tabulek – říkám vám, tolik vyhlášek a zápovědí nemají ve svých úřadovnách ani čarodějníci, ani draci. Už z toho je vidět, že pošta je místo tajemné a mocné. A pak, děti, kdopak kdy viděl, co se děje na poště v noci, když je zavřená? Jářku, na to bychom se chtěli podívat! Však jeden pán – abyste věděli, byl to pan Kolbaba, povoláním pošťák a listonoš – se na to doopravdy podíval a řekl o tom ostatním listonošům a pošťákům a ti to zase řekli dál, až se to doneslo ke mně; a já nejsem tak nepřející, abych to nechal sám pro sebe. Tak jen s tím ven a už se začíná.
 
-  
+</section>
+
+<section>
 
 Tedy toho pana Kolbabu, povoláním listonoše a pošťáka, nějak omrzelo jeho pošťácké řemeslo: co prý se takový listonoš nachodí, naběhá, nadrandí, nalítá, nahoní a našlape, že prý den co den musí ujít dvacet devět tisíc sedm set třicet pět kroků, v čemž je zahrnuto osm tisíc dvě stě čtyřicet devět schodů nahoru a dolů, a že ty dopisy, co roznáší, jsou beztoho samé tiskopisy a účty a jiné zbytečnosti, které nikomu neudělají ani trochu radosti, a že i ten poštovský úřad je takové neveselé a nijaké místo, kde se ani žádné pohádky nedějí. Tak a všelijak jinak si naříkal pan Kolbaba na své pošťácké povolání. A jednou vám si ze samého smutku sedl na poště u kamen a usnul a ani si nevšiml, že už je šest hodin; a když odbila hodina šestá, odešli ostatní pošťáci a listonoši a zavřeli poštu a pan Kolbaba tam zůstal zamčený a spal.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_042](./resources/devatero_pohadek_042.jpg)
 
+</section>
 
+
+
+<section>
 
 Mohlo být k půlnoci, když ho probudil takový šramot, jako když myši ťapou po podlaze. Heleme, řekl si pan Kolbaba, máme tu myši; měla by se na ně políčit past. A když se tak kouká po těch myších, vidí, že to nejsou žádné myši, ale poštovští skřítkové. To vám jsou takoví malí a fousatí pumprlíci, asi tak velicí jako menší slepice wyandotka nebo jako veverka nebo jako lesní králík, tak asi; a na hlavách mají poštovské čepice jako praví pošťáci a nosí pelerínky jako praví listonošové. Zatrachtile, řekl si pan Kolbaba, ale jinak ani nemukl, ani necekl, ba ani nešpitl, aby je nezaplašil. A vida, jeden ten poštovský skřítek přerovnával dopisy, které měl ráno pan Kolbaba roznést; druhý třídil poštu; třetí vážil balíčky a lípal na ně cedulky; čtvrtý huboval, že tady ta škatule není ovázána podle předpisu; pátý seděl u okénka a přepočítával peníze, jako dělají poštovní úředníci. „Vždyť jsem si to myslel,“ broukal ten skřítek, „tady se ten poštovský člověk zase přepočítal o jeden halíř; musím mu to opravit.“ Šestý skřítek seděl u telegrafního aparátu a vyklepával na něm depeši, asi takhle: taktak tak tak taktaktak ták. Ale pan Kolbaba rozuměl, co telegrafuje; v obyčejné řeči to bylo: „Haló, ministerstvo pošt? Tady poštovní šotek číslo sto jedenatřicet. Hlásím všechno v pořádku stop. Kolega elf Matlafousek má kašel hlásí se marod nenastoupil službu stop. Tě péro stop.“
 
@@ -47,11 +59,19 @@ Tohle, děti, už pan Kolbaba nemohl vydržet a vyhrkl: „Neračte se, páni, v
 
 Pan Kolbaba si to nenechal dvakrát říkat a sedl si mezi skřítky.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_043](./resources/devatero_pohadek_043.jpg)
 
+</section>
 
+
+
+<section>
 
 „Tak tady máte karty,“ pravil druhý skřet a podal mu několik dopisů, „a můžete začít.“
 
@@ -85,11 +105,19 @@ Pan Kolbaba se podíval na ty dopisy, co mu dali do ruky, a řekl: „Neračte m
 
 „A když my skřítkové si zavřený dopis položíme na čelo,“ dodal druhý, „můžeme vám říci slovo za slovem, co tam stojí psáno.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_044](./resources/devatero_pohadek_044.jpg)
 
+</section>
 
+
+
+<section>
 
 „To teda je jiná,“ pravil pan Kolbaba. „Ale když už jsme tady tak pohromadě, tak bych se vás rád na něco zeptal. Snad vás to, páni, neurazí.“
 
@@ -115,17 +143,27 @@ Inu, když mně to neřeknete, tak si to nechte, myslel si pan Kolbaba. Však j�
 
 Tedy tohle, co viděl, pan pošťák Kolbaba nikomu neřekl, protože, to víte, na poště se vlastně nesmí přespávat. Jenom od té doby ho už nemrzelo roznášet dopisy lidem. Tenhle dopis, říkal si, je takový vlažňoučký, ale tady ten zrovna hřeje, jak je teplý; to asi je psaní od nějaké maminky.
 
-  
+</section>
+
+<section>
 
 A jednou na poště třídil dopisy, co vybral z poštovní schránky, aby je roznesl lidem. „Heleme,“ řekl najednou, „tady je dopis v zalepené obálce, ale na té obálce není ani adresa, ani známka.“
 
 „Aha,“ pravil pan poštmistr. „To zas někdo hodil do schránky dopis bez adresy.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_045](./resources/devatero_pohadek_045.jpg)
 
+</section>
 
+
+
+<section>
 
 Byl tam zrovna na poště jeden pán, aby poslal své mamince doporučené psaní; ten pán to slyšel a povídá: „No, to musí být ťulpas, potrhlo, cápek, pytlík, dromedár, budižkničemu a božídřevo, kdo posílá dopis a nenapíše na něj ani adresu.“
 
@@ -141,11 +179,19 @@ Pan Kolbaba zatím obracel v ruce ten dopis bez adresy a bručel: „Pane poštm
 
 „Tak snad byste mohli ten dopis otevřít,“ radil ten cizí pán, „a podívat se, kdo jej posílá.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_046](./resources/devatero_pohadek_046.jpg)
 
+</section>
 
+
+
+<section>
 
 „To nejde, pane,“ řekl pan poštmistr přísně, „protože to by, pane, bylo porušení listovního tajemství a to se nesmí.“ A tím byla ta věc pro něj vyřízena.
 
@@ -153,11 +199,19 @@ Ale když ten cizí pán odešel, obrátil se pan Kolbaba k panu poštmistrovi: 
 
 Pan poštmistr se zamyslil a pak řekl: „Safra, to by šlo. Tak to zkuste, pane Kolbaba; když nám ten pan skřítek řekne, co v tom zavřeném dopise stojí psáno, poznáme třeba, komu to psaníčko patří.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_047](./resources/devatero_pohadek_047.jpg)
 
+</section>
 
+
+
+<section>
 
 Tak té noci se dal pan Kolbaba zavřít na poště a čekal. Mohla být půlnoc, když slyšel takové ťapičky ťap po podlaze, jako když myši běhají; a pak zase viděl skřítky, jak třídí dopisy a váží zásilky a počítají peníze a odklepávají depeše. A když byli se vším hotovi, sesedli se na zemi a hráli s dopisy mariáš.
 
@@ -213,11 +267,19 @@ To řekl, přehodil si přes rameno pošťáckou tašku s tím dopisem a s kraj�
 
 Tak pan Kolbaba chodil a chodil a všude se ptal, nežije-li v tom kraji nějaká slečna Mařenka, co čeká psaníčko od nějakého pana šoféra Frantíka. A tak prochodil celé Litoměřicko a Lounsko a rakovnický okres a Plzeňsko a Domažlicko a Písek a Budějicko a Přeloučsko a Táborsko a Čáslavsko a hejtmanství hradecké a okres jičínský a Boleslavsko; byl v Kutné Hoře, Litomyšli, Třeboni, Vodňanech, Sušici, Příbrami, Kladně a Mladé Boleslavi a ve Voticích a v Trutnově a v Sobotce a v Turnově a ve Slaném a v Pelhřimově, ba i v Dobrušce a v Úpici a v Hronově a u Sedmi Chalup, i na Krákorce byl i v Zálesí, no zkrátka všude, a všude se přeptával po té slečně Mařence. Ono těch slečen Mařenek, co v Čechách našel, bylo moc, dohromady čtyřicet devět tisíc devět set a osmdesát, ale žádná z nich nečekala psaníčko od pana šoféra Frantíka; některé z nich sice čekaly na psaníčko od nějakého pana šoféra, ale ten se nejmenoval Frantík, nýbrž Toník nebo Ladislav nebo Václav, Josef nebo Jarolím či Lojzík anebo Florián, též Jirka nebo Johan nebo Vavřinec, ba i Dominik a Vendelín a Erazim, jenom Frantík ne; a jiné ty slečny Mařenky zase čekaly na psaníčko od nějakého pana Frantíka, ale ten zase nebyl šoférem, nýbrž zámečníkem nebo šikovatelem nebo truhlářem nebo konduktérem, případně též drogistou, čalouníkem, holičem nebo krejčím, ale just ne šoférem.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_048](./resources/devatero_pohadek_048.jpg)
 
+</section>
 
+
+
+<section>
 
 A tak ten pan Kolbaba už prochodil rok a den, ale nemohl to psaní doručit té pravé slečně Mařence. Poznal moc věcí: viděl vesnice i města, pole i lesy, východ i západ slunka, návrat skřivánků a příchod jara, setbu i žně, hříbky v lese a zrající švestky, viděl v Žatci chmel a na Mělníce vinice a v Třeboni kapry a v Pardubicích perník, ale když už mu to marné hledání trvalo rok a den, sedl si sklíčen u cesty a řekl si: „Tak to už je marné, to už snad tu slečnu Mařenku ani nenajdu.“
 
@@ -253,11 +315,19 @@ Když to pan Kolbaba uslyšel, vyhrkl: „Že jsem tak smělý, nejmenuje se vá
 
 Tu se ozval smutný šofér a řekl s žalostným vzdechem: „Slečna Marie Nováková se jmenuje ta nevěrnice, co zapomněla na mou lásku.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_049](./resources/devatero_pohadek_049.jpg)
 
+</section>
 
+
+
+<section>
 
 „Aha,“ vykřikl pan Kolbaba radostně, „člověče drahá, tak to vy jste ten trumbera, ten bloud, to ťululum, ten pleticha, ten trumpeta, ten vrták, ten truhlík, to nemehlo, to trdlo, to pometlo, ten tulipán, ten jelimánek, ten salát a ten přetrhdílo, ten splašený, ten střelený, ten trhlý, ten seknutý a ten pytlem praštěný, ten nádiva, ten nekola, ten nekňuba, ten ňuma, ten slíva a ten bambula, ten kašpar, ten janek, ten matěj a ten popleta, co nám hodil do poštovní schránky to psaníčko bez známky a bez adresy? Jemine, to jsem rád, že mám tu čest vás poznat! Jakpak vám slečna Mařenka mohla odepsat, když dosud to vaše psaní ani nedostala?“
 
@@ -271,11 +341,19 @@ Jen to dořekl, přidal pan šofér Frantík plynu, vůz sebou trhl a teď vám 
 
 A když tak nějakou chvíli letěli rychlostí sto osmdesáti sedmi kilometrů, ukázala se taková pěkná bílá vesnice – namoutě, vždyť to byl Libňatov – a pan šofér Frantík povídá: „Pane šéf, tak bysme byli na místě.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_050](./resources/devatero_pohadek_050.jpg)
 
+</section>
 
+
+
+<section>
 
 „Tak zastavte,“ řekl černý pán a auto se sneslo na zem na kraji té vesnice. „Ale že ta bugatka dobře jede, co?“ liboval si pán. „A teď byste, pane Kolbaba, mohl té slečně Mařence doručit to psaníčko.“
 
@@ -291,11 +369,19 @@ A když tak nějakou chvíli letěli rychlostí sto osmdesáti sedmi kilometrů,
 
 „Ale, ale,“ řekl soucitně pan Kolbaba, „jejej, jejdanečky, jeminkote, jemináčku, jezuskote, snad to nebude tak zlé? Copak vy, slečno, marodíte?“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_051](./resources/devatero_pohadek_051.jpg)
 
+</section>
 
+
+
+<section>
 
 „Nemarodím,“ zavzdychla slečna Mařenka, „ale srdíčko mně puká žalem.“ A přitom si položila ruku na srdce.
 
@@ -319,11 +405,19 @@ Slečna Marie otevřela třesoucími se prsty ten dopis, a jak jej začala čís
 
 A zatímco pan Frantík dostával tu odpověď, sedl si pan Kolbaba s tím černým pánem a povídal mu: „Rok a den, vašnosti, jsem s tím psaníčkem běhal, ale stálo to za to: už proto, co všechno jsem viděl. To vám je taková pěkná a krásná země, ať je to u Plzně, nebo u Hořic, nebo u Tábora – A hele, pan Frantík se už vrací. Ona se halt ústně taková záležitost dá vyřídit rychleji nežli dopisem bez adresy.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_052](./resources/devatero_pohadek_052.jpg)
 
+</section>
 
+
+
+<section>
 
 Pan Frantík neříkal nic, jenom mu svítily oči. „Tak jede se, pane šéf?“ ptal se.
 
@@ -336,3 +430,5 @@ Pan šofér skočil do vozu, zmáčkl startér a přišlápl spojku a plyn a vů
 A všichni šťastně dojeli a my také.
 
 _Lidové noviny 4. 10. 1931_
+
+</section>

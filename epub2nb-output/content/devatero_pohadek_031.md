@@ -3,9 +3,13 @@ title: Pohádka ptačí
 contentType: prose
 ---
 
+<section>
+
 Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují lidským jazykem jenom časně zrána, při východu slunce, kdy vy ještě spíte; později, za bílého dne, už nemají pokdy na mnoho řečí – to víte, to dá nějakou sháňku, tady zobnout zrníčko, tam vyhrabat žížalu nebo tuhle čapnout ve vzduchu mouchu. Takový ptačí tatínek aby si ulítal křídla, zatímco ptačí maminka musí doma opatrovat děti. Proto si ptáci povídají jenom časně zrána, když otevrou ve svých hnízdech okna, vyloží peřinky k vyvětrání a vaří si snídani.
 
-  
+</section>
+
+<section>
 
 „Brý ráno,“ křičí kos, co má hnízdo na borovici, na souseda vrabčáka, co bydlí v okapu. „Už je čas.“
 
@@ -31,11 +35,19 @@ Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují 
 
 „A je tam podnes?“ ptal se holub.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_010](./resources/devatero_pohadek_010.jpg)
 
+</section>
 
+
+
+<section>
 
 „Podnes,“ řekl střízlík. „Já tam mám tetičku a ta mi o něm povídala. Prý se jen posmívá kardašořečickým vrabcům a povykuje; to prý je holá nuda a otrava, být vrabcem v Kardašově Řečici, ani tramvaj prý tam nemají jako v Dejvicích, ani tolik aut, ani hřiště Slávie a Sparty, no, dočista nic; a že ho ani nenapadne, aby umřel dlouhou chvílí v Kardašově Řečici, on že má pozvání na Riviéru a že jen čeká, až mu dojdou z Dejvic peníze. A tolik toho napovídal o Dejvicích a Riviéře, že i v Kardašově Řečici začali vrabci věřit, že by jim bylo jinde líp, a proto si už nehledí svého zobání a jen čimčarují a povykují a reptají, jako to dělají vrabci všude na světě, a říkají: ‚Všude jinde líp, líp, líp!‘“
 
@@ -43,11 +55,19 @@ Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují 
 
 „Jak?“ zeptal se honem střízlík.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_011](./resources/devatero_pohadek_011.jpg)
 
+</section>
 
+
+
+<section>
 
 „To nevím,“ pravila sejkorka, „nejspíš po lodi. A třeba také po vzducholodi. To si mohla udělat na bříšku vzducholodi hnízdo neboli kabinu s takovým okýnkem, aby mohla vystrkovat hlavu a třeba i plivnout dolů. Zkrátka, za rok se zase vrátila a říkala, že byla v Americe a tam že je všechno jinačí než u nás; kdepak, to prý není srovnání, jaký tam je pokrok, například žádní skřivani prý tam nejsou, a domy prý tam jsou tak strašně vysoké, že kdyby měl vrabec na střeše hnízdo a z toho hnízda mu vypadlo vajíčko, že by to vajíčko padalo tak dlouho, než by dopadlo, že by se z něho cestou vylíhl mladý vrabec a dorostl by a oženil by se a měl by hromadu dětí a zestárl by a umřel by v požehnaném věku, takže by dolů na chodník místo vrabčího vajíčka dopadl starý mrtvý vrabec. Tak vysoké domy prý tam jsou. A taky ta vlaštovka říkala, že v Americe se všechno staví z betonu a že ona se tomu naučila; ať jen prý se přijdou všechny vlaštovky podívat, že ona jim ukáže, jak se staví vlaštovčí hnízdo z betonu, a ne jen tak z bláta, jako to ty hloupé vlaštovky dělaly doposud. Tak se vám sletěly vlaštovky až z Mnichova Hradiště a Čáslavě a Přelouče, z Českého Brodu a z Nymburka, ba i ze Sobotky a Čelákovic; to bylo tolik vlaštovek, že pro ně lidi museli napnout sedmnáct tisíc tři sta čtyřicet devět metrů telefonního a telegrafního drátu, aby ty vlaštovky měly na čem sedět. A když byly všechny vlaštovky pohromadě, řekla ta amerikánská vlaštovka. ‚Tak dávejte, hoši a holky, pozor, jak se v Americe staví domy neboli hnízda z betonu. To se nejdřív nanosí hromádka cementu. Potom se nanosí hromádka písku. Pak se na to naleje voda a udělá se taková kaše, a z té kaše se staví moderní hnízdo. Ale když nemáte cement, tak si nebudete stavět hnízdo z betonu, ale jenom z malty. To se udělá kaše z vápna a písku, ale to vápno musí být zhašené. Nejdřív vám ukážu, jak se hasí vápno.‘ To řekla a frnk, už letěla k novostavbě, co stavěli dělníci, pro nehašené vápno. Vzala zrnko vápna do zobáčku a frnk, už s ním letěla zpátky. Ale protože v zobáčku je vlhko, začalo se jí to vápno v puse hasit a syčet a pálit. Vlaštovka se lekla, upustila to zrníčko vápna a vykřikla: ‚Tak, teď už víte, jak se hasí vápno. Jejdanečku, to pálí! Kryndypána, to štípe! Kruciturci jejejej šmankote ochochoch au lalala ouha krucinál jemine hú safra fujloty propánajána jemináčku ojej achich namoutě můj ty tondo uf panenko skákavá krucifagot ouvej mami ójejkote echech lidičky brrr krucipísek ujuj propánečka sakulente óhoho ajaj krutiputi, teda takhle se hasí vápno.‘ Když ji ostatní vlaštovky slyšely tak tuze naříkat a lamentovat, ani nečekaly, co bude dál, zatřásly ocáskem a letěly domů. ‚To by tak hrálo,‘ řekly si, ‚abychom si taky tak spálily zobák!‘ A proto si vlaštovky podnes staví hnízda z bláta, a ne z betonu, jak je tomu chtěla naučit ta vlaštovka z Ameriky.“
 
@@ -55,11 +75,19 @@ Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují 
 
 „To vám, sousedko, ráda udělám,“ řekla sejkorka. „To já, má zlatá, vím, co to dá práce, naučit děti slušně lítat.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_012](./resources/devatero_pohadek_012.jpg)
 
+</section>
 
+
+
+<section>
 
 „A že nevíte,“ řekl špaček na bříze, „kdo naučil nás ptáky lítat? Tak já vám to povím; já to mám od karlštejnského havrana, co sem tehdy přilít, když byly ty velké mrazy. Ten havran je už sto let starý a slyšel to od svého dědečka, kterému to říkal jeho pradědeček, který to měl od prastrýčka své babičky z maminčiny strany, takže to je svatosvatá pravda. Teda jak víte, někdy v noci je vidět, jak padá hvězda. Ale některá ta padající hvězda není žádná hvězda; je to zlaté andělí vejce. A protože to vejce padá až z nebe, rozžhaví se tím velkým pádem a svítí jako oheň. A to je svatosvatá pravda, protože mně to říkal ten karlštejnský havran. Jenže lidé těm andělím vejcím říkají jaksi jinak, nějak jako metr nebo montér nebo mentor či jak.“
 
@@ -73,12 +101,22 @@ Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují 
 
 „Střízlík taky?“ ptal se střízlík.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_013](./resources/devatero_pohadek_013.jpg)
 
+</section>
 
+
+
+<section>
 
 „Taky,“ řekl špaček. „Všichni ptáci na světě na tom vejci seděli, aby je vyseděli. Jenom když řekli slepici, že je na ní řada, aby šla sedět, povídala slepice: ‚Jak? Jak? Copak, copak, copak mám na to kdy? Já musím zobat. Kdepak, kdepak! To to to ne. To bych byla hlupák.‘ A nešla vysedět andělí vejce. A když se všichni ptáci na tom zlatém vejci vystřídali, vyklubal se z něho boží anděl. A když se vyklubal, nezačal zobat ani pípat jako jiní ptáci, ale vzletěl rovnou k nebi a zpíval Aleluja Hosana. Potom řekl: ‚Ptáčkové, co vám mám za vaši lásku dát, že jste mě vyseděli? Za to budete ode dneška lítat jako andělé. Helejte, to musíte takhle zamávat křídly a šups! už to letí. Tak pozor: jedna, dvě, tři!‘ A když řekl tři, začali všichni ptáci lítat a lítají až podnes. Jen slepice neumí lítat, protože nechtěla sedět na andělím vejci. A to všechno je svatá pravda, protože to tak povídal karlštejnský havran.“
 
 „Tak pozor,“ řekl kos. „Jedna, dvě, tři!“ A tu všichni ptáčci potřásli ocáskem, mávli křídly a vzletěli, každý za svým zpěvem a svým živobytím, jak je tomu naučil boží anděl.
+
+</section>

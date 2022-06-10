@@ -3,9 +3,13 @@ title: 4\. Kterak slavný Sidney Hall kouzelníka chytil
 contentType: prose
 ---
 
+<section>
+
 To všechno četl v novinách slavný Sidney Hall, americký detektýv, zamyslil se hluboce a rozhodl se, že zkusí sám, chytí-li kouzelníka. Přestrojil se tedy za milionáře, vzal do kapsy revolver a jel do Evropy.
 
-  
+</section>
+
+<section>
 
 Když sem přijel, představil se hned policejnímu prezidentovi. Ten mu tedy všechno vyložil, jak honili kouzelníka, a skončil: „Podle toho všeho je už docela nemožné dostat toho zlosyna před soudnou stolici.“
 
@@ -27,11 +31,19 @@ Rovnou pak šel pan Sidney Hall k jednomu proslulému cestovateli, který už d�
 
 „Nemožno,“ řekl cestovatel. „Pan Fogg udělal cestu kolem světa za osmdesát dní, já sám za padesát dní, a rychleji to už ani nejde.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_004](./resources/devatero_pohadek_004.jpg)
 
+</section>
 
+
+
+<section>
 
 „Vsaďme se,“ na to Sidney Hall, „o tisíc dolarů, že to udělám.“
 
@@ -236,3 +248,5 @@ V míse zbývala pátá, nejkrásnější hruška. Pan Sidney Hall ji rozkrojil 
 Pan Sidney Hall užasl nesmírně a řekl: „Hoši, teď už rozumím všemu. Jsem starý osel. Byl to sám kouzelník, který držel na dně kotvu lodi, zatímco jsem běhal po Janově s tou ztracenou holčičkou. Byl to kouzelník, který v podobě Araba mi pomohl od toho krokodýla. Byl to kouzelník, který mne probudil, když mne dva plavci chtěli zavraždit. Kouzelník vyslechl můj plán, když jsem po svém ourazu blouznil u Gangy. Kouzelník poslal mi tajemnou džunku, aby mne včas dovezla do Nagasaki. Kouzelník nastrčil mi krabici raket, která mi zachránila život na moři. Kouzelník v podobě maličké černé paní mi naklonil srdce Alicino. A konečně kouzelník se dobrovolně stavěl hloupým a zvědavým, aby mi dopomohl k ceně, vypsané na jeho hlavu. Chtěl jsem být chytřejší než kouzelník, ale kouzelník je chytřejší než já, a krom toho šlechetnější. Není nad kouzelníka! Hoši, zvolejte se mnou: Ať žije kouzelník!“
 
 „Sláva kouzelníkovi,“ zvolali detektývové tak silně, že v celém městě zadrnčela okna.
+
+</section>

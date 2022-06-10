@@ -3,9 +3,13 @@ title: 3\. Jak detektývové kouzelníka honili
 contentType: prose
 ---
 
+<section>
+
 Když už si povídáme o tom, co všechno kočka dovede, musíme vypravovat ještě něco. Princezna kdesi cosi slyšela, že když číča padá z výšky, spadne vždycky na nohy a nic si přitom neudělá. I sebrala jednou Jůru, vylezla s ní na půdu, a aby to zkusila, pustila milou Jůru okýnkem dolů z náramné výšky. Honem pak vykoukla, spadla-li její micka opravdu na nohy; ale Jůra nespadla na nohy, protože spadla na hlavu jednomu pánovi, který šel zrovna dole po ulici. Snad mu Jůra v tom pádu nějak zaťala drápky do hlavy, nebo co se mu na tom jinak nelíbilo – zkrátka nenechal si kočku sedět na hlavě, jak snad si princezna myslila, že by měl udělat, nýbrž sundal ji, vstrčil ji pod kabát a rychlým krokem zmizel.
 
-  
+</section>
+
+<section>
 
 Plačky mračky běžela princezna z půdy a rovnou k panu králi. „Bů, bůů,“ plakala, „šel dole pán a ukradl nám Jůů-Jůůru!“
 
@@ -63,11 +67,19 @@ Cizinec jenom pozvedl své čarokrásné oči.
 
 Jakolev už napřahoval svou ohromnou pěst, ale před těma očima se mu dělalo nějak nevolno. I zastrčil obě ruce do kapes a povídá: „Já, tento, abyste šel raději dobrovolně. Koho já chytnu, tomu nezůstane celá kostička v těle.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_003](./resources/devatero_pohadek_003.jpg)
 
+</section>
 
+
+
+<section>
 
 „Tak,“ řekl cizinec.
 
@@ -166,3 +178,5 @@ Skočili všichni do hospody pro sklenice, aby chytili potůček do sklenic. Ale
 Ale zatím stáli Všudybyl, Vševěd a Všetečka na břehu Vltavy a přemýšleli co teď. Tu vystrčila z vody hlavu stříbrná ryba a dívala se na ně zářnýma černýma očima, vpravdě očima kouzelníkovýma. I koupili si všichni tři detektývové rybářské pruty a začali chytat ve Vltavě ryby. Ještě dnes je tam můžete vidět, jak po celé dny sedí s prutem na loďkách, chytají ryby a nemluví ani slova, a nedojdou klidu, dokud nechytí stříbrnou černookou rybu.
 
 Ještě mnoho jiných detektývů hledělo chytit kouzelníka, ale marně. Stávalo se jim, když uháněli automobilem, aby ho chytli, že najednou vystrčila srna hlavu z mlází a dívala se na ně černýma, něžnýma, zvědavýma očima; a když letěli aeroplánem, letěl za nimi orel a nespouštěl z nich své pyšné, planoucí oči; a když pluli lodí, vyšvihl se z moře delfín a upíral na ně svůj rozumný, pokojný pohled; a i když seděli ve svých pracovnách a přemýšleli, stávalo se, že květiny na stole začaly zářit a hleděly na ně zvědavě a sličně, nebo že jejich policejní pes zvedl náhle hlavu a obrátil k nim oči tak lidské a krásné, jakých jindy nemíval. Odevšad, zdálo se jim, hledí na ně kouzelník, hledí a zase zaniká: jak by ho pak mohli chytit?
+
+</section>
