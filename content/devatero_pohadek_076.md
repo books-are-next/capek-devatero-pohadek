@@ -3,9 +3,13 @@ title: Velká policejní pohádka
 contentType: prose
 ---
 
+<section>
+
 Tak to snad, děti, víte, že na každé policejní strážnici neboli štaci bdí několik pánů strážníků po celou noc, kdyby se snad něco stalo, jako třeba že by se někam dobývali loupežníci nebo kdyby zlí lidé chtěli někomu udělat škodu. Proto jsou páni strážníci na strážnici až do rána vzhůru, zatímco jiní strážníci, kterým se říká patroly, chodí po ulicích a dávají pozor na loupežníky, zlodějíčky, strašidla a jiné takové nepořádky. A když takové patrole začnou bolet nožičky, vrátí se na strážnici a zas jiný strážník jde na ulici dávat pozor. Tak to chodí po celou noc; a aby jim to líp uteklo, kouří ti strážníci na strážnici fajfky a povídají si, co kde zvláštního viděli.
 
-  
+</section>
+
+<section>
 
 Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden strážník, počkejme, však to byl pan Halaburd, a řekl: „Nazdar, mládenci! Hlásím, že mě bolí nožičky.“
 
@@ -17,21 +21,37 @@ Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden stráž
 
 „Ten, co mě tahal za kalhoty,“ řekl pan Halaburd, „byl Padrholec, co bydlí v té staré vrbě.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_030](./resources/devatero_pohadek_030.jpg)
 
+</section>
 
+
+
+<section>
 
 „Aha,“ děl nejstarší pan strážník. „Mládenci, to je jeden moc hodný rarášek, ten Padrholec. Když někdo na Karlově náměstí něco ztratí, třeba prsten, míč, merunu nebo pumlíč, tak ten Padrholec to vždycky donese hlídači jako poctivý nálezce. Tak dál.“
 
 „A ten skřítek, ten Padrholec,“ pokračoval strážník Halaburd, „mně povídá: ‚Pane strážníku, já nemůžu domů, mně vlezla do mého bytu na vrbě veverka a nechce mě tam pustit.‘ – Tak jsem vytasil šavli, šel jsem s Padrholcem k jeho vrbě a vyzval jsem ve jménu zákona veverku, aby opustila příbytek a nedopouštěla se takových zločinů, přečinů a přestupků, jako je rušení držby, rušení veřejného pořádku, násilí a zlodějovina. Načež ta veverka řekla: ‚Až naprší.‘ Tu jsem svlékl opasek a plášť a vylezl na tu vrbu. Když jsem byl u té díry po vypadlém suku, co v ní má pan Padrholec byt, začala ta veverka plakat: ‚Pane strážníku, prosím vás, nezatýkejte mě! Já jsem se tady u pana Padrholce jenom schovala, protože pršelo a do mého kvartýru teče.‘ – ‚Žádné řeči, paničko,‘ já na to, ‚seberte svých pět švestek nebo bukvic a pakujte se ze soukromého příbytku pana Padrholce. A kdyby se ještě jednou opakovalo, že byste násilím nebo oukladně, bez jeho svolení a souhlasu vnikla do jeho privátu, tak zavolám posily, obklíčíme vás, zatkneme vás a dopravíme vás spoutanou na policejní komisařství. Tak hybaj!‘ – A to je, lidičky, všechno, co jsem téhle noci viděl.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_031](./resources/devatero_pohadek_031.jpg)
 
+</section>
 
+
+
+<section>
 
 „Já jsem jakživ žádného skřítka nezahlíd,“ ozval se strážník Bambas. „Já jsem měl dosud rajón v Dejvicích a tam v těch nových domečkách žádné takové zjevy, bytosti, nebo jak se tomu říká, nadpřirozené úkazy nejsou.“
 
@@ -41,19 +61,35 @@ Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden stráž
 
 „Žižkov,“ děl nejstarší strážník, „to nebyl nikdy můj rajón, tak o tom draku mnoho nevím.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_032](./resources/devatero_pohadek_032.jpg)
 
+</section>
 
+
+
+<section>
 
 „Já byl při tom,“ řekl strážník Kubát, „ale celý případ měl v práci a v referátě kolega Vokoun. Ono to už je hodně dávno, ještě když byl naším policejním prezidentem pan Bienert. Tak jednou večer povídala tomu Vokounovi jedna stará paní, byla to paní Částková, trafikantka, ale ona je vlastně bába vědma čili prorokyně a sudička, abyste věděli, tedy ta paní Částková řekla kolegovi Vokounovi, že jí vyšlo v kartách, že v Židovských pecích drží drak Huldabord v zajetí překrásnou pannu, kterou unesl jejím rodičům; a ta panna prý je princezna murciánská. ‚Murciánská nebo nemurciánská,‘ řekl na to strážník Vokoun, ‚tu holku musí drak vydat rodičům, nebo proti němu zakročím podle předpisů, zvaných služební řád, foršrifty čili instrukce.‘ To řekl, opásal se služební šavlí a šel do Židovských pecí. Já myslím, že by to tak udělal každý z nás.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_033](./resources/devatero_pohadek_033.jpg)
 
+</section>
 
+
+
+<section>
 
 „To si myslím,“ děl strážník Bambas. „Ale já jsem v Dejvicích a Střešovicích žádného draka neměl. Tak dál.“
 
@@ -61,11 +97,19 @@ Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden stráž
 
 ‚Hej vy jeden,‘ zvolal kolega Vokoun na toho draka zdvořile sice, ale se služební přísností, ‚legitimujte se; máte nějaké papíry, domovský list, služební knížku, zbrojní pas nebo jiné osobní doklady?‘
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_034](./resources/devatero_pohadek_034.jpg)
 
+</section>
 
+
+
+<section>
 
 Tu se jedna z těch dračích hlav zachechtala, jedna se rouhala, jedna klela, jedna láteřila, jedna spílala, jedna nadávala a jedna vyplazovala na Vokouna jazyk. Ale kolega Vokoun se nedal a zvolal: ‚Ve jménu zákona, seberte se a pojďte se mnou šupity na komisariát, vy i ta holka tam vzadu.‘
 
@@ -107,11 +151,19 @@ Tu vytasil strážník Vokoun šavli a sedmkrát ťal, do každé hlavy jednou, 
 
 ‚A mně jsi vyťal ten vlas, co mě zrovna svědil,‘ pravila třetí.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_035](./resources/devatero_pohadek_035.jpg)
 
+</section>
 
+
+
+<section>
 
 ‚A mně jsi pročísl mikádíčko,‘ pochvalovala si čtvrtá hlava.
 
@@ -127,11 +179,19 @@ Tu vytáhl strážník Vokoun služební revolver a sedmkrát střelil, do každ
 
 Kolega Vokoun se nelekl; vytáhl služební předpisy a přečetl si, co má strážník dělat, když má proti sobě přesilu; našel, že v takovém pádě má zavolat posilu. Potom si vyhledal předpis, co má dělat, když někde šlehá oheň, a našel, že za těch okolností má telefonovat pro hasiče. Tak si přečetl všechno, co má dělat, a zavolal hasiče a policejní posilu. Na tu posilu nás přiběhlo poklusem šest, kolegové Rabas, Holas, Matas, Kudlas, Firbas a já, a kolega Vokoun nám řekl: ‚Mládenci, tak tuhle máme vysvobodit tu holku z moci toho draka. On je sic drak pancéřový a na toho je každá šavle slabá, ale já jsem vypozoroval, že v zátylku je ten drak trochu měkčí, aby se mohl ohýbat. Tak až řeknu tři, musíte ho všichni seknout šavlí do zátylku. Ale dřív musí hasiči toho draka uhasit, aby nám nepropálil mundúr.‘ Jen to dořekl, když tu trárá přijelo k Židovským pecím sedm motorových stříkaček se sedmi hasiči. ‚Hasiči, pozor,‘ zvolal udatně strážník Vokoun, ‚až řeknu tři, začne každý z vás stříkat na jednu dračí palici, ale to musíte rovnou do chřtánu, co má drak mandle, protože tamtudýma jde ten oheň ven. Tak pozor: raz, dva, tři!‘ A jak řekl tři, pustili hasiči sedm proudů vody rovnou do sedmi dračích tlam, co z nich šlehal oheň jako z autogenu. Šššš, to vám to syčelo! Drak prskal, frkal a funěl, kašlal, kuckal a klel, chroptěl, chrčel, chrchlal a chrochtal, supěl, soptil, syčel a sípal a volal maminko a mlátil kolem sebe ocasem, ale hasiči nepopustili a stříkali a stříkali, až se z těch sedmi dračích hlav místo šlehajícího ohně vyvalila pára jako z lokomotivy, že nebylo na krok vidět. Potom ta pára prořídla, hasiči přestali stříkat, zatroubili a jeli domů; a drak, celý zmáčený a schlíplý, jen prskal a odplivoval a vytíral si vodu z očí a bručel: ‚Počkejte, kluci, tohle vám neslevím!‘ Ale tu zvolal kolega Vokoun: ‚Pozor, mládenci: ráz, dva, tři!‘ A jak řekl tři, my všichni strážníci jsme majzli šavlemi do sedmi dračích zátylků a sedm hlav se válelo na zemi; a ze sedmi krků vytryskla voda a stříkala jako z hydrantu, co jí do toho draka nateklo. ‚Tak pote, slečno,‘ řekl kolega Vokoun k té princezně murciánské, ‚ale dejte pozor, ať vám to nepocáká šatičky.‘
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_036](./resources/devatero_pohadek_036.jpg)
 
+</section>
 
+
+
+<section>
 
 ‚Děkuji ti, šlechetný hrdino,‘ řekla ta slečna, ‚že jsi mě vysvobodil z moci té saně. Já jsem si zrovna hrála se svými kamarádkami v murciánském parku volejbal a házenou a diabolo a na schovávanou, když tu přiletěl ten tlustý starý drak a unesl mě bez zastávky až sem.‘
 
@@ -153,11 +213,19 @@ Král murciánský se začal hrabat po kapsách a bručel: ‚To jsem blázen, v
 
 ‚Pane králi,‘ řekl na to kolega Vokoun, ‚ono to má své potíže. Já a tuhle kamarádi jsme toho draka zabili ze služební povinnosti, protože neposlechl mé úřední výzvy a nechtěl jít se mnou na komisařství. A za služební výkon nikdo z nás nesmí přijmout žádnou odměnu, kdepak! Panečku, to my máme zakázáno.‘
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_037](./resources/devatero_pohadek_037.jpg)
 
+</section>
 
+
+
+<section>
 
 ‚Aha,‘ pravil král. ‚Ale snad bych mohl tu polovičku murciánského království s veškerým zařízením věnovat na znamení své královské vděčnosti celé pražské policii.‘
 
@@ -167,11 +235,19 @@ Král murciánský se začal hrabat po kapsách a bručel: ‚To jsem blázen, v
 
 Když strážník Kubát na strážnici dopovídal pohádku o draku na Židovských pecích, všichni strážníci po nějaký čas mlčky pokuřovali; to asi mysleli na ten murciánský tabák. Potom se ozval strážník Choděra: „Když tadyhle kolega Kubát povídal o žižkovském drakovi, tak já vám třeba povím o té sani z Vojtěšské ulice. Jednou jsem měl pochůzku po Vojtěšské ulici a najednou vám vidím v tom koutě u kostela velikánské vejce. Ono bylo tak veliké, že by se mně nevešlo ani do služební přílby, a těžké vám bylo jako z mramoru. Propánakrále, řekl jsem si, to snad je pštrosí vejce nebo co, já to odnesu na policejní direkci, na oddělení ztrát a nálezů; snad se o takové vejce jeho majitel přihlásí. – Tehdy byl v tom oddělení kolega Pour a měl zrovna od záchladu v kříži loupání; tak si topil v železných kamínkách, že tam bylo horko jako v troubě, jako v peci, jako v sušárně. ‚Těbůh, Poure,‘ povídám, ‚ty tu máš teplo jako čertova babička. Tadyhle hlásím, že jsem našel ve Vojtěšské ulici nějaké vejce.‘ ‚Tak to někam polož,‘ řekl kolega Pour, ‚a sedni si; a já ti budu hlásit, jaké mám trápení s tím loupáním v kříži.‘ Nu, trochu jsme se zapovídali, jak už tak řeč plyne; pak se začalo smrákat a najednou slyšíme v koutě něco jako křupat nebo harašit. Tak jsme rozsvítili a koukáme, a ona vám z toho vejce vylízá saň – nejspíš se vylíhla tím náramným teplem. Ona nebyla větší, než řekněme pudl nebo foxteriér, ale byla to saň, to jsme poznali hned, protože měla sedm hlav; podle toho se totiž pozná drak.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_038](./resources/devatero_pohadek_038.jpg)
 
+</section>
 
+
+
+<section>
 
 ‚Kryndapána,‘ řekl kolega Pour, ‚co s tím tady budeme dělat? To abych zatelefonoval pro antouška, aby to zvíře odklidil?‘
 
@@ -197,19 +273,35 @@ Tu se ten Spolek pro ochranu zvířat podrbal za ušima a řekl: ‚Ouha, když 
 
 To teda se musí říct, staral se o ni, jak náleží: krmil ji a česal ji a hladil ji – on ten pan Trutina měl moc rád zvířata; a každý večer, když přišel z práce domů, ji vyváděl na procházku, aby se trochu vyběhala; a ona skákala za ním jako pejsek a vrtěla ocasem a slyšela na jméno Amina. Jednou večer je potkal pan pohodný a povídá: ‚Halt, pane Trutina, co to mají za zvíře? Je-li to nějaký dravec nebo šelma čili zvíře divoké, tak je nesmíte vodit po ulicích; ale je-li to pejsek, tak mu musíte koupit psí známku a pověsit mu ji na krk.‘ ‚To je takový vzácný druh pejska,‘ řekl pan Trutina, ‚takzvaný pinč drakatý neboli chrt saňový čili pes sedmihlavý, viď, Amino? Bez starosti, pane drnomistr, já jí tu psí známku koupím.‘ A koupil jí psí známku, třebaže chudák musil za ni dát poslední kačku, co měl. A zas je potkal pan pohodný a řekl: ‚Pane Trutina, takhle to nepůjde; když ten váš pejsek má sedm hlav, musí mít psí známku na každém krku, protože je předpis, že každý pes má mít na krku psí známku.‘ ‚Ale, pane drnomistr,‘ bránil se pan Trutina, ‚vždyť Amina má na prostředním krku psí známku!‘ ‚To je jedna,‘ řekl pan pohodný, ‚ale ostatních šest hlav běhá beze známky na krku a to já nemůžu trpět. Já vám to vaše psisko musím zabavit.‘ ‚Prosím vás, pane drnomistr,‘ řekl pan Trutina, ‚počkejte s tím ještě tři dny, já Amině ty známky koupím.‘ A šel domů celý nešťastný, protože už neměl na penězích ani šesták.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_039](./resources/devatero_pohadek_039.jpg)
 
+</section>
 
+
+
+<section>
 
 Doma si sedl a div neplakal, jak mu toho bylo líto; říkal si, že mu jeho Aminu sebere pan pohodný a prodá ji do cirkusu nebo ji zabije. A když se tak trápil a vzdychal, připlížila se k němu ta saň a položila mu všech sedm hlav do klína a dívala se mu do očí takovýma krásnýma smutnýma očima; takové pěkné a zrovna lidské oči má každé zvíře, když se na člověka dívá s láskou a důvěrou. ‚Já tě, Amino, nedám,‘ řekl pan Trutina a poplácal tu saň na všech sedmi hlavách; a pak vzal své hodinky po tatínkovi a sváteční šaty a své nejlepší boty a všechno to prodal a ještě si nějaké peníze vypůjčil a za ty všechny peníze koupil šest psích známek a pověsil je své sani na obojky. A když pak s ní vyšel na ulici, tak ty všechny známky cinkaly a zvonily, jako když jedou saně s rolničkami.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_040](./resources/devatero_pohadek_040.jpg)
 
+</section>
 
+
+
+<section>
 
 Ale ještě toho večera přišel k panu Trutinovi jeho pan domácí a povídá: ‚Pane Trutina, mně se ten váš pes nechce líbit. Já se sic ve psech moc nevyznám, ale lidi říkají, že je to drak; a to já ve svém domě nemůžu trpět.‘ ‚Pane domácí,‘ řekl pan Trutina, ‚vždyť Amina nikomu neublížila!‘ ‚To mně je pět,‘ povídal pan domácí, ‚ale do solidního domu drak nepatří, a basta fidli. Když toho psa nechcete dát pryč, tak vám dávám od prvního výpověď z bytu. Služebník, pane Trutina.‘ A bouchl za sebou dveřmi.
 
@@ -219,14 +311,24 @@ Den nato šel pln starostí do své práce – on byl totiž v nějaké bance p�
 
 Doma si sedl jako tělo bez ducha a z očí mu počaly téci slzy. ‚Teď je se mnou konec,‘ řekl si a plakal. A tu cítil, jak mu ta saň položila jednu hlavu na kolena; neviděl na ni pro slzy, ale hladil ji a šeptal: ‚Neboj se, Amino, já tě nedám.‘ A jak ji tak hladí, začalo se mu zdát, že je ta hlava nějaká měkká a kudrnatá; i vytřel si oči a podíval se – a ona místo saně klečí před ním krásná panna, opírá se mu bradou o kolena a dívá se mu sladce do očí. ‚Propána,‘ vykřikl pan Trutina, ‚kde je Amina?‘ ‚Já jsem princezna Amina,‘ řekla ta panna, ‚až do této chvíle zakletá do saně, protože jsem bývala taková pyšná a zlostná. Ale teď už, pane Trutina, budu hodná jako ovečka.‘
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_041](./resources/devatero_pohadek_041.jpg)
 
+</section>
 
+
+
+<section>
 
 ‚Amen,‘ ozvalo se ve dveřích a on tam stál kouzelník Bosko. ‚Vy jste ji vysvobodil, pane Trutina. Každá láska vysvobozuje lidi i zvířata z jejich zakletí. Jemináčku, děti, to to dobře dopadlo! Pane Trutina, vzkazuje vám tatínek tady té slečny, že máte jet do jeho království nastoupit na trůn. Tak alou, ať nezmeškáme vlak.‘
 
 A to je konec toho případu se saní z Vojtěšské ulice,“ doložil strážník Choděra. „Kdybyste tomu nechtěli věřit, zeptejte se kolegy Poura.“
 
 _Lidové noviny 14. 9. 1930_
+
+</section>

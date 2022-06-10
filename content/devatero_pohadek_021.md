@@ -3,9 +3,13 @@ title: 6\. Pohádky konec
 contentType: prose
 ---
 
+<section>
+
 Když tedy se princezna u soudu dozvěděla, že snad její kočka Jůra utekla tam, kde se narodila, poslala hned kurýra do babiččiny chaloupky.
 
-  
+</section>
+
+<section>
 
 Letí kurýr na koni, až jiskry pod kopyty tryskají, a tu, hle, vidí před chalupou babiččina vnoučka Vaška s černou kočkou v náručí.
 
@@ -63,11 +67,19 @@ Vašek planul a zářil. „Tak pánbůh vám naděl, princezno,“ řekl, „a 
 
 Vesele klusal Vašek domů; jen natolik se zdržel v lese, co vyřezal kudlou z kůry pěknou lodičku a s lodičkou v kapse běžel domů.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_006](./resources/devatero_pohadek_006.jpg)
 
+</section>
 
+
+
+<section>
 
 Když přišel domů, – Jůra tam sedí na zápraží a myje si chromou nožičkou kožich.
 
@@ -134,3 +146,5 @@ Ten vůz s velikou radostí v zámku přivítali, složili chalupu v zahradě, a
 Co následovalo potom, to už do naší pohádky nepatří. Ale stal-li se Vašek opravdu králem v té zemi, když dorostl, nebylo to, děti, ani pro tu kočku, ani pro přátelství princeznino, nýbrž pro mocné a statečné skutky, které veliký Vašek pro celou zemi vykonal.
 
 _Nůše pohádek I, 1918_
+
+</section>

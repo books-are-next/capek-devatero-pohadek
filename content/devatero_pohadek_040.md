@@ -3,13 +3,17 @@ title: První loupežnická pohádka
 contentType: prose
 ---
 
+<section>
+
 ### _O tlustém pradědečkovi a loupežnících_
 
 (od Josefa Čapka)
 
 Můj nebožtík pradědeček byl povoláním sekerník a vedle toho obchodoval tu a tam v koních a jetelovém semínku. Při svých devadesáti osmi letech byl, chválabohu, ještě veselý a čilý brach, kulatý a červeňoučký jako jablíčko, ba, tak neobyčejně tlustý, že ho v létě prababička ukládala do sklepa, protože by se nahoře horkem rozplynul. Usadil se tedy pěkně dole ve sklepě, popíjel pivo s cukrem a těšil se na chladnější počasí.
 
-  
+</section>
+
+<section>
 
 Když přestalo parné léto, tu pak vylezl, batolil se po svém, hospodařil, šafařil a domostrojil, kupoval, prodával a sháněl, přibíjel, stloukal a tesařil, potil se a hmoždil se, dupal v bačkorách a klepal v pantoflích, statně jedl a pil, oháněl se zkrátka při svém valném věku a ctihodné tloušťce tak mile, že z něho všichni měli radost. Měl, panečku, nejbohatýrštější břicho z celé farnosti; však na něho také naše farnost byla hrdá. Takového druhého na farnosti nebylo: tak tlustého a červeného, tak plecitého a kolébavého, s takovými vráskami kolem očí a s takovým kulaťoučkým nosem a takovým podbradkem. Ba ani v jiných farnostech takového nebylo. Když přijel na trh do Králové Hradce, všichni se za ním ohlíželi, ať to byl student, biskup, nebo pan generál; cožpak hladový student nebo generál vyschlý a zamračený jako sleď, ale sám pan biskup nebyl daleko tak tlustý a tak ruměný, tak podsaditý a krásně kolébavý jako můj nebožtík pradědeček.
 
@@ -125,11 +129,19 @@ Bouře mne tu zastavila i s mým malým divadlem na cestě k nejznamenitějším
 
 „Ah,“ podivil se Lord, „co dovedou ty vaše pohyblivé loutky?“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_014](./resources/devatero_pohadek_014.jpg)
 
+</section>
 
+
+
+<section>
 
 „Vaše Urozenosti,“ hrbil se úslužně Lotrando, „mistr Panákáno nemínil zde pořádat představení. Cítím se však nekonečně poctěn vaším vznešeným zájmem, a dovolím si vám ve vší poníženosti předvést celé své divadlo.“
 
@@ -183,7 +195,9 @@ A nyní pradědeček začal zpívat druhou sloku loupežnické hymny:
 
 a zamířil k Velikému Šibalovi a za zpěvu mu vytahoval z kapes ukradené šperky, zlaté věci, náramky, hodinky a prsteny. Byl toho skoro celý zlatnický krám.
 
-  
+</section>
+
+<section>
 
 „Ah,“ zvolal Lord Havelock a s ním jeho družina. Lordův druhý poboční detektiv Stuart Webbs zastříhal ušima: počínal tušit, že o něco jde.
 
@@ -196,7 +210,9 @@ A pradědeček zpíval:
 
 a vytahoval Hrdlořezovi zpod šatů vražednické zbraně, nože a pistole a dýky.
 
-  
+</section>
+
+<section>
 
 „Ah,“ zvolal Lord Havelock a s ním jeho průvod. Třetí Lordův poboční detektiv Joe Deebs zastříhal ušima: počínal cítit, že o něco jde.
 
@@ -218,3 +234,5 @@ Lotranda a loupežníky spoutali a odvedli je i s Kokotičkou a odevzdali soudu.
 Můj tlustý pradědeček se obul a umyl a Lord Havelock mu děkoval, že ho uchránil od strašlivého nebezpečí. Daroval mu vedle jiných věcí také krásnou tabatěrku, naplněnou voňavým šňupavým tabákem, ze které pak pradědeček dal okusit všem sekerníkům i obchodníkům v koních a s jetelovým semínkem z celého kraje.
 
 Pradědeček zavolal Voříška, který se zatím v koutě napásl na zbytcích loupežnických hodů, že se sotva mohl hnout. Prababička je doma uvítala velmi nepřívětivě, že zase jdou tak pozdě z hospody, ale když jí pradědeček vypravoval, co vše se přihodilo, byla tuze ráda, že to tak dobře dopadlo.
+
+</section>

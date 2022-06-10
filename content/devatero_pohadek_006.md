@@ -3,11 +3,15 @@ title: Velká kočičí pohádka
 contentType: prose
 ---
 
+<section>
+
 ### 1\. Kterak král kočku kupoval
 
 V zemi Taškářů panoval král, a můžeme říci, že panoval šťastně, protože když to musilo být, všichni poddaní ho poslouchali ochotně a s láskou. Jen někdo ho občas neposlechl, a to byla jeho dceruška, malá princezna.
 
-  
+</section>
+
+<section>
 
 Dobře jí král poručil, aby si nehrála s míčem na zámeckém schodišti; ale kdežpak! Sotva si jednou její chůva chvilinku zdřímla, princezna už byla na schodech se svým míčem, a tu, jestli ji snad pánbůh potrestal nebo jí čert nastavil nohu, upadla a rozbila si koleno. Seděla na schodech a plakala, – kdyby to nebyla princezna, řekli bychom, že křičela na celé kolo. Toť se rozumí, hned se seběhly dvorní dámy s křišťálovými umyvadly a hedvábnými obvazy, deset královských lékařů a tři dvorní kaplani, ale princezně bolest vzít nemohl žádný z nich.
 
@@ -73,11 +77,19 @@ Král se podivil, král se zamračil, král se konečně usmál a pravil: „Vy 
 
 Nu ale, děti, přísaha je přísaha, a tak musel král zaplatit babičce, oč žádala. Poprosil tedy svou maminku, aby si sedla, a nařídil svému nejvyššímu účetnímu, aby jí spočítal stříbrné vlasy, které se jí vejdou pod ten čepeček. Účetní počítá, počítá, a králova maminka pěkně drží, ani se nepohne, a vtom, to víte, stáří má rádo spánek a lehko zadřímne – zkrátka králova maminka usnula.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_001](./resources/devatero_pohadek_001.jpg)
 
+</section>
 
+
+
+<section>
 
 Zatímco tak spala, počítal účetní vlásek po vlásku; a když se právě dopočítal jednoho tisíce, snad že silněji zatahal za jeden stříbrný vlas, králova maminka se probudila.
 
@@ -116,3 +128,5 @@ Tu se babička rozplakala; ale králova maminka ji vzala kolem krku, hladila ji 
 Babička se zasmála, a všichni se zasmáli s ní – a začala strkat tolary do kapsáře. Ale kdež by kapsář stačil! Musela nahrnout tolary do nůše, a byla jich nůše plná, že ji babička ani neuzvedla. Dva vojevůdcové a sám král jí pomohli vysadit nůši na záda, a tu se babička pěkně všem uklonila, rozloučila se s královou maminkou a jenom se ještě otočila, aby se naposledy podívala na svou černou kočku Jůru. Ale Jůra nikde. Babička se točí, volá: „Na čičičí, na čičičí,“ – kočka nic. Ale za trůnem koukají něčí nožičky; babička tam jde po špičkách a vidí – princezna usnula v koutku za trůnem a na jejím klíně spí a přede drahocenná Jůra. Tu babička sáhla do kapsy a strčila princezně do dlaně tolar; jestli jí jej chtěla dát na památku, pak se tuze spletla, protože když se princezna probudila a našla na klíně kočku a v dlani tolar, vzala kočku do náručí a šla s ní ten tolar nejkratší cestou promlsat. Ale snad i to babička věděla předem.
 
 Zatímco princezna ještě spala, byla už babička dávno doma, ráda, že přinesla tolik peněz, že nechala Jůru v dobrých rukou, a nejradši proto, že zrovna přivezl forman z přespolní říše jejího vnoučka Vaška.
+
+</section>

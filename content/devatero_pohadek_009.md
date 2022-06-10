@@ -3,9 +3,13 @@ title: 2\. Co všechno kočka dovede
 contentType: prose
 ---
 
+<section>
+
 Tedy jak víte, ta kočka se jmenovala Jůra, ale princezna jí říkala ještě všelijak: macek a macourek, číča, číčinka a číčánek, míca a mícinka, mourek a kočenka, a z toho už vidíte, že ji měla tuze ráda. Sotva ráno otevřela oči, už našla macka na peřině: Jůra si tam, lenoch, hověla a předla, aby se zdálo, že něco dělá. Obě se pak umyly současně, kočka ovšem o mnoho důkladněji, třebaže jen tlapkou a jazykem; zato zůstala dávno ještě čistá, když už se princezna umazala tak pořádně a všestranně, jak to jen děti dovedou.
 
-  
+</section>
+
+<section>
 
 Ale přitom byla Jůra kočka jako každá jiná; jenomže ráda seděla a dřímala na královském trůně, což se jiným kočkám obyčejně nestává. Snad si přitom vzpomínala, že její vzdálený strýček, lev, je králem všech zvířat. Nebo to jen tak vypadalo, jako by vzpomínala; stačilo, aby nějaká pošetilá myš vystrčila z díry hlavu, – jedním skokem ji Jůra měla a šla ji pyšně položit k nohám trůnu, ať to bylo před sebe větším a slavnějším shromážděním.
 
@@ -37,11 +41,19 @@ Buffino tedy zkusil trochu příst, ale kdežpak! vyšlo z něho takové zavrče
 
 „Myslím,“ namítala Jůra skromně, „že bych to hrubě nedovedla; ale nemáš-li nic proti tomu, půjdeme si sednout na kraj střechy a dívat se na všechno hodně zvysoka.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_002](./resources/devatero_pohadek_002.jpg)
 
+</section>
 
+
+
+<section>
 
 „Odpusť,“ řekl Buffino rozpačitě, „ale když jsem vysoko, tak ti mám takovou jakousi závrať. Nejlepší by bylo, kdybychom šli spolu honit zajíce.“
 
@@ -78,3 +90,5 @@ Když to zloděj slyšel, lekl se strašně a dal se na útěk. Buffino za ním,
 Tak tedy se dali na cestu zpátky: napřed Jůra s ocasem vztyčeným jako šavle, pak zloděj s rukama zdviženýma, a naposledy Buffino. Na půl cestě je potkaly stráže s lucernami, protože ten hluk je probudil, a připojily se k průvodu. Tak přivedli Jůra a Buffno zloděje s velikou slávou do zámku. Sám král a králka se vzbudili a dívali se na to oknem, jen princezna spala a zaspala to všechno, a byla by zaspala snad i snídani, kdyby si Jůra, jako každého rána, nebyla přišla pohovět do jejích peřin s tváří tak líbeznou, jako by se docela nic nebylo v noci přihodilo.
 
 Ledacos ještě Jůra dovedla, ale to by ta pohádka neměla ani konce. Proto jen v rychlosti povím, že někdy chytala tlapkou v potůčku ryby, žrala ráda okurkový salát, chytala ptáčky, třeba to měla zakázáno, a přitom se tvářila nevinně jako anděl a dovedla si hrát tak hezky, že by se člověk na to celý den díval. Kdo by chtěl vědět o Jůře ještě něco víc, ať se jen s láskou dívá na kteroukoliv kočku; každá má v sobě kus Jůry a každá dovede tisíce spanilých a veselých kousků a neskrývá se s nimi před nikým, kdo ji netrápí.
+
+</section>

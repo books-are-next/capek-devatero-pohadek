@@ -3,11 +3,15 @@ title: Druhá loupežnická pohádka
 contentType: prose
 ---
 
+<section>
+
 ### _Pohádka o zdvořilém loupežníkovi_
 
 Je tomu už náramně dávno, tak dávno, že ani nebožtík starý Zelinka, dej mu pánbůh věčnou slávu, se na to nepamatoval, a ten přece se pamatoval i na mého nebožtíka tlustého pradědečka. Tak tedy je tomu už nesmírně dávno, co na horách Brendách panoval slavný a zlý loupežník Lotrando, mordýř ze všech nejukrutnější, se svými jednadvaceti pacholky, padesáti zloději, třiceti zlodějíčky a dvěma sty pomocníky, pašeráky a přechovávači. Tak ten Lotrando vám číhal u silnice třeba k Poříčí nebo ke Kostelci nebo i k Hronovu, až kolem pojede nějaký ten forman, kupec, žid nebo rytíř na koni; pak na něj vystoup, zařval a obral ho o všecko, a to ještě ten potrefený mohl být rád, že ho Lotrando nezapíchnul, nezastřelil nebo nepověsil na stromě. Takový vrahoun a nelida byl ten Lotrando.
 
-  
+</section>
+
+<section>
 
 Jede si takový kupeček cestou, povídá koňům hyje a čehy a těší se, zač prodá v Trutnově to své zboží. A když jede lesem, má trochu strach před loupežníky, ale aby to nedal na sobě znát, píská si pěknou písničku. A najednou vystoupí z lesa chlap jako hora, širší než pan Šmejkal nebo pan Jahelka, ale ještě o dvě hlavy větší a k tomu fousatý, že si pro samé fousy do huby nevidí; tedy takové chlapisko se vám postaví před koně a zařve: „Peníze nebo život,“ a zamíří na kupce pistolí širokou jako hmoždíř. To se ví, kupec dá peníze, a Lotrando mu sebere ještě k tomu i vůz i zboží i koně, ale i kabát, katě a holínky mu stáhne a ještě mu přidá pár bičem, aby se mu, chudákovi, lehčeji běželo domů. Jak říkám, nebyl ten Lotrando nic jiného nežli šibeničník.
 
@@ -17,11 +21,19 @@ Ale protože široko daleko nebylo jiného loupežníka (teprve až u Maršova b
 
 To řek, otočil se na patě a hajdy do lesů, nechávaje otcům benediktýnům malého Lotranda na starosti.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_020](./resources/devatero_pohadek_020.jpg)
 
+</section>
 
+
+
+<section>
 
 Tak se tedy malý Lotrando učil s mnoha princátky, hrabátky a jinými bohatými mládenečky v takovém tom konviktě u pánů páterů; a tlustý páter Spiridion ho učil říkat „pitšen“ a „gorsamadýnr“ po německu, a páter Dominik mu vtloukl do hlavy všelijaké to francouzské „trešarmé“ a „silvuplé“, a pan páter Barnabáš ho naučil všem komplimentům, menuetům a způsobným manýrám, a pan regenschori Kraupner ho učil smrkat, aby to zaznělo tence jako flétna nebo jemně jako šalmaj, a ne aby to zatroubilo jako kontrafagot, pozoun, jerišská trouba, piston nebo automobil, tak jako troubíval starý Lotrando; zkrátka naučili ho těm nejjemnějším způsobům a delikátnostem jako pravého kavalíra. Však mladý Lotrando byl v černých sametových šatech s krajkovým límečkem tuze pěkný hoch a docela zapomněl, že rostl v loupežnické jeskyni v divokých horách Brendách a že jeho otec, starý vrah a raubíř Lotrando, chodil ve volské kůži a čpěl koninou a jedl syrové maso jen tak holýma rukama, jak už to loupežníci dělají.
 
@@ -47,11 +59,19 @@ Tak přijeli na Brendy a pacholek dovedl mladého pána k smrtelnému loži tát
 
 „Loupežnictví,“ řekl starý Lotrando a skonal.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_021](./resources/devatero_pohadek_021.jpg)
 
+</section>
 
+
+
+<section>
 
 Tak zůstal mladý Lotrando sám na světě, zdrcen do té duše jednak smrtí pantátovou, jednak přísahou, kterou se mu zavázal, že bude po něm loupežníkem.
 
@@ -113,11 +133,19 @@ Tu rozhrnula se plachta a z vozejčku vylezla stará tlustá panička, založila
 
 „Promiňte, madam,“ zašeptal Lotrando zdrcen, „nevěděl jsem, že je ve voze dáma.“
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_022](./resources/devatero_pohadek_022.jpg)
 
+</section>
 
+
+
+<section>
 
 „To se ví, že je,“ pokračovala trhovnice, „a jaká dáma, ty surovče, ty vrahu, ty zabijáku, ty prachkujóne, ty padouchu, ty hanebníku, ty mordýři, ty satanáši!“
 
@@ -133,11 +161,19 @@ Takhle se ovšem jeho živnosti nevedlo; jeho pacholkové i s ježatým Vinckem 
 
 Když k němu přišel, klekl a plakal a vypravoval, že se svému otci zavázal přísahou, že bude loupežníkem, ale že je vychován ve zdvořilosti a laskavosti, a že tedy nemůže a nemůže nikoho zabít nebo obrat proti jeho vůli. A co prý tedy si má počít.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_023](./resources/devatero_pohadek_023.jpg)
 
+</section>
 
+
+
+<section>
 
 Pan převor nato dvanáctkrát šňupl a dvanáctkrát se zamyslil, a pak řekl: „Milý synu, to ti chválím, že jsi zdvořilý a vlídný k lidem; ale loupežníkem zůstat nemůžeš, jednak proto, že je to smrtelný hřích, a jednak proto, že to neumíš. Ale abys vyhověl přísaze, kterou jsi dal svému pantátovi, budeš přepadat lidi dál, ale v ouplné počestnosti. Najmeš si mejto, budeš číhat u silnice, a když tamtudy někdo pojede, vystoupíš na něj a budeš na něm žádat dva krejcary mejta. No, a je to. A při té živnosti můžeš být zdvořilý, jak jen umíš a sobě žádáš.“
 
@@ -164,3 +200,5 @@ Lotrando se zarazil, neboť teď teprve poznal pana převora. I zabručel něco 
 To je konec pohádky o zdvořilém loupežníkovi; snad už umřel, ale jeho potomky potkáte na mnoha a mnoha místech a poznáte je po tom, že vám s největší ochotou vynadají, i když nemají proč. A to by nemělo být.
 
 _Lidové noviny 24. 12. 1921_
+
+</section>

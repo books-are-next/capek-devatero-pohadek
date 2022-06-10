@@ -3,17 +3,29 @@ title: Pohádka psí
 contentType: prose
 ---
 
+<section>
+
 Pokud vůz mého dědečka, toho mlynáře, vozil po vesnicích chleba a zpátky do mlýna pěkné zrní, znal Voříška kdekdo; no, Voříšek, řekl by vám každý, to je přece ten pejsek, co sedá na kozlíku vedle starého Šulitky a kouká, jako by řídil celý vůz; a když to jde do kopce nějak pomaličku, začne vám štěkat, a hned se kola zatočí rychleji, Šulitka zapráská, Ferda i Žanka, totižto oba koně našeho dědečka, zaberou, a teď celý vůz slavně běží do vsi a vytřásá ze sebe samou krásnou vůni božího daru. Takhle, děti, jezdil Voříšek nebožtík po celé farnosti.
 
-  
+</section>
+
+<section>
 
 Ba, za jeho časů nebyly ještě žádné tyhle splašené automobily; tehdy se jezdilo pomalu, pořádně, a aby to bylo slyšet. Žádný šofér na automobilu neumí tak krásně práskat bičem jako nebožtík Šulitka, dej mu pánbůh věčnou slávu, nebo tak zamlaskat na koně, jako to uměl on; a vedle žádného šoféra nesedí moudrý Voříšek, nekučíruje, neštěká, nepouští hrůzu, nic. Takový automobil jenom přeletí a zasmrdí, a teď koukej, kde už je; ani ho vidět není pro samý prach. Inu, to Voříšek jezdil důkladněji; na půlhodiny předem lidé nastavili ucho, začichali a řekli: Aha! To už věděli, že k nim jede chleba, a postavili se na práh, aby mu dali dobrýtro. A nyčko už tedy opravdu běží dědečkův vůz do vesnice, Šulitka mlaská jazykem, Voříšek štěká na kozlíku a najednou hup, skočí Žankovi na zadek (však to byl zadek, požehnej pánbůh! široký jako stůl, čtyři lidé by na něm jíst mohli); a teď tancuje Žankovi po hřbetě, běhá od chomoutu k ocasu, od ocasu k chomoutu a hubu si roztřepit může samou radostí: Haf, haf, kluci, sákra, to jsme to sjeli, já a Žanka a Ferda; sláva! A kluci vyvalují oči; denně sem přijede chleba, a vždycky taková sláva, panebože, jako by sám císař jel! – Ba, jak říkám, tak důkladně se už dávno nejezdí jako za časů Voříškových.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_007](./resources/devatero_pohadek_007.jpg)
 
+</section>
 
+
+
+<section>
 
 A štěkat uměl Voříšek, jako když z pistole střílí. Prásk! napravo, že tamhle husy samým lekem běží, běží a zastaví se až v Polici na rynku, celé udivené, kde se tu vzaly; prásk! nalevo, že holubi z celé vesnice vyletí, zakrouží a snesou se až někde na Žaltmanu, neřkuli až na pruské straně; tak silně uměl štěkat Voříšek, psisko mizerné, a div mu pak ocas neuletěl, jak jím švihal radostí, když tohle natropil. Inu, měl nač být pyšný; tak silný hlas nemá ani generál, ba někdy ani poslanec.
 
@@ -21,11 +33,19 @@ A přece byl čas, že Voříšek neuměl ani trochu štěkat, třeba už byl v�
 
 „Karle, Karle,“ zakývala zas babička hlavou, „kdepaks nechal rozum? Kdopak bude to štíně hřát, aby nepošlo zimou?“ Ale kdež dědeček! tomu něco namítat! Sebral štěně a rovnou s ním do stáje; a panečku, tam bylo teplo, co ho Ferda a Žanka nadýchali! Oba koně už spali, ale když přišel hospodář, zvedli hlavu a točili se po něm moudrýma, laskavýma očima. „Žanko, Ferdo,“ řekl dědeček, „ať tomu Voříškovi neublížíte, víme? Já vám ho dávám do ochrany.“ A s tím položil malého Voříška před ně do slámy. Žanka si čichl k divnému tvorečkovi a cítil z něho dobré ruce hospodářovy; i pošeptal Ferdovi: „Je náš.“ A bylo to.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_008](./resources/devatero_pohadek_008.jpg)
 
+</section>
 
+
+
+<section>
 
 Tak rostl Voříšek ve stáji, krmen cumlíkem z kapesníku, až se mu otevřely oči a mohl se napít sám z misky. A teplo mu bylo jako u mámy, a tak se z něho brzo udělal takový malý uličník s hloupou hlavou, inu, štěně; neví ani, kde má zadek, na který si má sednout, sedne si na vlastní hlavu a diví se, že to tlačí; neví, co s ocasem, a protože umí počítat jen do dvou, plete si všechny své čtyři nohy; nakonec sebou údivem plácne a vyplazuje jazejček pěkně růžový jako lísteček šunky. Ale vždyť každé štěně je takové, zkrátka jako děti. Víc by vám řekli Žanka a Ferda; řekli by vám, jaké je to trápení pro starého koně, dávat pořád pozor, aby neušlápl to bláznivé psisko; to víte, lidičky, kopyto není bačkora a musí se stavět pomaloučku, polehoučku, aby něco na podlaze nezačalo bolestně kvičet a žalovat. Ba, je to kříž s dětmi, řekli by vám Žanka a Ferda.
 
@@ -43,11 +63,19 @@ Byla už noc a vyšel měsíc úplněk; a když někde se stromy rozestoupily v 
 
 Když dozpívaly, lehly si kolem jakési vznešené psí stařeny, byla to asi nějaká mocná víla nebo kouzelnice, celá stříbrná a vetchá. „Povídej nám,“ prosily všechny rusalky.
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_009](./resources/devatero_pohadek_009.jpg)
 
+</section>
 
+
+
+<section>
 
 Stará psí víla se zamyslila a povídala pak: „Budu vám vypravovat, jak stvořili psi člověka. Když Pánbůh stvořil celý svět a všechna zvířata, postavil jim v čelo psa jako nejlepšího a nejmoudřejšího. Všechna zvířata v ráji žila a umírala a zase se rodila šťastně a spokojeně, jen psi byli čím dál smutnější. Ptal se tedy Pánbůh psů: ‚Proč jste smutní, když ostatní zvířata se radují?‘ I řekl nejstarší pes: ‚Víš, Panebože, těm ostatním zvířatům nic neschází; ale my psi máme kousek rozumu tadyhle v hlavě a tím rozumem poznáváme, že je něco vyššího než my, že jsi Ty, ó Stvořiteli. Ke všemu si můžeme čuchnout, jenom k Tobě ne, a to nám psům tuze schází. Pročež, ó Pane, splň naši touhu a stvoř nám nějakého boha, ke kterému bychom si mohli čuchnout!‘ I usmál se Pánbůh a řekl: ‚Přineste mi nějaké kosti a já vám stvořím boha, ke kterému byste si mohli čuchnout.‘ I rozběhli se psi a každý přinesl nějakou kost: ten lví, ten koňskou, ten velbloudí, ten kočičí, zkrátka ode všech zvířat, jen žádnou psí kost ne; neboť žádný pes se nedotkne ani psího masa, ani psí kosti. Byla pak těch kostí velká hromada a z těch kostí udělal Bůh člověka, aby psi měli svého boha, ke kterému se může čuchnout. A protože je člověk udělán ze všech zvířecích kostí, jen ze psích ne, má vlastnosti všech zvířat: má sílu lva, pracovitost velblouda, lstivost kočky a velkodušnost koně, jen psí věrnost ne, jen psí věrnost ne!“
 
@@ -70,3 +98,5 @@ Ale v tutéž chvíli zmizely rázem všechny psí rusalky i stará psí víla. 
 Tu vzpomněl si Voříšek, že doma ho čeká aspoň chleba ve vodě nadrobený, i rozběhl se domů, co mu nohy stačily. Ale od té doby, když někdy šel zase s dědečkem po lukách nebo lesích, vzpomněl si časem na psí poklad propadlý v zemi a začal hrabat, zuřivě hrabat všema čtyřma hlubokou díru do země. A že to nejspíše prozradil také psům ze sousedství, a ti zas jiným, a jiní zase dalším, stává se všem psům na světě, že si někde v polích vzpomenou na propadlé psí království a hrabou do země díru a čuchají, čuchají, čuchají, není-li z hloubi země cítit uzený trůn bývalé psí říše.
 
 _Národní listy 25. 12. 1919_
+
+</section>

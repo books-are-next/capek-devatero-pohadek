@@ -3,9 +3,13 @@ title: Případ s rusalkami
 contentType: prose
 ---
 
+<section>
+
 „To já měl taky jeden zvláštní případ,“ promluvil doktor z Hořiček. „Jednou vám v noci spím jako dudek, když tu někdo ťuká na okno a volá: ‚Doktore! Doktore!‘
 
-  
+</section>
+
+<section>
 
 Otevřel jsem okno a řekl jsem: ‚No, copak je? Potřebuje mne někdo?‘
 
@@ -27,11 +31,19 @@ Když už jsem dlouho šel za tím hlasem, říkám si, namoutě, tohle by mohlo
 
 ‚Ach, doktore,‘ ozvalo se třesavým hláskem to světlé na zemi, ‚já jsem jen víla, jen rusalka divoženka. Mé sestry tančily, já tančila s nimi, a pak, já nevím, snad že jsem klopýtla o měsíční paprsek, snad že jsem uklouzla na tom třpytu, co se chvěje na krůpěji rosy, já nevím, co se to se mnou stalo; najednou ležím a nemohu vstát a nožička bolí, bolí, bolí –‘
 
+</section>
 
+
+
+<section>
 
 ![devatero_pohadek_057](./resources/devatero_pohadek_057.jpg)
 
+</section>
 
+
+
+<section>
 
 ‚Inu, slečno,‘ řekl jsem, ‚to asi bude fraktura čili zlomenina. To se dá do pořádku. Tak vy jste jedna z těch rusalek, co tady v údolí tancují? Vida, vida! A když se mezi vás dostane mládenec ze Žernova nebo ze Slatiny, vy ho utancujete k smrti, že? Hm hm. Víte, holčičko, že to je neplecha? Tentokrát se vám to vaše rejdění špatně vyplatilo, co? To máte z těch vašich tancovaček!‘
 
@@ -65,7 +77,9 @@ Z toho je taky vidět, že se ani strašidla, ani jiné pohádkové úkazy už n
 
 Propána, děti, vždyť my jsme při tom povídání málem zapomněli na kouzelníka Magiáše! No bodejť, nemohl si ani klápnout, ani špitnout, protože až do této chvíle mu vězí v krku švestka; může se jen strachem potit, koulet očima a myslet si, kýž by už mu ti čtyři doktoři pomohli!
 
-  
+</section>
+
+<section>
 
 „Tak, pane Magiáš,“ řekl konečně doktor z Kostelce, „teď teda přikročíme k operaci. Ale nejdřív si musíme umýt ruce, protože při chirurgii hlavní věc je čistota.“
 
@@ -106,3 +120,5 @@ Potom si Magiáš urovnal fousy a řekl: „Děkuju uctivě.“
 Co měl kouzelník Magiáš dělat? Poděkoval pěkně čtyřem doktorům, spakoval svá kouzla a odstěhoval se z Hejšoviny na poušť Saharu. Od té doby už není u nás žádný čarodějník ani černokněžník, a to je dobře; ale kouzelník Magiáš je živ dosud a přemýšlí, jak vyčarovat na poušti pole a lesy a města a vsi, – snad vy, děti, se toho dočkáte.
 
 _Lidové noviny 15. 11. 1931_
+
+</section>
