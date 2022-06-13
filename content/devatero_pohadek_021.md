@@ -70,14 +70,11 @@ Vesele klusal Vašek domů; jen natolik se zdržel v lese, co vyřezal kudlou z 
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_006](./resources/devatero_pohadek_006.jpg)
 
 </section>
-
-
 
 <section>
 

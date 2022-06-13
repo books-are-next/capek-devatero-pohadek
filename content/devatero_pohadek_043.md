@@ -16,14 +16,11 @@ Takový velkovodník v Praze, na Vltavě, je ovšem náramně bohatý a velký p
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_015](./resources/devatero_pohadek_015.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -61,15 +58,11 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_016](./resources/devatero_pohadek_016.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -85,15 +78,11 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_017](./resources/devatero_pohadek_017.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -105,15 +94,11 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_018](./resources/devatero_pohadek_018.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -135,15 +120,11 @@ Jak vidíte, zbývá pro vodníky dost výnosných živností, a proto jich tak�
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_019](./resources/devatero_pohadek_019.jpg)
 
 </section>
-
-
 
 <section>
 

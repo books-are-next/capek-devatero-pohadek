@@ -18,14 +18,11 @@ Tak ten Magiáš jednou seděl před svou slují a jedl švestky, takové ty vel
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_053](./resources/devatero_pohadek_053.jpg)
 
 </section>
-
-
 
 <section>
 

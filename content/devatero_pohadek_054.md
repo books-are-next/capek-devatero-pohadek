@@ -24,14 +24,11 @@ To řek, otočil se na patě a hajdy do lesů, nechávaje otcům benediktýnům 
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_020](./resources/devatero_pohadek_020.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -61,15 +58,11 @@ Tak přijeli na Brendy a pacholek dovedl mladého pána k smrtelnému loži tát
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_021](./resources/devatero_pohadek_021.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -135,15 +128,11 @@ Tu rozhrnula se plachta a z vozejčku vylezla stará tlustá panička, založila
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_022](./resources/devatero_pohadek_022.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -163,15 +152,11 @@ Když k němu přišel, klekl a plakal a vypravoval, že se svému otci zavázal
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_023](./resources/devatero_pohadek_023.jpg)
 
 </section>
-
-
 
 <section>
 

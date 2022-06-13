@@ -64,14 +64,11 @@ Tu bylo princezně líto kouzelníka. „Snad bych,“ řekla honem, „dala Jů
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_005](./resources/devatero_pohadek_005.jpg)
 
 </section>
-
-
 
 <section>
 

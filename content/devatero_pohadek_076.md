@@ -24,14 +24,11 @@ Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden stráž
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_030](./resources/devatero_pohadek_030.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -41,15 +38,11 @@ Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden stráž
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_031](./resources/devatero_pohadek_031.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -63,15 +56,11 @@ Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden stráž
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_032](./resources/devatero_pohadek_032.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -79,15 +68,11 @@ Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden stráž
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_033](./resources/devatero_pohadek_033.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -99,15 +84,11 @@ Tak jednou tak pokuřovali a hovořili, když se vrátil z patroly jeden stráž
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_034](./resources/devatero_pohadek_034.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -153,15 +134,11 @@ Tu vytasil strážník Vokoun šavli a sedmkrát ťal, do každé hlavy jednou, 
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_035](./resources/devatero_pohadek_035.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -181,15 +158,11 @@ Kolega Vokoun se nelekl; vytáhl služební předpisy a přečetl si, co má str
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_036](./resources/devatero_pohadek_036.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -215,15 +188,11 @@ Král murciánský se začal hrabat po kapsách a bručel: ‚To jsem blázen, v
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_037](./resources/devatero_pohadek_037.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -237,15 +206,11 @@ Když strážník Kubát na strážnici dopovídal pohádku o draku na Židovsk�
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_038](./resources/devatero_pohadek_038.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -275,15 +240,11 @@ To teda se musí říct, staral se o ni, jak náleží: krmil ji a česal ji a h
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_039](./resources/devatero_pohadek_039.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -291,15 +252,11 @@ Doma si sedl a div neplakal, jak mu toho bylo líto; říkal si, že mu jeho Ami
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_040](./resources/devatero_pohadek_040.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -313,15 +270,11 @@ Doma si sedl jako tělo bez ducha a z očí mu počaly téci slzy. ‚Teď je se
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_041](./resources/devatero_pohadek_041.jpg)
 
 </section>
-
-
 
 <section>
 

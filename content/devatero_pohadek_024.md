@@ -16,14 +16,11 @@ Ba, za jeho časů nebyly ještě žádné tyhle splašené automobily; tehdy se
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_007](./resources/devatero_pohadek_007.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -35,15 +32,11 @@ A přece byl čas, že Voříšek neuměl ani trochu štěkat, třeba už byl v�
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_008](./resources/devatero_pohadek_008.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -65,15 +58,11 @@ Když dozpívaly, lehly si kolem jakési vznešené psí stařeny, byla to asi n
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_009](./resources/devatero_pohadek_009.jpg)
 
 </section>
-
-
 
 <section>
 
