@@ -16,14 +16,11 @@ Tedy toho pana Kolbabu, povoláním listonoše a pošťáka, nějak omrzelo jeho
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_042](./resources/devatero_pohadek_042.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -61,15 +58,11 @@ Pan Kolbaba si to nenechal dvakrát říkat a sedl si mezi skřítky.
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_043](./resources/devatero_pohadek_043.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -107,15 +100,11 @@ Pan Kolbaba se podíval na ty dopisy, co mu dali do ruky, a řekl: „Neračte m
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_044](./resources/devatero_pohadek_044.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -153,15 +142,11 @@ A jednou na poště třídil dopisy, co vybral z poštovní schránky, aby je ro
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_045](./resources/devatero_pohadek_045.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -181,15 +166,11 @@ Pan Kolbaba zatím obracel v ruce ten dopis bez adresy a bručel: „Pane poštm
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_046](./resources/devatero_pohadek_046.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -201,15 +182,11 @@ Pan poštmistr se zamyslil a pak řekl: „Safra, to by šlo. Tak to zkuste, pan
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_047](./resources/devatero_pohadek_047.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -269,15 +246,11 @@ Tak pan Kolbaba chodil a chodil a všude se ptal, nežije-li v tom kraji nějak�
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_048](./resources/devatero_pohadek_048.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -317,15 +290,11 @@ Tu se ozval smutný šofér a řekl s žalostným vzdechem: „Slečna Marie Nov
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_049](./resources/devatero_pohadek_049.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -343,15 +312,11 @@ A když tak nějakou chvíli letěli rychlostí sto osmdesáti sedmi kilometrů,
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_050](./resources/devatero_pohadek_050.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -371,15 +336,11 @@ A když tak nějakou chvíli letěli rychlostí sto osmdesáti sedmi kilometrů,
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_051](./resources/devatero_pohadek_051.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -407,15 +368,11 @@ A zatímco pan Frantík dostával tu odpověď, sedl si pan Kolbaba s tím čern
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_052](./resources/devatero_pohadek_052.jpg)
 
 </section>
-
-
 
 <section>
 

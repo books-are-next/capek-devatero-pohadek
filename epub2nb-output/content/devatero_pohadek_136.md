@@ -34,14 +34,11 @@ Když už jsem dlouho šel za tím hlasem, říkám si, namoutě, tohle by mohlo
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_057](./resources/devatero_pohadek_057.jpg)
 
 </section>
-
-
 
 <section>
 

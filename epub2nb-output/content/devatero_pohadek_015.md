@@ -34,14 +34,11 @@ Rovnou pak šel pan Sidney Hall k jednomu proslulému cestovateli, který už d�
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_004](./resources/devatero_pohadek_004.jpg)
 
 </section>
-
-
 
 <section>
 

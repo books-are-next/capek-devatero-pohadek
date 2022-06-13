@@ -44,14 +44,11 @@ Buffino tedy zkusil trochu příst, ale kdežpak! vyšlo z něho takové zavrče
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_002](./resources/devatero_pohadek_002.jpg)
 
 </section>
-
-
 
 <section>
 

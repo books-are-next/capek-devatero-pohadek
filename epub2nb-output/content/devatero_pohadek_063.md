@@ -24,14 +24,11 @@ Ale o tom jsem nechtěl dnes povídat, nýbrž o tulákovi, který se jmenoval F
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_024](./resources/devatero_pohadek_024.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -67,15 +64,11 @@ Ráno přivedli tuláka před pana soudce; a vždyť to byl, namoutě, pan rada 
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_025](./resources/devatero_pohadek_025.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -117,15 +110,11 @@ Jen to dořekl, když se rozletěly dveře a v nich stál nějaký cizí pán, c
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_026](./resources/devatero_pohadek_026.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -157,15 +146,11 @@ Jen to dořekl, když se rozletěly dveře a v nich stál nějaký cizí pán, c
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_027](./resources/devatero_pohadek_027.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -209,15 +194,11 @@ Na noc si vlezl do hlídačské boudy a spal jako dudek; a když ráno vystrčil
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_028](./resources/devatero_pohadek_028.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -285,15 +266,11 @@ Na noc si vlezl do hlídačské boudy a spal jako dudek; a když ráno vystrčil
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_029](./resources/devatero_pohadek_029.jpg)
 
 </section>
-
-
 
 <section>
 

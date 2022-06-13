@@ -36,14 +36,11 @@ Kdybych měl povídat, co všecko ti vyslanci tou dlouhánskou cestou do Evropy 
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_054](./resources/devatero_pohadek_054.jpg)
 
 </section>
-
-
 
 <section>
 

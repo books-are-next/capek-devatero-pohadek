@@ -13,6 +13,7 @@ meta:
   modified: '2021-09-23T09:57:54.824Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2465-8
 readingOrder:
   - promo.html
   - devatero_pohadek_003.html
@@ -41,48 +42,51 @@ readingOrder:
   - devatero_pohadek_141.html
   - colophon.html
 tocBase:
-  - link: devatero_pohadek_005.html
-    title: Předmluva
-  - link: devatero_pohadek_006.html
-    title: Velká kočičí pohádka
-  - link: devatero_pohadek_009.html
-    title: 2. Co všechno kočka dovede
-  - link: devatero_pohadek_012.html
-    title: 3. Jak detektývové kouzelníka honili
-  - link: devatero_pohadek_015.html
-    title: 4.Kterak slavný Sidney Hall kouzelníka chytil
-  - link: devatero_pohadek_018.html
-    title: 5. Jak kouzelník ve vězení seděl
-  - link: devatero_pohadek_021.html
-    title: 6. Pohádky konec
-  - link: devatero_pohadek_024.html
-    title: Pohádka psí
-  - link: devatero_pohadek_040.html
-    title: První loupežnická pohádka
-  - link: devatero_pohadek_043.html
-    title: Pohádka vodnická
-  - link: devatero_pohadek_054.html
-    title: Druhá loupežnická pohádka
-  - link: devatero_pohadek_063.html
-    title: Pohádka tulácká
-  - link: devatero_pohadek_076.html
-    title: Velká policejní pohádka
-  - link: devatero_pohadek_101.html
-    title: Pohádka pošťácká
-  - link: devatero_pohadek_124.html
-    title: Velká pohádka doktorská
-  - link: devatero_pohadek_127.html
-    title: O princezně solimánské
-  - link: devatero_pohadek_130.html
-    title: Případ s hejkalem
-  - link: devatero_pohadek_133.html
-    title: Případ s havlovickým vodníkem
-  - link: devatero_pohadek_136.html
-    title: Případ s rusalkami
-  - link: devatero_pohadek_139.html
-    title: Ediční poznámka
-  - link: devatero_pohadek_140.html
-    title: Život a doba spisovatele Karla Čapka v datech
+  - id: section-1
+    children:
+      - link: devatero_pohadek_005.html
+        title: Předmluva
+      - link: devatero_pohadek_006.html
+        title: Velká kočičí pohádka
+      - link: devatero_pohadek_009.html
+        title: 2. Co všechno kočka dovede
+      - link: devatero_pohadek_012.html
+        title: 3. Jak detektývové kouzelníka honili
+      - link: devatero_pohadek_015.html
+        title: 4.Kterak slavný Sidney Hall kouzelníka chytil
+      - link: devatero_pohadek_018.html
+        title: 5. Jak kouzelník ve vězení seděl
+      - link: devatero_pohadek_021.html
+        title: 6. Pohádky konec
+      - link: devatero_pohadek_024.html
+        title: Pohádka psí
+      - link: devatero_pohadek_040.html
+        title: První loupežnická pohádka
+      - link: devatero_pohadek_043.html
+        title: Pohádka vodnická
+      - link: devatero_pohadek_054.html
+        title: Druhá loupežnická pohádka
+      - link: devatero_pohadek_063.html
+        title: Pohádka tulácká
+      - link: devatero_pohadek_076.html
+        title: Velká policejní pohádka
+      - link: devatero_pohadek_101.html
+        title: Pohádka pošťácká
+      - link: devatero_pohadek_124.html
+        title: Velká pohádka doktorská
+      - link: devatero_pohadek_127.html
+        title: O princezně solimánské
+      - link: devatero_pohadek_130.html
+        title: Případ s hejkalem
+      - link: devatero_pohadek_133.html
+        title: Případ s havlovickým vodníkem
+      - link: devatero_pohadek_136.html
+        title: Případ s rusalkami
+      - link: devatero_pohadek_139.html
+        title: Ediční poznámka
+      - link: devatero_pohadek_140.html
+        title: Život a doba spisovatele Karla Čapka v datech
+    isSection: true
 static:
   - style
   - scripts

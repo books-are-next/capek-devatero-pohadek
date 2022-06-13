@@ -70,14 +70,11 @@ Jakolev už napřahoval svou ohromnou pěst, ale před těma očima se mu dělal
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_003](./resources/devatero_pohadek_003.jpg)
 
 </section>
-
-
 
 <section>
 

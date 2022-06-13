@@ -38,14 +38,11 @@ Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují 
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_010](./resources/devatero_pohadek_010.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -57,15 +54,11 @@ Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují 
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_011](./resources/devatero_pohadek_011.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -77,15 +70,11 @@ Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují 
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_012](./resources/devatero_pohadek_012.jpg)
 
 </section>
-
-
 
 <section>
 
@@ -103,15 +92,11 @@ Kdepak, děti, to vy nevíte, co si ptáci povídají. Oni si totiž vypravují 
 
 </section>
 
-
-
 <section>
 
 ![devatero_pohadek_013](./resources/devatero_pohadek_013.jpg)
 
 </section>
-
-
 
 <section>
 

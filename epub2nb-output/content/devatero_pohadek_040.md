@@ -132,14 +132,11 @@ Bouře mne tu zastavila i s mým malým divadlem na cestě k nejznamenitějším
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_014](./resources/devatero_pohadek_014.jpg)
 
 </section>
-
-
 
 <section>
 

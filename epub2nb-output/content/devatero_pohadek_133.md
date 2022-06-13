@@ -30,14 +30,11 @@ Já ho vyšetřím a povídám: ‚Dědečku, to je revma; já vám dám tadyhle
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_056](./resources/devatero_pohadek_056.jpg)
 
 </section>
-
-
 
 <section>
 

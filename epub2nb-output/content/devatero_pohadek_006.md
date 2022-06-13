@@ -80,14 +80,11 @@ Nu ale, děti, přísaha je přísaha, a tak musel král zaplatit babičce, oč 
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_001](./resources/devatero_pohadek_001.jpg)
 
 </section>
-
-
 
 <section>
 

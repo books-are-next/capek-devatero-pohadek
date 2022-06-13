@@ -36,14 +36,11 @@ Ten hejkal se zasmušil a drbal se za uchem: ‚To je těžká věc, milostpane,
 </section>
 
 
-
 <section>
 
 ![devatero_pohadek_055](./resources/devatero_pohadek_055.jpg)
 
 </section>
-
-
 
 <section>
 
