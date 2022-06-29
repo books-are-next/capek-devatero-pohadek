@@ -7,7 +7,11 @@ contentType: prose
 
 ### _O tlustém pradědečkovi a loupežnících_
 
-(od Josefa Čapka)
+<div class="centered">
+
+**_(od Josefa Čapka)_**
+
+</div>
 
 Můj nebožtík pradědeček byl povoláním sekerník a vedle toho obchodoval tu a tam v koních a jetelovém semínku. Při svých devadesáti osmi letech byl, chválabohu, ještě veselý a čilý brach, kulatý a červeňoučký jako jablíčko, ba, tak neobyčejně tlustý, že ho v létě prababička ukládala do sklepa, protože by se nahoře horkem rozplynul. Usadil se tedy pěkně dole ve sklepě, popíjel pivo s cukrem a těšil se na chladnější počasí.
 
