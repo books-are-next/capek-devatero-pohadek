@@ -8,13 +8,14 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-devatero-pohadek-ed6d02d",
-  "revision": "ed6d02d",
+  "identifier": "capek-devatero-pohadek-6948d4a",
+  "revision": "6948d4a",
   "readingOrder": [
     "promo.html",
     "devatero_pohadek_003.html",
     "devatero_pohadek_005.html",
     "devatero_pohadek_006.html",
+    "devatero_pohadek_008.html",
     "devatero_pohadek_009.html",
     "devatero_pohadek_012.html",
     "devatero_pohadek_015.html",
@@ -29,18 +30,14 @@
     "devatero_pohadek_076.html",
     "devatero_pohadek_101.html",
     "devatero_pohadek_124.html",
-    "devatero_pohadek_127.html",
-    "devatero_pohadek_130.html",
-    "devatero_pohadek_133.html",
-    "devatero_pohadek_136.html",
     "devatero_pohadek_139.html",
     "devatero_pohadek_140.html",
     "devatero_pohadek_141.html",
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:55:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978152349
+    "date": "Wed Jun 29 2022 12:56:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656507388176
   },
   "documents": [
     {
@@ -98,18 +95,38 @@
     {
       "title": "Velká kočičí pohádka",
       "file": "devatero_pohadek_006.html",
-      "words": 1935,
-      "chars": 11362,
-      "ideas": 55,
+      "words": 1299,
+      "chars": 7630,
+      "ideas": 36,
       "role": "chapter",
       "order": 3,
       "prev": "devatero_pohadek_005.html",
-      "next": "devatero_pohadek_009.html",
+      "next": "devatero_pohadek_008.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Velká kočičí pohádka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Devatero pohádek",
+      "file": "devatero_pohadek_008.html",
+      "words": 636,
+      "chars": 3732,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 4,
+      "prev": "devatero_pohadek_006.html",
+      "next": "devatero_pohadek_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
           "id": null,
           "children": []
         }
@@ -122,8 +139,8 @@
       "chars": 8948,
       "ideas": 36,
       "role": "chapter",
-      "order": 4,
-      "prev": "devatero_pohadek_006.html",
+      "order": 5,
+      "prev": "devatero_pohadek_008.html",
       "next": "devatero_pohadek_012.html",
       "toc": [
         {
@@ -142,7 +159,7 @@
       "chars": 13324,
       "ideas": 80,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "devatero_pohadek_009.html",
       "next": "devatero_pohadek_015.html",
       "toc": [
@@ -162,7 +179,7 @@
       "chars": 27346,
       "ideas": 115,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "devatero_pohadek_012.html",
       "next": "devatero_pohadek_018.html",
       "toc": [
@@ -182,7 +199,7 @@
       "chars": 9349,
       "ideas": 70,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "devatero_pohadek_015.html",
       "next": "devatero_pohadek_021.html",
       "toc": [
@@ -202,7 +219,7 @@
       "chars": 6421,
       "ideas": 64,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "devatero_pohadek_018.html",
       "next": "devatero_pohadek_024.html",
       "toc": [
@@ -222,7 +239,7 @@
       "chars": 15132,
       "ideas": 28,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "devatero_pohadek_021.html",
       "next": "devatero_pohadek_031.html",
       "toc": [
@@ -242,7 +259,7 @@
       "chars": 11334,
       "ideas": 32,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "devatero_pohadek_024.html",
       "next": "devatero_pohadek_040.html",
       "toc": [
@@ -262,7 +279,7 @@
       "chars": 23035,
       "ideas": 121,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "devatero_pohadek_031.html",
       "next": "devatero_pohadek_043.html",
       "toc": [
@@ -282,7 +299,7 @@
       "chars": 9834,
       "ideas": 54,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "devatero_pohadek_040.html",
       "next": "devatero_pohadek_054.html",
       "toc": [
@@ -302,7 +319,7 @@
       "chars": 17200,
       "ideas": 73,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "devatero_pohadek_043.html",
       "next": "devatero_pohadek_063.html",
       "toc": [
@@ -322,7 +339,7 @@
       "chars": 20687,
       "ideas": 118,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "devatero_pohadek_054.html",
       "next": "devatero_pohadek_076.html",
       "toc": [
@@ -342,7 +359,7 @@
       "chars": 26485,
       "ideas": 90,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "devatero_pohadek_063.html",
       "next": "devatero_pohadek_101.html",
       "toc": [
@@ -362,7 +379,7 @@
       "chars": 23085,
       "ideas": 142,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "devatero_pohadek_076.html",
       "next": "devatero_pohadek_124.html",
       "toc": [
@@ -382,94 +399,14 @@
       "chars": 5157,
       "ideas": 17,
       "role": "chapter",
-      "order": 17,
-      "prev": "devatero_pohadek_101.html",
-      "next": "devatero_pohadek_127.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Velká pohádka doktorská",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "O princezně solimánské",
-      "file": "devatero_pohadek_127.html",
-      "words": 2211,
-      "chars": 12942,
-      "ideas": 62,
-      "role": "chapter",
       "order": 18,
-      "prev": "devatero_pohadek_124.html",
-      "next": "devatero_pohadek_130.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "O princezně solimánské",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Případ s hejkalem",
-      "file": "devatero_pohadek_130.html",
-      "words": 533,
-      "chars": 2968,
-      "ideas": 16,
-      "role": "chapter",
-      "order": 19,
-      "prev": "devatero_pohadek_127.html",
-      "next": "devatero_pohadek_133.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Případ s hejkalem",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Případ s havlovickým vodníkem",
-      "file": "devatero_pohadek_133.html",
-      "words": 535,
-      "chars": 2967,
-      "ideas": 17,
-      "role": "chapter",
-      "order": 20,
-      "prev": "devatero_pohadek_130.html",
-      "next": "devatero_pohadek_136.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Případ s havlovickým vodníkem",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Případ s rusalkami",
-      "file": "devatero_pohadek_136.html",
-      "words": 1559,
-      "chars": 8688,
-      "ideas": 48,
-      "role": "chapter",
-      "order": 21,
-      "prev": "devatero_pohadek_133.html",
+      "prev": "devatero_pohadek_101.html",
       "next": "devatero_pohadek_139.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Případ s rusalkami",
+          "name": "Velká pohádka doktorská",
           "id": null,
           "children": []
         }
@@ -482,8 +419,8 @@
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 22,
-      "prev": "devatero_pohadek_136.html",
+      "order": 19,
+      "prev": "devatero_pohadek_124.html",
       "next": "devatero_pohadek_140.html",
       "toc": [
         {
@@ -502,7 +439,7 @@
       "chars": 2026,
       "ideas": 31,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "devatero_pohadek_139.html",
       "next": "devatero_pohadek_141.html",
       "toc": [
@@ -522,7 +459,7 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "devatero_pohadek_140.html",
       "next": "colophon.html",
       "toc": [
@@ -558,14 +495,14 @@
   ],
   "totals": {
     "all": {
-      "words": 45433,
-      "chars": 262062,
-      "ideas": 1373
+      "words": 40595,
+      "chars": 234497,
+      "ideas": 1230
     },
     "chapters": {
-      "words": 45283,
-      "chars": 261051,
-      "ideas": 1350
+      "words": 40445,
+      "chars": 233486,
+      "ideas": 1207
     }
   }
 }
