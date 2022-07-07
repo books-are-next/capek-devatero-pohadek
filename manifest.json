@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-devatero-pohadek-6948d4a",
-  "revision": "6948d4a",
+  "identifier": "capek-devatero-pohadek-838d9fd",
+  "revision": "838d9fd",
   "readingOrder": [
     "promo.html",
     "devatero_pohadek_003.html",
@@ -33,11 +33,11 @@
     "devatero_pohadek_139.html",
     "devatero_pohadek_140.html",
     "devatero_pohadek_141.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 29 2022 12:56:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656507388176
+    "date": "Thu Jul 07 2022 08:18:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181888076
   },
   "documents": [
     {
@@ -146,7 +146,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "2. Co všechno kočka dovede",
+          "name": "2. Co všechno kočka dovede",
           "id": null,
           "children": []
         }
@@ -206,7 +206,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "5. Jak kouzelník ve vězení seděl",
+          "name": "5. Jak kouzelník ve vězení seděl",
           "id": null,
           "children": []
         }
@@ -446,7 +446,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -461,7 +461,7 @@
       "role": "chapter",
       "order": 21,
       "prev": "devatero_pohadek_140.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -474,11 +474,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 144,
-      "chars": 973,
+      "chars": 972,
       "ideas": 19,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "devatero_pohadek_141.html",
       "next": null,
@@ -496,7 +496,7 @@
   "totals": {
     "all": {
       "words": 40595,
-      "chars": 234497,
+      "chars": 234496,
       "ideas": 1230
     },
     "chapters": {

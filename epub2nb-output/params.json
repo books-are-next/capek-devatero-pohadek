@@ -79,7 +79,7 @@
             "filename": "devatero_pohadek_004.md",
             "xhtml": "devatero_pohadek_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -1759,7 +1759,7 @@
             "filename": "devatero_pohadek_142.md",
             "xhtml": "devatero_pohadek_142.html",
             "id": 141,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -2947,6 +2947,6 @@
       "user": "books-are-next",
       "repo": "capek-devatero-pohadek"
     },
-    "generatedAt": 1656507301892
+    "generatedAt": 1657181687248
   }
 }
