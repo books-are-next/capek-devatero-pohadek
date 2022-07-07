@@ -37,7 +37,7 @@ readingOrder:
   - devatero_pohadek_139.html
   - devatero_pohadek_140.html
   - devatero_pohadek_141.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
