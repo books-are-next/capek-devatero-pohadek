@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-devatero-pohadek-5a82be9",
-  "revision": "5a82be9",
+  "identifier": "capek-devatero-pohadek-39ae41e",
+  "revision": "39ae41e",
   "readingOrder": [
     "promo.html",
     "devatero_pohadek_003.html",
@@ -36,8 +36,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:19:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486370213
+    "date": "Sat Oct 01 2022 15:50:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639415429
   },
   "documents": [
     {
