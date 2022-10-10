@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-devatero-pohadek-7367bdc",
-  "revision": "7367bdc",
+  "identifier": "capek-devatero-pohadek-d5f3252",
+  "revision": "d5f3252",
   "readingOrder": [
     "promo.html",
     "devatero_pohadek_003.html",
@@ -36,8 +36,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:57:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151077668
+    "date": "Mon Oct 10 2022 15:50:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417012798
   },
   "documents": [
     {
@@ -475,9 +475,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 142,
-      "chars": 973,
-      "ideas": 17,
+      "words": 139,
+      "chars": 953,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "devatero_pohadek_141.html",
@@ -495,9 +495,9 @@
   ],
   "totals": {
     "all": {
-      "words": 40593,
-      "chars": 234497,
-      "ideas": 1228
+      "words": 40590,
+      "chars": 234477,
+      "ideas": 1227
     },
     "chapters": {
       "words": 40445,

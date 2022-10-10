@@ -6,14 +6,13 @@ title: Tiráž
 **Devatero pohádek**  
 a ještě jedna jako přívažek od Josefa Čapka  
 Edice Bratři Čapkové  
-Ilustrace Josef Čapek  
 Obálka Alena Kubíková  
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 2. opravené vydání  
 ISBN 978-80-274-2465-8 (webová kniha)  
-V MKP 1. elektronické vydání z 7. 10. 2022.
+V MKP 1. elektronické vydání z 10. 10. 2022.
 
 ***
 
