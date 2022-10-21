@@ -12,7 +12,7 @@ Vydala **Městská knihovna v Praze**
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 2. opravené vydání  
 ISBN 978-80-274-2465-8 (webová kniha)  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
